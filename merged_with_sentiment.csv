@@ -1,0 +1,1001 @@
+product_id,product_name,price,stock,category,date,review_text,sentiment_score,sentiment_label
+1,Coconut Curry Sauce,3.89,13,Food - Sauces,01-11-2025,i was disappointed with the pasta. it tasted terrible.,-0.7351,Negative
+2,Coconut Yogurt,3.89,24,Food - Dairy Alternatives,01-10-2025,the soup was perfect and the service was polite. highly recommend!,0.7773,Positive
+3,Thyme,2.49,266,Food - Fresh Produce,8/27/2025,worst experience ever. the waiter was forgetful and the tacos was stale.,-0.7351,Negative
+4,Blue Corn Tortilla Chips,3.49,7,Food - Snacks,06-04-2025,absolutely loved it! the salad was fresh.,0.7773,Positive
+5,Vegan chocolate chip cookies,4.79,416,Food - Bakery,07-09-2025,"service was polite, but the food took too long to arrive.",0.0,Neutral
+6,Knitted Infinity Scarf,29.99,115,Clothing - Accessories,12-06-2025,"service was friendly, but the food took too long to arrive.",0.2732,Positive
+7,Fitness Jump Rope with LCD Counter,15.99,0,Fitness,10-10-2025,i was disappointed with the steak. it tasted cold.,-0.4767,Negative
+8,Multi-Tool,39.99,703,Outdoor,3/15/2025,the curry was fresh and the service was quick. highly recommend!,0.6581,Positive
+9,Self-Cleaning Water Bottle,49.99,923,Fitness,10/29/2025,"i found the cake to be salty, but my partner liked theirs.",0.5719,Positive
+10,Marinated Artichokes,3.79,5587,Food - Vegetables,11/27/2025,quick delivery and the sandwich was still hot and fantastic.,0.5574,Positive
+11,Sriracha Hot Chili Sauce,2.99,85,Food - Condiments,2/15/2025,"great atmosphere, but the fries was just okay.",0.5994,Positive
+12,Chicken Broth,2.49,660,Food - Canned Goods,11/21/2025,"the staff was forgetful, but the coffee was surprisingly amazing.",0.8151,Positive
+13,Ramen Noodle Soup Cups,1.29,2940,Food - Prepared Meals,2/25/2025,"everything was excellent, from the burger to the drinks.",0.5719,Positive
+14,Insulated Sport Tumbler,22.99,260,Fitness,11-11-2025,"great atmosphere, but the burger was just okay.",0.5994,Positive
+15,Solar Charger,39.99,745,Electronics,09-07-2025,"i found the fries to be salty, but my partner liked theirs.",0.5719,Positive
+16,Chocolate Fudge Brownie Mix,2.99,5741,Food - Baking,8/31/2025,absolutely loved it! the coffee was fresh.,0.7773,Positive
+17,Wrist Support Brace,19.99,1646,Health,02-10-2025,"service was friendly, but the food took too long to arrive.",0.2732,Positive
+18,Kale Salad Kit,4.99,107,Food - Salads,03-04-2025,"i found the pizza to be salty, but my partner liked theirs.",0.5719,Positive
+19,Self-Watering Planter,24.99,0,Garden,2/24/2025,i was disappointed with the burger. it tasted undercooked.,-0.4767,Negative
+20,Apple Pie Filling,3.49,66,Food - Canned Goods,05-02-2025,worst experience ever. the waiter was slow and the steak was salty.,-0.6249,Negative
+21,Frozen Broccoli,2.49,674,Food - Frozen,7/31/2025,don't waste your money. the cake is bland and small portions.,0.3252,Positive
+22,Canvas High-Top Sneakers,49.99,50,Clothing - Footwear,8/28/2025,"the staff was forgetful, but the tacos was surprisingly mouth-watering.",0.3071,Positive
+23,Active Racerback Tank,24.99,311,Clothing - Tops,12/15/2025,quick delivery and the tacos was still hot and amazing.,0.5859,Positive
+24,Balsamic Vinaigrette,2.69,2126,Food - Dressings,4/22/2025,worst experience ever. the waiter was inattentive and the pasta was undercooked.,-0.6249,Negative
+25,Turmeric Ginger Tea,3.29,135,Food - Beverages,10/31/2025,worst experience ever. the waiter was inattentive and the tacos was overpriced.,-0.6249,Negative
+26,Stainless Steel Cutlery Set,29.99,38,Kitchen,9/17/2025,absolutely loved it! the cake was delicious.,0.8475,Positive
+27,Collapsible Storage Crates,18.99,1314,Home,7/25/2025,worst experience ever. the waiter was unprofessional and the cake was cold.,-0.8126,Negative
+28,Children's Educational Workbook,12.99,364,Books,08-11-2025,"everything was perfect, from the tacos to the drinks.",0.5719,Positive
+29,Vegetable Samosas,4.99,7130,Food - Frozen,8/14/2025,don't waste your money. the cake is cold and small portions.,0.3252,Positive
+30,Vegan Tacos,7.49,128,Food - Frozen Foods,6/30/2025,absolutely loved it! the sandwich was fresh.,0.7773,Positive
+31,Electric Griddle with Removable Plates,59.99,138,Kitchen,1/21/2025,worst experience ever. the waiter was unprofessional and the steak was disappointing.,-0.891,Negative
+32,Mini Hand Gesture Drone,29.99,2661,Toys,12/22/2024,"i found the cake to be stale, but my partner liked theirs.",0.5719,Positive
+33,Egg Noodles,2.29,909,Food - Grains,11-01-2025,"service was friendly, but the food took too long to arrive.",0.2732,Positive
+34,Portable Solar Generator,399.99,30,Outdoor,09-10-2025,i was disappointed with the curry. it tasted stale.,-0.4767,Negative
+35,Tortilla Chips,2.99,54,Food - Snacks,3/28/2025,"service was quick, but the food took too long to arrive.",0.0,Neutral
+36,Wireless Charging Station,39.99,8,Electronics,8/23/2025,"great atmosphere, but the soup was just okay.",0.5994,Positive
+37,Magic Color-Changing Mug,14.99,4735,Kitchen,06-06-2025,"everything was perfect, from the burger to the drinks.",0.5719,Positive
+38,Dark Chocolate Bars,2.99,3734,Food - Snacks,10/23/2025,don't waste your money. the coffee is stale and small portions.,0.3252,Positive
+39,Portable Charcoal Grill,89.99,3263,Outdoor,6/26/2025,the fries was fresh and the service was friendly. highly recommend!,0.8217,Positive
+40,Black Olives,1.99,3290,Food - Canned Goods,11/29/2025,quick delivery and the tacos was still hot and mouth-watering.,0.0,Neutral
+41,Bock Beer Mustard,2.29,2021,Food - Condiments,1/26/2025,"great atmosphere, but the burger was just okay.",0.5994,Positive
+42,Yoga Mat Carrier,12.99,1907,Fitness,6/19/2025,the sandwich was amazing and the service was attentive. highly recommend!,0.7836,Positive
+43,Ranch Dressing,2.59,435,Food - Condiments,1/21/2025,"great atmosphere, but the salad was just okay.",0.5994,Positive
+44,Winter Knit Beanie,14.99,7332,Clothing,04-08-2025,"the staff was slow, but the coffee was surprisingly amazing.",0.8402,Positive
+45,Herbal Tea Set,19.99,100,Food,04-12-2025,absolutely loved it! the pizza was flavorful.,0.6689,Positive
+46,Hot Salsa,2.29,1182,Food - Dips,8/16/2025,i was disappointed with the ramen. it tasted stale.,-0.4767,Negative
+47,Sweet Potato Tots,4.29,2797,Food - Frozen Foods,10/14/2025,"everything was fantastic, from the tacos to the drinks.",0.5574,Positive
+48,Vegetable Spring Rolls,6.49,164,Food - Frozen Foods,3/16/2025,absolutely loved it! the burger was delicious.,0.8475,Positive
+49,Portable Electric Fan,24.99,1646,Home,4/23/2025,"great atmosphere, but the ramen was just okay.",0.5994,Positive
+50,Oats,3.29,0,Food - Grains,02-12-2025,absolutely loved it! the coffee was flavorful.,0.6689,Positive
+51,Coffee Grinder,39.99,305,Kitchen,10-08-2025,absolutely loved it! the coffee was amazing.,0.8513,Positive
+52,Garlic Parmesan Wings,8.99,825,Food - Frozen Foods,3/17/2025,"service was quick, but the food took too long to arrive.",0.0,Neutral
+53,Vegetarian Stuffed Peppers,4.99,0,Food - Prepared Foods,02-12-2025,"service was polite, but the food took too long to arrive.",0.0,Neutral
+54,Pepper Jack Cheese Slices,3.49,353,Food - Dairy,5/29/2025,absolutely loved it! the tacos was delicious.,0.8475,Positive
+55,Magnetic Chess Set,19.99,374,Toys,4/23/2025,"everything was mouth-watering, from the salad to the drinks.",0.0,Neutral
+56,Wall Planner,19.99,9,Office,8/14/2025,"service was friendly, but the food took too long to arrive.",0.2732,Positive
+57,DIY Candle Making Kit,22.99,6,Crafts,10/19/2025,worst experience ever. the waiter was unprofessional and the pasta was terrible.,-0.8885,Negative
+58,Faux Leather Leggings,49.99,164,Clothing - Pants,05-11-2025,i was disappointed with the tacos. it tasted salty.,-0.4767,Negative
+59,Lemon Herb Quinoa,3.49,927,Food - Grains,02-01-2025,quick delivery and the coffee was still hot and flavorful.,0.0,Neutral
+60,Mini Air Purifier,49.99,694,Health,12/21/2024,the burger was amazing and the service was welcoming. highly recommend!,0.8685,Positive
+61,Peach Salsa,3.29,1430,Food - Dips,9/26/2025,quick delivery and the tacos was still hot and perfect.,0.5719,Positive
+62,Oven Mitts,15.99,76,Kitchen,4/25/2025,"the staff was rude, but the cake was surprisingly mouth-watering.",0.2023,Positive
+63,Hair Dryer,39.99,597,Beauty,7/26/2025,"great atmosphere, but the sandwich was just okay.",0.5994,Positive
+64,Almond Butter Cups,3.29,26,Food - Snacks,02-11-2025,"i found the curry to be greasy, but my partner liked theirs.",0.5719,Positive
+65,Tomatillo Salsa,3.29,160,Food - Condiments,12/21/2024,"service was friendly, but the food took too long to arrive.",0.2732,Positive
+66,Garlic Butter Sauce,3.59,670,Food - Condiments,02-11-2025,don't waste your money. the ramen is cold and small portions.,0.3252,Positive
+67,Non-Stick Crepe Pan,29.99,118,Kitchen,03-06-2025,don't waste your money. the coffee is stale and small portions.,0.3252,Positive
+68,Gardening Fairy Figurines,14.99,1587,Garden,04-03-2025,"i found the tacos to be disappointing, but my partner liked theirs.",0.3818,Positive
+69,Orange Ginger Vinaigrette,3.99,770,Food - Condiments,08-08-2025,"the staff was forgetful, but the ramen was surprisingly excellent.",0.8074,Positive
+70,Italian Meatballs,8.49,12,Food - Meat,7/19/2025,"the staff was forgetful, but the coffee was surprisingly amazing.",0.8151,Positive
+71,Magnetic Phone Car Mount,14.99,3,Automotive,04-05-2025,"great atmosphere, but the sandwich was just okay.",0.5994,Positive
+72,Handheld Vacuum,79.99,220,Home Appliances,04-08-2025,a hidden gem! best ramen i have had in a long time.,0.6696,Positive
+73,Teriyaki Sauce,2.99,1010,Food - Condiments,01-12-2025,a hidden gem! best fries i have had in a long time.,0.6696,Positive
+74,Handheld Shower Head,34.99,2223,Bathroom,10/18/2025,i was disappointed with the soup. it tasted bland.,-0.4767,Negative
+75,Chocolate Protein Powder,24.99,347,Food - Supplements,11/17/2025,"i found the burger to be salty, but my partner liked theirs.",0.5719,Positive
+76,Low-Fat Yogurt,3.29,1477,Food - Dairy,09-02-2025,"the staff was slow, but the salad was surprisingly mouth-watering.",0.4215,Positive
+77,Maple Syrup,6.99,0,Food - Condiments,03-05-2025,"everything was mouth-watering, from the burger to the drinks.",0.0,Neutral
+78,Pet Travel Bowl,10.99,3707,Pets,11/18/2025,"i found the soup to be salty, but my partner liked theirs.",0.5719,Positive
+79,Sweet Potato Chips,2.99,4452,Food - Snacks,1/28/2025,worst experience ever. the waiter was unprofessional and the soup was terrible.,-0.8885,Negative
+80,Mesh Sports Leggings,39.99,104,Clothing - Activewear,5/20/2025,"everything was delicious, from the tacos to the drinks.",0.5719,Positive
+81,Luxury Bath Robe,49.99,75,Clothing,10-12-2025,"everything was excellent, from the coffee to the drinks.",0.5719,Positive
+82,Spiralizer,22.99,170,Kitchen,11/22/2025,worst experience ever. the waiter was forgetful and the fries was bland.,-0.7351,Negative
+83,Fettuccine Alfredo Dinner Kit,5.49,117,Food - Prepared Meals,08-05-2025,"great atmosphere, but the soup was just okay.",0.5994,Positive
+84,Over-Ear Headphones,59.99,0,Audio,01-10-2025,"everything was delicious, from the salad to the drinks.",0.5719,Positive
+85,Stick Vacuums Cleaner,129.99,1301,Home Appliances,8/17/2025,"great atmosphere, but the ramen was just okay.",0.5994,Positive
+86,Chickpea Salad Deluxe,4.29,760,Food - Produce,8/20/2025,quick delivery and the sushi was still hot and fantastic.,0.5574,Positive
+87,Insulated Wine Tote,24.99,59,Accessories,4/19/2025,"great atmosphere, but the burger was just okay.",0.5994,Positive
+88,Cranberry Lime Sparkling Water,1.5,2317,Food - Beverages,1/19/2025,"i found the soup to be disappointing, but my partner liked theirs.",0.3818,Positive
+89,Low-Fat Cottage Cheese,2.99,1213,Food - Dairy,2/20/2025,the coffee was mouth-watering and the service was attentive. highly recommend!,0.474,Positive
+90,Roasted Vegetable Medley,3.99,1476,Food - Frozen Foods,9/27/2025,don't waste your money. the tacos is cold and small portions.,0.3252,Positive
+91,Mushroom Soup (canned),2.49,325,Food - Canned Goods,7/27/2025,"i found the fries to be terrible, but my partner liked theirs.",0.3919,Positive
+92,Electric Air Pump,29.99,505,Outdoor,7/23/2025,"service was quick, but the food took too long to arrive.",0.0,Neutral
+93,Mango Chilli Sauce,3.99,1063,Food - Condiments,12-08-2025,"i found the ramen to be overpriced, but my partner liked theirs.",0.5719,Positive
+94,Portable Water Filter,29.99,43,Outdoor,7/25/2025,a hidden gem! best fries i have had in a long time.,0.6696,Positive
+95,Luxury Rolling Makeup Case,99.99,30,Beauty,12/17/2024,quick delivery and the cake was still hot and perfect.,0.5719,Positive
+96,Baked Mac and Cheese,5.99,112,Food - Frozen Foods,12-09-2025,worst experience ever. the waiter was slow and the steak was overpriced.,-0.6249,Negative
+97,Dark Chocolate Covered Almonds,7.19,1670,Food - Snacks,10-12-2025,"the staff was slow, but the salad was surprisingly mouth-watering.",0.4215,Positive
+98,Fitness Jump Rope with LCD Counter,15.99,633,Fitness,3/25/2025,don't waste your money. the cake is greasy and small portions.,0.3252,Positive
+99,Wrist Support Brace,19.99,256,Health,10/21/2025,"service was quick, but the food took too long to arrive.",0.0,Neutral
+100,Organic Black Rice,3.59,6070,Food - Grains,06-10-2025,"the staff was inattentive, but the salad was surprisingly delicious.",0.8338,Positive
+101,Peanut Butter Protein Balls,5.29,3318,Food - Snacks,03-01-2025,"great atmosphere, but the steak was just okay.",0.5994,Positive
+102,Body Pillow Case,14.99,669,Home,12/24/2024,a hidden gem! best fries i have had in a long time.,0.6696,Positive
+103,Dishwasher Safe Cutting Board,22.99,784,Kitchen,11/18/2025,worst experience ever. the waiter was slow and the pasta was bland.,-0.6249,Negative
+104,Bluetooth Sleep Headphones,29.99,50,Audio,2/21/2025,"everything was amazing, from the coffee to the drinks.",0.5859,Positive
+105,Cacao Nibs,6.49,870,Food - Baking,5/28/2025,don't waste your money. the ramen is cold and small portions.,0.3252,Positive
+106,Ice Cream Scoop,12.99,570,Kitchen,11/25/2025,"great atmosphere, but the pizza was just okay.",0.5994,Positive
+107,Children's Educational Puzzle,19.99,52,Toys,02-01-2025,a hidden gem! best fries i have had in a long time.,0.6696,Positive
+108,Sweet Potato Tots,4.29,2096,Food - Frozen Foods,8/29/2025,"i found the steak to be greasy, but my partner liked theirs.",0.5719,Positive
+109,Digital Food Scale,22.99,69,Kitchen,04-11-2025,"i found the salad to be disappointing, but my partner liked theirs.",0.3818,Positive
+110,Bamboo Utensil Set,14.99,3206,Kitchen,8/20/2025,"i found the tacos to be bland, but my partner liked theirs.",0.5719,Positive
+111,Multicolored LED Strip Lights,29.99,726,Home,12-10-2025,"everything was fresh, from the pasta to the drinks.",0.3182,Positive
+112,Almond Flour Brownies,5.99,5507,Food - Baking,08-01-2025,absolutely loved it! the tacos was flavorful.,0.6689,Positive
+113,Basil-infused Olive Oil,6.99,31,Food - Cooking Oil,11/28/2025,"everything was flavorful, from the soup to the drinks.",0.0,Neutral
+114,Cordless Electric Screwdriver,39.99,49,Tools,05-06-2025,"great atmosphere, but the fries was just okay.",0.5994,Positive
+115,Infrared Thermometer Gun,29.99,16,Health,2/26/2025,quick delivery and the steak was still hot and perfect.,0.5719,Positive
+116,Fried Rice,4.29,584,Food - Frozen Foods,11-02-2025,"i found the pasta to be stale, but my partner liked theirs.",0.5719,Positive
+117,Peach Mango Smoothie,3.49,1592,Food - Beverages,1/17/2025,don't waste your money. the burger is bland and small portions.,0.3252,Positive
+118,Dish Soap Dispenser,18.99,588,Kitchen,3/23/2025,"i found the cake to be undercooked, but my partner liked theirs.",0.5719,Positive
+119,Kids' Art Supplies Kit,29.99,361,Toys,9/30/2025,a hidden gem! best pizza i have had in a long time.,0.6696,Positive
+120,Bird Feeder,24.99,820,Outdoor,01-03-2025,don't waste your money. the cake is cold and small portions.,0.3252,Positive
+121,Kitchen Knife Sharpening System,39.99,1026,Kitchen,05-02-2025,absolutely loved it! the burger was amazing.,0.8513,Positive
+122,Sweet Chili Dipping Sauce,2.99,0,Food - Condiments,12-02-2025,"everything was flavorful, from the burger to the drinks.",0.0,Neutral
+123,Collapsible Colander,14.99,33,Kitchen,11/17/2025,"the staff was slow, but the cake was surprisingly fantastic.",0.8271,Positive
+124,Digital Photo Frame,79.99,1477,Home,11/21/2025,"the staff was slow, but the ramen was surprisingly delicious.",0.8338,Positive
+125,Spicy Thai Noodles,1.99,859,Food - Frozen Meals,01-10-2025,worst experience ever. the waiter was forgetful and the pizza was greasy.,-0.7351,Negative
+126,Car Diagnostic Scanner,49.99,345,Automotive,08-04-2025,i was disappointed with the sandwich. it tasted salty.,-0.4767,Negative
+127,Chili Powder,2.09,1034,Food - Spices,4/13/2025,the steak was fresh and the service was quick. highly recommend!,0.6581,Positive
+128,Dark Chocolate Almond Butter Cups,4.99,272,Food - Snacks,1/18/2025,"i found the fries to be disappointing, but my partner liked theirs.",0.3818,Positive
+129,Black Bean Soup,3.49,70,Food - Soups,4/17/2025,worst experience ever. the waiter was inattentive and the sandwich was salty.,-0.6249,Negative
+130,Yoga Mat Carrier,12.99,1077,Fitness,1/30/2025,don't waste your money. the pizza is overpriced and small portions.,0.3252,Positive
+131,Pasta Portion Control Measure,9.99,100,Kitchen,5/20/2025,"great atmosphere, but the ramen was just okay.",0.5994,Positive
+132,Zesty Cilantro Lime Dressing,3.29,71,Food - Condiments,1/13/2025,worst experience ever. the waiter was inattentive and the salad was bland.,-0.6249,Negative
+133,Cocktail Shaker and Mixing Glass Set,39.99,1653,Kitchen,5/16/2025,don't waste your money. the sandwich is stale and small portions.,0.3252,Positive
+134,Mobile Workbench,199.99,13,Tools,8/13/2025,i was disappointed with the sandwich. it tasted stale.,-0.4767,Negative
+135,Wireless Car Charger,24.99,6,Automotive,08-06-2025,"everything was delicious, from the ramen to the drinks.",0.5719,Positive
+136,Teriyaki Chicken Stir-Fry,6.99,1563,Food - Frozen Foods,04-09-2025,"service was attentive, but the food took too long to arrive.",0.0,Neutral
+137,Chickpea Pancakes,4.99,304,Food - Frozen,8/25/2025,absolutely loved it! the burger was amazing.,0.8513,Positive
+138,Noise Cancelling Ear Muffs,24.99,4500,Safety,08-10-2025,don't waste your money. the fries is terrible and small portions.,-0.1945,Negative
+139,Lightweight Rain Jacket,79.99,811,Clothing - Outerwear,10-12-2025,"everything was fantastic, from the soup to the drinks.",0.5574,Positive
+140,Lentils,2.99,542,Food - Grains,10-06-2025,"everything was fresh, from the salad to the drinks.",0.3182,Positive
+141,Pesto Genovese,6.49,377,Food - Condiments,12/30/2024,don't waste your money. the steak is terrible and small portions.,-0.1945,Negative
+142,Snap-On Tupperware Set,34.99,0,Kitchen,02-01-2025,"everything was mouth-watering, from the salad to the drinks.",0.0,Neutral
+143,High-Quality Yoga Mat,34.99,6070,Fitness,10/18/2025,quick delivery and the fries was still hot and mouth-watering.,0.0,Neutral
+144,Slingback Sandals,29.99,39,Clothing - Footwear,9/22/2025,the steak was mouth-watering and the service was polite. highly recommend!,0.474,Positive
+145,Black Bean Salsa,3.49,19,Food - Snacks,1/20/2025,worst experience ever. the waiter was inattentive and the ramen was terrible.,-0.802,Negative
+146,Pistachios,6.99,10,Food - Nuts,5/28/2025,"i found the steak to be salty, but my partner liked theirs.",0.5719,Positive
+147,Electric Griddle,54.99,35,Kitchen,8/20/2025,worst experience ever. the waiter was slow and the curry was overpriced.,-0.6249,Negative
+148,Stuffed Bell Peppers,5.99,60,Food - Frozen Meals,9/20/2025,don't waste your money. the sandwich is disappointing and small portions.,-0.2187,Negative
+149,Organic Chia Seeds,7.99,7141,Food - Health Foods,3/14/2025,absolutely loved it! the fries was fresh.,0.7773,Positive
+150,Chocolate Chip Pancake Mix,3.99,374,Food - Bakery,12-07-2025,worst experience ever. the waiter was inattentive and the tacos was terrible.,-0.802,Negative
+151,Chocolate Chip Energy Balls,3.99,2989,Food - Snacks,11/14/2025,a hidden gem! best fries i have had in a long time.,0.6696,Positive
+152,Stuffed Bell Peppers,5.99,42,Food - Frozen Meals,02-11-2025,the pasta was mouth-watering and the service was attentive. highly recommend!,0.474,Positive
+153,Chocolate Chip Energy Balls,3.99,120,Food - Snacks,10/31/2025,"service was welcoming, but the food took too long to arrive.",0.2382,Positive
+154,Caramelized Onion Dip Mix,2.29,25,Food - Snacks,11/21/2025,"i found the sushi to be overpriced, but my partner liked theirs.",0.5719,Positive
+155,Marinara Parmesan Baked Ziti,8.49,9,Food - Frozen Meals,6/30/2025,quick delivery and the ramen was still hot and excellent.,0.5719,Positive
+156,Luxe Velvet Blazer,89.99,648,Clothing - Outerwear,09-06-2025,"great atmosphere, but the fries was just okay.",0.5994,Positive
+157,Chickpeas,1.29,49,Food - Canned Goods,02-09-2025,"everything was excellent, from the tacos to the drinks.",0.5719,Positive
+158,Dog Walking Waist Pack,19.99,114,Pets,03-12-2025,the soup was excellent and the service was quick. highly recommend!,0.7773,Positive
+159,Maple Pecan Oatmeal Cookies,3.99,13,Food - Bakery,6/20/2025,"service was friendly, but the food took too long to arrive.",0.2732,Positive
+160,Ginger Turmeric Tea,3.49,5,Food - Beverages,1/31/2025,i was disappointed with the fries. it tasted overpriced.,-0.4767,Negative
+161,Vegetable Samosas,4.99,3784,Food - Frozen,3/21/2025,absolutely loved it! the salad was amazing.,0.8513,Positive
+162,Puzzle,27.99,4751,Toys,6/19/2025,a hidden gem! best soup i have had in a long time.,0.6696,Positive
+163,Sporty Cap,15.99,45,Clothing - Accessories,2/25/2025,don't waste your money. the burger is terrible and small portions.,-0.1945,Negative
+164,Mesh Sports Leggings,39.99,13,Clothing - Activewear,01-09-2025,"great atmosphere, but the cake was just okay.",0.5994,Positive
+165,Rechargeable Electric Screwdriver,39.99,526,Tools,2/25/2025,worst experience ever. the waiter was unprofessional and the pasta was cold.,-0.8126,Negative
+166,Comfort Flats,44.99,930,Clothing - Shoes,08-03-2025,don't waste your money. the salad is overpriced and small portions.,0.3252,Positive
+167,Harvest Grain Salad,5.49,335,Food - Salads,08-02-2025,the burger was excellent and the service was polite. highly recommend!,0.7773,Positive
+168,Thai Peanut Noodles,4.99,29,Food - Pasta,12-01-2025,quick delivery and the tacos was still hot and fresh.,0.3182,Positive
+169,Waterproof Rain Boots,69.99,10,Clothing - Footwear,5/30/2025,absolutely loved it! the soup was fresh.,0.7773,Positive
+170,Compact Digital Camera,249.99,10,Photography,06-02-2025,absolutely loved it! the pasta was amazing.,0.8513,Positive
+171,Kids Tablet,129.99,4895,Electronics,03-08-2025,a hidden gem! best fries i have had in a long time.,0.6696,Positive
+172,Tea Infuser Bottle,19.99,935,Kitchen,6/27/2025,worst experience ever. the waiter was forgetful and the steak was bland.,-0.7351,Negative
+173,Buttermilk Pancakes,3.99,0,Food - Breakfast,01-04-2025,"the staff was rude, but the soup was surprisingly flavorful.",0.2023,Positive
+174,Creamy Avocado Dip,3.49,797,Food - Snacks,01-09-2025,"great atmosphere, but the pasta was just okay.",0.5994,Positive
+175,Wall-Mounted Wine Rack,39.99,18,Home,9/30/2025,a hidden gem! best sandwich i have had in a long time.,0.6696,Positive
+176,Air Fryer Oven,149.99,0,Kitchen,05-12-2025,i was disappointed with the steak. it tasted terrible.,-0.7351,Negative
+177,Coconut Oil,6.49,96,Food - Oils & Vinegars,11/30/2025,the salad was perfect and the service was welcoming. highly recommend!,0.8653,Positive
+178,LED Strip Lights Kit,29.99,26,Home,7/13/2025,"service was friendly, but the food took too long to arrive.",0.2732,Positive
+179,Crispy Rice Treats,3.5,39,Food - Snacks,12/24/2024,a hidden gem! best sandwich i have had in a long time.,0.6696,Positive
+180,Eco-Friendly Yoga Blocks,15.99,162,Fitness,12/26/2024,worst experience ever. the waiter was forgetful and the fries was undercooked.,-0.7351,Negative
+181,Garlic and Herb Rub,2.29,863,Food - Spices,11/18/2025,"service was welcoming, but the food took too long to arrive.",0.2382,Positive
+182,Stuffed Grape Leaves,5.79,511,Food - Prepared Foods,03-10-2025,don't waste your money. the burger is salty and small portions.,0.3252,Positive
+183,Wireless Charging Pad,19.99,22,Accessories,06-01-2025,i was disappointed with the curry. it tasted bland.,-0.4767,Negative
+184,Cinnamon Sugar Popcorn,2.89,7,Food - Snacks,1/24/2025,"service was attentive, but the food took too long to arrive.",0.0,Neutral
+185,Set of Measuring Spoons,12.99,2064,Kitchen,7/24/2025,i was disappointed with the fries. it tasted undercooked.,-0.4767,Negative
+186,Compact Electric Kettle,29.99,30,Kitchen,10-08-2025,"great atmosphere, but the soup was just okay.",0.5994,Positive
+187,Honey Mustard Sauce,3.29,1608,Food - Condiments,02-01-2025,a hidden gem! best steak i have had in a long time.,0.6696,Positive
+188,Hot Dog Buns,2.49,96,Food - Bakery,1/20/2025,"service was quick, but the food took too long to arrive.",0.0,Neutral
+189,Cinnamon Sugar Popcorn,2.89,671,Food - Snacks,06-09-2025,don't waste your money. the salad is salty and small portions.,0.3252,Positive
+190,Customizable Wall Calendar,24.99,1968,Office,8/16/2025,"the staff was inattentive, but the pasta was surprisingly excellent.",0.8338,Positive
+191,Pet Camera with Treat Dispenser,149.99,0,Pets,08-03-2025,"i found the pasta to be undercooked, but my partner liked theirs.",0.5719,Positive
+192,Travel Makeup Organizer,25.99,7620,Beauty,4/14/2025,worst experience ever. the waiter was rude and the coffee was bland.,-0.7964,Negative
+193,Herbed Goat Cheese,5.49,1166,Food - Cheese,04-07-2025,i was disappointed with the fries. it tasted disappointing.,-0.743,Negative
+194,Mini Indoor Herb Garden Kit,24.99,11136,Garden,11-09-2025,"i found the coffee to be cold, but my partner liked theirs.",0.5719,Positive
+195,Garden Hoses with Expandable Features,34.99,113,Garden,12/21/2024,the fries was mouth-watering and the service was attentive. highly recommend!,0.474,Positive
+196,Gardening Gloves with Claws,24.99,698,Garden,10-03-2025,"service was friendly, but the food took too long to arrive.",0.2732,Positive
+197,Lemon Herb Chicken,7.49,1013,Food - Meat,8/13/2025,i was disappointed with the sushi. it tasted salty.,-0.4767,Negative
+198,Personalized Pet ID Tags,9.99,2910,Pets,06-06-2025,don't waste your money. the salad is salty and small portions.,0.3252,Positive
+199,Decorative Throw Blanket,39.99,1181,Home,10/30/2025,don't waste your money. the sushi is stale and small portions.,0.3252,Positive
+200,Woven Storage Baskets,24.99,2500,Home,4/16/2025,a hidden gem! best curry i have had in a long time.,0.6696,Positive
+201,Whisk Set,12.99,2363,Kitchen,1/26/2025,a hidden gem! best soup i have had in a long time.,0.6696,Positive
+202,Ginger Turmeric Tea,3.49,245,Food - Beverages,5/14/2025,don't waste your money. the soup is greasy and small portions.,0.3252,Positive
+203,Electric Heat Pad,24.99,573,Health,11/24/2025,"service was welcoming, but the food took too long to arrive.",0.2382,Positive
+204,Electric Toothbrush Holder,14.99,7130,Health,4/18/2025,a hidden gem! best tacos i have had in a long time.,0.6696,Positive
+205,Herbed Goat Cheese,5.49,13,Food - Cheese,7/14/2025,absolutely loved it! the pasta was flavorful.,0.6689,Positive
+206,Wireless Smart Plug,19.99,858,Smart Home,04-12-2025,"everything was fantastic, from the salad to the drinks.",0.5574,Positive
+207,Portable Campfire,39.99,538,Outdoor,5/30/2025,"service was attentive, but the food took too long to arrive.",0.0,Neutral
+208,Radish Chips,2.89,117,Food - Snacks,10/28/2025,don't waste your money. the pasta is greasy and small portions.,0.3252,Positive
+209,Honey Sesame Chicken,8.99,15,Food - Frozen Food,3/17/2025,"the staff was rude, but the salad was surprisingly fresh.",0.5789,Positive
+210,Artisan Bread,4.59,718,Food - Bakery,03-07-2025,i was disappointed with the salad. it tasted greasy.,-0.4767,Negative
+211,Aged White Cheddar Popcorn,2.99,62,Food - Snacks,1/30/2025,absolutely loved it! the salad was fantastic.,0.8436,Positive
+212,Underwater Camera,199.99,12,Photography,11/18/2025,"i found the salad to be bland, but my partner liked theirs.",0.5719,Positive
+213,Gardening Fairy Figurines,14.99,16,Garden,7/24/2025,worst experience ever. the waiter was unprofessional and the curry was bland.,-0.8126,Negative
+214,Dog Collar,15.99,3556,Pets,3/25/2025,worst experience ever. the waiter was unprofessional and the sandwich was bland.,-0.8126,Negative
+215,Smoky BBQ Jackfruit,4.99,499,Food - Grocery,5/15/2025,"the staff was forgetful, but the curry was surprisingly excellent.",0.8074,Positive
+216,Wooden Children's Play Kitchen,129.99,840,Toys,04-12-2025,"everything was excellent, from the pasta to the drinks.",0.5719,Positive
+217,Set of Silicone Cooking Utensils,29.99,47,Kitchen,9/18/2025,"great atmosphere, but the fries was just okay.",0.5994,Positive
+218,Electric Pressure Cooker,89.99,220,Kitchen,01-07-2025,"everything was excellent, from the cake to the drinks.",0.5719,Positive
+219,LED Flashlight with Rechargeable Batteries,19.99,6,Outdoor,4/18/2025,the salad was mouth-watering and the service was welcoming. highly recommend!,0.7171,Positive
+220,Oats,3.29,7216,Food - Grains,10/13/2025,worst experience ever. the waiter was slow and the cake was stale.,-0.6249,Negative
+221,Vegetable Stock,2.49,131,Food - Cooking Essentials,11-05-2025,"service was polite, but the food took too long to arrive.",0.0,Neutral
+222,Baked Potato Chips,2.49,24,Food - Snacks,1/24/2025,"service was polite, but the food took too long to arrive.",0.0,Neutral
+223,Granola Cereal,4.49,698,Food - Breakfast,4/29/2025,worst experience ever. the waiter was forgetful and the fries was bland.,-0.7351,Negative
+224,Italian Herb Balsamic Marinade,3.99,0,Food - Condiments,05-01-2025,i was disappointed with the burger. it tasted stale.,-0.4767,Negative
+225,Handmade Leather Journal,39.99,276,Books,11-04-2025,worst experience ever. the waiter was inattentive and the cake was disappointing.,-0.8074,Negative
+226,Pet Activity Tracker,59.99,294,Pets,8/25/2025,quick delivery and the soup was still hot and flavorful.,0.0,Neutral
+227,Vegetable Korma,6.49,565,Food - Frozen,11-01-2025,quick delivery and the coffee was still hot and perfect.,0.5719,Positive
+228,Car Phone Mount,15.99,529,Automotive,02-12-2025,a hidden gem! best pasta i have had in a long time.,0.6696,Positive
+229,Teriyaki Chicken Stir-Fry,6.99,112,Food - Frozen Foods,08-04-2025,quick delivery and the sushi was still hot and fantastic.,0.5574,Positive
+230,Trackpad for Laptop,49.99,41,Accessories,05-03-2025,quick delivery and the cake was still hot and excellent.,0.5719,Positive
+231,Coconut Cashew Yogurt,1.99,127,Food - Dairy Alternatives,12/26/2024,absolutely loved it! the sushi was excellent.,0.8475,Positive
+232,Tailored Dress Pants,79.99,20,Clothing - Bottoms,3/27/2025,don't waste your money. the coffee is salty and small portions.,0.3252,Positive
+233,Sea Salt Caramel Popcorn,3.99,5382,Food - Snacks,6/17/2025,the pizza was perfect and the service was attentive. highly recommend!,0.7773,Positive
+234,Rustic Italian Breads,3.99,7,Food - Bakery,10/21/2025,don't waste your money. the salad is stale and small portions.,0.3252,Positive
+235,Wine Glasses,29.99,34,Home,6/14/2025,"service was friendly, but the food took too long to arrive.",0.2732,Positive
+236,Outdoor Adventure Backpack,59.99,102,Outdoor,08-11-2025,quick delivery and the burger was still hot and excellent.,0.5719,Positive
+237,Compressible Packing Cubes,29.99,0,Travel,9/28/2025,"everything was flavorful, from the sushi to the drinks.",0.0,Neutral
+238,Avocado Oil,8.49,1814,Food - Oils,4/23/2025,"the staff was slow, but the sandwich was surprisingly fantastic.",0.8271,Positive
+239,Italian Meatballs,8.49,83,Food - Meat,02-08-2025,"the staff was unprofessional, but the burger was surprisingly fresh.",0.5574,Positive
+240,Hand Crank Blender,18.99,4423,Kitchen,7/13/2025,quick delivery and the salad was still hot and fantastic.,0.5574,Positive
+241,Maple Breakfast Sausage,5.99,268,Food - Meat,7/14/2025,don't waste your money. the curry is undercooked and small portions.,0.3252,Positive
+242,Essential Oil Roller Bottles,19.99,3366,Health,10-10-2025,a hidden gem! best cake i have had in a long time.,0.6696,Positive
+243,Sriracha Hot Chili Sauce,2.99,1045,Food - Condiments,03-06-2025,quick delivery and the pizza was still hot and mouth-watering.,0.0,Neutral
+244,Beef Taco Skillet,8.49,1726,Food - Meal Kits,1/22/2025,don't waste your money. the salad is bland and small portions.,0.3252,Positive
+245,Camping Tent,79.99,10,Outdoor,1/13/2025,don't waste your money. the cake is disappointing and small portions.,-0.2187,Negative
+246,Lemon Garlic Marinade,4.29,3250,Food - Condiments,03-08-2025,i was disappointed with the steak. it tasted bland.,-0.4767,Negative
+247,Infrared Thermometer,39.99,400,Health,12/29/2024,worst experience ever. the waiter was forgetful and the sandwich was disappointing.,-0.8555,Negative
+248,Electric Heat Press Machine,99.99,217,Crafts,10/28/2025,a hidden gem! best soup i have had in a long time.,0.6696,Positive
+249,Computer Monitor Stand,29.99,4520,Office,9/28/2025,absolutely loved it! the pasta was perfect.,0.8475,Positive
+250,Customizable Name Plate,19.99,4796,Office,7/23/2025,"service was attentive, but the food took too long to arrive.",0.0,Neutral
+251,Mint Chocolate Chip Ice Cream,4.99,0,Food - Frozen Desserts,7/20/2025,"great atmosphere, but the fries was just okay.",0.5994,Positive
+252,Garden Tool Belt,22.99,186,Garden,6/30/2025,"i found the fries to be terrible, but my partner liked theirs.",0.3919,Positive
+253,Stainless Steel BBQ Grill Set,49.99,0,Outdoor,9/27/2025,absolutely loved it! the cake was delicious.,0.8475,Positive
+254,Tuscan Bean Soup,2.49,569,Food - Canned Goods,8/27/2025,don't waste your money. the cake is disappointing and small portions.,-0.2187,Negative
+255,Picnic Blanket,29.99,2563,Outdoor,05-08-2025,the salad was perfect and the service was friendly. highly recommend!,0.8746,Positive
+256,Bicycle Repair Kit,14.99,81,Outdoor,8/24/2025,i was disappointed with the salad. it tasted terrible.,-0.7351,Negative
+257,Peach & Mango Salsa,4.49,1660,Food - Snacks,11-11-2025,i was disappointed with the soup. it tasted overpriced.,-0.4767,Negative
+258,Diced Tomatoes (canned),1.49,184,Food - Canned Goods,03-07-2025,quick delivery and the cake was still hot and fresh.,0.3182,Positive
+259,Basil Tomato Soup,2.99,48,Food - Canned Soups,6/20/2025,a hidden gem! best pasta i have had in a long time.,0.6696,Positive
+260,Wireless Earbuds Case,12.99,1526,Accessories,10/20/2025,"the staff was inattentive, but the sushi was surprisingly excellent.",0.8338,Positive
+261,Manual Coffee Grinder,22.99,83,Kitchen,2/14/2025,absolutely loved it! the coffee was excellent.,0.8475,Positive
+262,Maple Breakfast Sausage,5.99,628,Food - Meat,7/25/2025,absolutely loved it! the sandwich was fresh.,0.7773,Positive
+263,Spaghetti Squash,3.99,345,Food - Produce,9/29/2025,i was disappointed with the sandwich. it tasted salty.,-0.4767,Negative
+264,Caramel Apple Taffy,1.99,29,Food - Confectionery,3/30/2025,"everything was amazing, from the cake to the drinks.",0.5859,Positive
+265,Chic Jumpsuit,89.99,59,Clothing - Jumpsuits,06-04-2025,worst experience ever. the waiter was slow and the salad was disappointing.,-0.8074,Negative
+266,Digital Wireless Meat Thermometer,39.99,2525,Kitchen,8/13/2025,absolutely loved it! the sandwich was delicious.,0.8475,Positive
+267,Electric Rice Cooker with Steamer,49.99,1574,Kitchen,5/17/2025,quick delivery and the sandwich was still hot and perfect.,0.5719,Positive
+268,Sun-Dried Tomatoes,3.99,38,Food - Vegetables,7/18/2025,don't waste your money. the salad is stale and small portions.,0.3252,Positive
+269,Wild Rice Pilaf,3.79,82,Food - Grains,2/26/2025,a hidden gem! best soup i have had in a long time.,0.6696,Positive
+270,Leather Crossbody Bag,89.99,89,Clothing - Bags,9/14/2025,quick delivery and the soup was still hot and perfect.,0.5719,Positive
+271,Camping Chair,29.99,80,Outdoor,09-05-2025,i was disappointed with the tacos. it tasted greasy.,-0.4767,Negative
+272,Mini Air Hockey Table,39.99,1110,Toys,04-03-2025,don't waste your money. the curry is salty and small portions.,0.3252,Positive
+273,Multi-Functional Rice Cooker,49.99,286,Kitchen,10/22/2025,quick delivery and the tacos was still hot and delicious.,0.5719,Positive
+274,Dog Frisbee Toy,10.99,4,Pets,3/28/2025,quick delivery and the burger was still hot and delicious.,0.5719,Positive
+275,Cauliflower Gnocchi,3.59,16,Food - Frozen Foods,02-10-2025,worst experience ever. the waiter was forgetful and the coffee was bland.,-0.7351,Negative
+276,Wireless Wi-Fi Extender,49.99,36,Electronics,3/27/2025,"everything was fantastic, from the soup to the drinks.",0.5574,Positive
+277,Kitchen Knife Sharpening System,39.99,84,Kitchen,9/24/2025,quick delivery and the coffee was still hot and delicious.,0.5719,Positive
+278,Portable Air Compressor,44.99,1040,Automotive,06-07-2025,"i found the coffee to be overpriced, but my partner liked theirs.",0.5719,Positive
+279,Smoked Gouda Cheese,5.49,328,Food - Dairy,4/25/2025,worst experience ever. the waiter was rude and the ramen was stale.,-0.7964,Negative
+280,Self-Watering Planters,49.99,2040,Garden,4/27/2025,"i found the pasta to be terrible, but my partner liked theirs.",0.3919,Positive
+281,Bird Feeder,24.99,210,Outdoor,9/19/2025,quick delivery and the pasta was still hot and delicious.,0.5719,Positive
+282,Cranberry Almond Biscotti,4.19,72,Food - Bakery,11/21/2025,"service was polite, but the food took too long to arrive.",0.0,Neutral
+283,Heavy-Duty Utility Tote,34.99,2269,Accessories,1/25/2025,"great atmosphere, but the coffee was just okay.",0.5994,Positive
+284,Baked Mac and Cheese,5.99,20,Food - Frozen Foods,10-12-2025,quick delivery and the coffee was still hot and delicious.,0.5719,Positive
+285,Canned Coconut Milk,1.89,13,Food - Canned Goods,11-06-2025,a hidden gem! best pasta i have had in a long time.,0.6696,Positive
+286,Stuffed Peppers with Quinoa,7.99,1847,Food - Prepared Meals,2/20/2025,the burger was excellent and the service was welcoming. highly recommend!,0.8653,Positive
+287,USB Desk Fan,14.99,7,Home,8/15/2025,"i found the pizza to be greasy, but my partner liked theirs.",0.5719,Positive
+288,Blue Corn Tortilla Chips,3.49,279,Food - Snacks,3/13/2025,"great atmosphere, but the tacos was just okay.",0.5994,Positive
+289,Peach Halves (canned),2.49,4227,Food - Canned Goods,03-06-2025,quick delivery and the pizza was still hot and excellent.,0.5719,Positive
+290,Luxe Velvet Blazer,89.99,60,Clothing - Outerwear,3/25/2025,"service was quick, but the food took too long to arrive.",0.0,Neutral
+291,Smart Wi-Fi Light Bulbs,19.99,465,Smart Home,12-11-2025,"the staff was unprofessional, but the coffee was surprisingly mouth-watering.",0.1655,Positive
+292,Peanut Butter Cookies,3.49,135,Food - Bakery,01-12-2025,worst experience ever. the waiter was unprofessional and the curry was overpriced.,-0.8126,Negative
+293,Sweet Cherry Tomatoes,2.99,1017,Food - Produce,01-04-2025,absolutely loved it! the coffee was amazing.,0.8513,Positive
+294,Children's Educational Puzzle,19.99,719,Toys,1/28/2025,don't waste your money. the sushi is disappointing and small portions.,-0.2187,Negative
+295,Sweet Potato and Chickpea Bowl,6.49,1313,Food - Frozen Food,1/17/2025,don't waste your money. the curry is overpriced and small portions.,0.3252,Positive
+296,Fruit and Nut Medley,5.99,1132,Food - Snacks,11/25/2025,don't waste your money. the curry is salty and small portions.,0.3252,Positive
+297,Wildflower Honey,4.99,653,Food - Condiments,11-01-2025,absolutely loved it! the burger was flavorful.,0.6689,Positive
+298,Adjustable Garden Rake,22.99,768,Garden,3/24/2025,"i found the sandwich to be overpriced, but my partner liked theirs.",0.5719,Positive
+299,Interactive Plush Toy,34.99,294,Toys,02-02-2025,don't waste your money. the ramen is salty and small portions.,0.3252,Positive
+300,Cable Knit Beanie,19.99,16,Clothing - Accessories,7/15/2025,"great atmosphere, but the sandwich was just okay.",0.5994,Positive
+301,Dried Cranberries,4.29,44,Food - Snacks,06-12-2025,"great atmosphere, but the pasta was just okay.",0.5994,Positive
+302,Organic Black Bean Burger,4.49,3,Food - Frozen Foods,6/21/2025,absolutely loved it! the steak was fresh.,0.7773,Positive
+303,Cat Tree,99.99,6070,Pets,3/15/2025,the tacos was amazing and the service was welcoming. highly recommend!,0.8685,Positive
+304,Ceramic Knife Set,39.99,0,Kitchen,07-04-2025,absolutely loved it! the burger was excellent.,0.8475,Positive
+305,Peanut Butter Banana Smoothie Mix,4.49,599,Food - Beverages,9/17/2025,a hidden gem! best sandwich i have had in a long time.,0.6696,Positive
+306,Lemon Garlic Shrimp,8.99,16,Food - Seafood,5/19/2025,"i found the cake to be stale, but my partner liked theirs.",0.5719,Positive
+307,Spinach Feta Wraps,4.29,1476,Food - Deli,10-06-2025,"everything was perfect, from the tacos to the drinks.",0.5719,Positive
+308,Silicone Baking Mat,15.99,0,Kitchen,11/14/2025,worst experience ever. the waiter was unprofessional and the soup was terrible.,-0.8885,Negative
+309,Electric Fondue Pot,39.99,360,Kitchen,05-05-2025,absolutely loved it! the curry was delicious.,0.8475,Positive
+310,Cable Knit Cardigan,49.99,668,Clothing - Outerwear,1/24/2025,don't waste your money. the pizza is greasy and small portions.,0.3252,Positive
+311,Wrist Support Brace,19.99,125,Health,1/24/2025,"everything was amazing, from the sandwich to the drinks.",0.5859,Positive
+312,Cinnamon Raisin Bread,3.79,28,Food - Bakery,07-02-2025,"everything was fantastic, from the pizza to the drinks.",0.5574,Positive
+313,Peach Fruit Cups,1.99,2272,Food - Snacks,10-05-2025,i was disappointed with the ramen. it tasted bland.,-0.4767,Negative
+314,Video Camera,199.0,344,Electronics,08-03-2025,quick delivery and the burger was still hot and delicious.,0.5719,Positive
+315,Protein Pancake Mix,3.99,540,Food - Breakfast,01-05-2025,the fries was excellent and the service was friendly. highly recommend!,0.8746,Positive
+316,Spicy Vegetable Sushi Rolls,8.49,968,Food - Prepared Foods,11/13/2025,the sandwich was fantastic and the service was attentive. highly recommend!,0.7707,Positive
+317,Honey Lemon Tea,3.29,103,Food - Beverages,7/24/2025,"great atmosphere, but the tacos was just okay.",0.5994,Positive
+318,Pumpkin Pie Spice,2.99,10,Food - Baking,7/28/2025,i was disappointed with the pizza. it tasted salty.,-0.4767,Negative
+319,Travel Makeup Organizer,25.99,1862,Beauty,8/16/2025,"everything was mouth-watering, from the salad to the drinks.",0.0,Neutral
+320,Asian Stir-Fry Vegetables,2.99,2219,Food - Frozen Foods,11/19/2025,"the staff was rude, but the ramen was surprisingly amazing.",0.7906,Positive
+321,Italian Sausage and Peppers,8.99,1784,Food - Meat,03-01-2025,absolutely loved it! the coffee was mouth-watering.,0.6689,Positive
+322,Portable Air Pump,19.99,72,Outdoor,02-08-2025,"everything was fantastic, from the salad to the drinks.",0.5574,Positive
+323,Peach Mango Smoothie Mix,5.99,1095,Food - Beverages,4/29/2025,"the staff was unprofessional, but the ramen was surprisingly perfect.",0.7717,Positive
+324,Almond Milk Yogurt,1.99,4423,Food - Dairy Alternatives,9/19/2025,a hidden gem! best cake i have had in a long time.,0.6696,Positive
+325,Almond Joy Protein Bars,1.99,193,Food - Snacks,2/26/2025,i was disappointed with the curry. it tasted greasy.,-0.4767,Negative
+326,Zucchini Noodles,3.99,7316,Food - Vegetables,6/15/2025,i was disappointed with the pasta. it tasted salty.,-0.4767,Negative
+327,Vegetable Quinoa Bowl,5.99,3282,Food - Frozen Meals,8/16/2025,"the staff was slow, but the pasta was surprisingly amazing.",0.8402,Positive
+328,Honey-Balsamic Vinaigrette,3.39,11,Food - Dressing,05-12-2025,"i found the curry to be bland, but my partner liked theirs.",0.5719,Positive
+329,Organic Green Apples,1.49,3,Food - Produce,7/25/2025,"everything was delicious, from the sandwich to the drinks.",0.5719,Positive
+330,Outdoor Camping Hammock,29.99,0,Outdoor,9/28/2025,a hidden gem! best pasta i have had in a long time.,0.6696,Positive
+331,Indestructible Dog Toy,15.99,1747,Pets,7/19/2025,i was disappointed with the fries. it tasted terrible.,-0.7351,Negative
+332,Kids' Art Supplies Kit,29.99,2231,Toys,07-06-2025,absolutely loved it! the steak was excellent.,0.8475,Positive
+333,Berry Smoothie Mix,4.99,550,Food - Frozen Foods,8/23/2025,"the staff was slow, but the salad was surprisingly delicious.",0.8338,Positive
+334,Chicken Sausage,6.99,118,Food - Meat,09-08-2025,i was disappointed with the ramen. it tasted overpriced.,-0.4767,Negative
+335,Essential Oil Roller Bottles,19.99,10,Health,4/21/2025,the curry was fantastic and the service was attentive. highly recommend!,0.7707,Positive
+336,Fitness Activity Journal,14.99,23,Fitness,11/29/2025,the coffee was flavorful and the service was quick. highly recommend!,0.474,Positive
+337,Portable Air Pump,19.99,529,Outdoor,10/14/2025,absolutely loved it! the soup was fantastic.,0.8436,Positive
+338,Organic Quinoa Chips,3.99,60,Food - Snacks,8/30/2025,a hidden gem! best sandwich i have had in a long time.,0.6696,Positive
+339,Phone Screen Protector,12.99,60,Accessories,9/23/2025,"service was attentive, but the food took too long to arrive.",0.0,Neutral
+340,Cinnamon Sugar Mix,1.49,55,Food - Baking,02-04-2025,absolutely loved it! the ramen was perfect.,0.8475,Positive
+341,Caramelized Onion Dip,3.99,690,Food - Dairy,7/23/2025,a hidden gem! best coffee i have had in a long time.,0.6696,Positive
+342,Kale and Quinoa Salad,6.49,27,Food - Salads,9/20/2025,worst experience ever. the waiter was rude and the burger was bland.,-0.7964,Negative
+343,Puff Pastry,5.49,1444,Food - Bakery,11/18/2025,the burger was perfect and the service was polite. highly recommend!,0.7773,Positive
+344,Buffalo Chicken Dip,5.99,59,Food - Dips,12/24/2024,"i found the sandwich to be overpriced, but my partner liked theirs.",0.5719,Positive
+345,Cinnamon Sugar Tortilla Chips,3.29,463,Food - Snacks,10-06-2025,"service was friendly, but the food took too long to arrive.",0.2732,Positive
+346,Wine Decanter,34.99,913,Home,8/18/2025,a hidden gem! best steak i have had in a long time.,0.6696,Positive
+347,Spicy Thai Noodles,1.99,2031,Food - Frozen Meals,2/24/2025,"great atmosphere, but the burger was just okay.",0.5994,Positive
+348,Desk Lamp with USB Port,29.99,119,Office,10/26/2025,the pasta was fresh and the service was attentive. highly recommend!,0.6581,Positive
+349,Zucchini Noodles,3.99,43,Food - Vegetables,2/17/2025,"i found the salad to be bland, but my partner liked theirs.",0.5719,Positive
+350,Smart Thermos,39.99,7,Fitness,04-04-2025,don't waste your money. the ramen is disappointing and small portions.,-0.2187,Negative
+351,Fitness Balance Ball,24.99,4368,Fitness,08-10-2025,"great atmosphere, but the steak was just okay.",0.5994,Positive
+352,Organic Quinoa Salad,5.99,252,Food - Prepared Meals,6/24/2025,"i found the curry to be overpriced, but my partner liked theirs.",0.5719,Positive
+353,Fruit & Nut Trail Mix,4.99,0,Food - Snacks,8/22/2025,"everything was delicious, from the ramen to the drinks.",0.5719,Positive
+354,Electric Griddle,54.99,4473,Kitchen,7/22/2025,"service was quick, but the food took too long to arrive.",0.0,Neutral
+355,Garlic Butter Shrimp,8.99,4858,Food - Seafood,12-12-2025,"everything was perfect, from the burger to the drinks.",0.5719,Positive
+356,Pumpkin Waffles,4.49,0,Food - Breakfast,01-07-2025,quick delivery and the curry was still hot and fresh.,0.3182,Positive
+357,High-Speed HDMI Cable,12.99,1095,Electronics,01-10-2025,"the staff was slow, but the pasta was surprisingly mouth-watering.",0.4215,Positive
+358,Professional Chef Knife,89.99,683,Kitchen,01-10-2025,absolutely loved it! the steak was excellent.,0.8475,Positive
+359,Chicken Parmesan Dinner Kit,14.99,172,Food - Frozen Meals,1/24/2025,"service was polite, but the food took too long to arrive.",0.0,Neutral
+360,Chocolate Coconut Protein Balls,2.99,8,Food - Snacks,1/29/2025,worst experience ever. the waiter was forgetful and the ramen was bland.,-0.7351,Negative
+361,Dog Walking Waist Pack,19.99,1680,Pets,5/27/2025,don't waste your money. the cake is salty and small portions.,0.3252,Positive
+362,Mini Fondue Set,34.99,182,Kitchen,8/19/2025,a hidden gem! best steak i have had in a long time.,0.6696,Positive
+363,Thai Red Curry Paste,3.99,217,Food - Condiments,6/27/2025,"everything was excellent, from the ramen to the drinks.",0.5719,Positive
+364,Mango Chili Salsa,4.29,1639,Food - Condiments,12-05-2025,"service was attentive, but the food took too long to arrive.",0.0,Neutral
+365,Self-Watering Planter,24.99,482,Garden,02-08-2025,"great atmosphere, but the pizza was just okay.",0.5994,Positive
+366,Electric Nail File Kit,34.99,772,Beauty,11/20/2025,quick delivery and the soup was still hot and mouth-watering.,0.0,Neutral
+367,Caraway Rye Bread,4.79,1198,Food - Bakery,12/16/2025,quick delivery and the pasta was still hot and amazing.,0.5859,Positive
+368,Travel Shoe Bags Set,15.99,2600,Travel,12/20/2024,i was disappointed with the pasta. it tasted greasy.,-0.4767,Negative
+369,Pasta Primavera,4.99,12,Food - Frozen Foods,12/17/2024,a hidden gem! best pasta i have had in a long time.,0.6696,Positive
+370,Herb Garlic Butter,3.99,10,Food - Condiments,11/19/2025,"service was friendly, but the food took too long to arrive.",0.2732,Positive
+371,Breezy Off-The-Shoulder Top,34.99,369,Clothing - Tops,12-12-2025,the soup was excellent and the service was quick. highly recommend!,0.7773,Positive
+372,Handheld Garment Steamer,34.99,75,Home,06-06-2025,"i found the pasta to be overpriced, but my partner liked theirs.",0.5719,Positive
+373,Electric Razor,59.99,3,Health,5/27/2025,the curry was fresh and the service was polite. highly recommend!,0.6581,Positive
+374,Non-Toxic Concrete Sealer,39.99,2240,Home Improvement,5/15/2025,"i found the steak to be overpriced, but my partner liked theirs.",0.5719,Positive
+375,Roasted Vegetable Medley,3.99,0,Food - Frozen Foods,5/18/2025,"great atmosphere, but the pizza was just okay.",0.5994,Positive
+376,Electric Screwdriver,59.99,454,Tools,2/18/2025,don't waste your money. the tacos is bland and small portions.,0.3252,Positive
+377,Multi-Port USB Hub,19.99,716,Electronics,9/17/2025,the soup was excellent and the service was friendly. highly recommend!,0.8746,Positive
+378,Chunky Knit Sweater,59.99,160,Clothing - Tops,3/14/2025,"service was friendly, but the food took too long to arrive.",0.2732,Positive
+379,Breathable Face Mask Set,14.99,13,Health,3/30/2025,"the staff was forgetful, but the fries was surprisingly excellent.",0.8074,Positive
+380,Roasted Vegetable Medley,3.99,440,Food - Frozen Foods,01-04-2025,"great atmosphere, but the burger was just okay.",0.5994,Positive
+381,Couscous Mix,2.49,1620,Food - Grains,11-06-2025,absolutely loved it! the fries was fantastic.,0.8436,Positive
+382,Spicy BBQ Sauce,3.99,128,Food - Condiments,10/29/2025,"the staff was inattentive, but the ramen was surprisingly fresh.",0.6956,Positive
+383,Terry Cloth Robe,59.99,1002,Clothing - Loungewear,7/25/2025,"i found the pasta to be bland, but my partner liked theirs.",0.5719,Positive
+384,Organic Ramen Noodles,2.89,374,Food - Pasta,3/17/2025,"i found the pizza to be bland, but my partner liked theirs.",0.5719,Positive
+385,Lentils,2.99,664,Food - Grains,5/29/2025,"everything was fantastic, from the sandwich to the drinks.",0.5574,Positive
+386,Tomatillo Salsa,3.29,1,Food - Condiments,3/31/2025,don't waste your money. the pasta is undercooked and small portions.,0.3252,Positive
+387,Frozen Mixed Berries,5.99,442,Food - Frozen Foods,01-08-2025,"everything was perfect, from the soup to the drinks.",0.5719,Positive
+388,Avocado Lime Dressing,4.29,24,Food - Condiments,03-10-2025,worst experience ever. the waiter was rude and the steak was cold.,-0.7964,Negative
+389,Customizable Name Puzzle,29.99,22,Toys,06-04-2025,"the staff was inattentive, but the ramen was surprisingly amazing.",0.8402,Positive
+390,Spicy Kimchi,4.79,0,Food - Condiments,2/15/2025,"service was attentive, but the food took too long to arrive.",0.0,Neutral
+391,Sustainable Wooden Toys,29.99,623,Toys,4/27/2025,"i found the pizza to be bland, but my partner liked theirs.",0.5719,Positive
+392,Luxury Yoga Mat,39.99,951,Fitness,5/13/2025,i was disappointed with the curry. it tasted bland.,-0.4767,Negative
+393,Classic Black Dress,79.99,481,Clothing - Dresses,10/25/2025,absolutely loved it! the salad was amazing.,0.8513,Positive
+394,Wall-Mounted Wine Rack,39.99,219,Home,8/28/2025,quick delivery and the curry was still hot and amazing.,0.5859,Positive
+395,Cinnamon Raisin Bread,3.79,62,Food - Bakery,02-02-2025,"the staff was inattentive, but the soup was surprisingly delicious.",0.8338,Positive
+396,Foot Massager,79.99,650,Health,11-12-2025,absolutely loved it! the tacos was perfect.,0.8475,Positive
+397,Kale Caesar Salad Kit,5.99,59,Food - Salads,12/13/2025,quick delivery and the pasta was still hot and perfect.,0.5719,Positive
+398,Vegetable Stir Fry Mix,3.29,29,Food - Fresh Produce,02-10-2025,quick delivery and the cake was still hot and excellent.,0.5719,Positive
+399,Sketchbook,14.99,1472,Art Supplies,10-06-2025,worst experience ever. the waiter was forgetful and the salad was disappointing.,-0.8555,Negative
+400,Teriyaki Sauce,2.99,837,Food - Condiments,3/30/2025,quick delivery and the tacos was still hot and mouth-watering.,0.0,Neutral
+401,Slim Wallet,24.99,0,Accessories,06-07-2025,the ramen was perfect and the service was attentive. highly recommend!,0.7773,Positive
+402,Throw Pillow Covers,22.99,801,Home,12/30/2024,i was disappointed with the soup. it tasted disappointing.,-0.743,Negative
+403,Fishing Rod,49.99,178,Outdoor,09-03-2025,quick delivery and the tacos was still hot and fresh.,0.3182,Positive
+404,Vegan Tacos,7.49,1099,Food - Frozen Foods,8/18/2025,"i found the ramen to be undercooked, but my partner liked theirs.",0.5719,Positive
+405,Pesto Genovese,6.49,1008,Food - Condiments,7/24/2025,the cake was perfect and the service was polite. highly recommend!,0.7773,Positive
+406,Adjustable Kitchen Broom Stand,14.99,584,Home,10-11-2025,quick delivery and the burger was still hot and perfect.,0.5719,Positive
+407,Kitchen Knife Sharpening System,39.99,775,Kitchen,07-05-2025,"service was welcoming, but the food took too long to arrive.",0.2382,Positive
+408,Smartphone Tripod with Remote,29.99,15,Photography,5/28/2025,"everything was amazing, from the sushi to the drinks.",0.5859,Positive
+409,Whole Grain Cereal,3.49,262,Food - Breakfast,09-07-2025,absolutely loved it! the tacos was flavorful.,0.6689,Positive
+410,Turmeric Ginger Tea,3.29,1532,Food - Beverages,06-07-2025,"great atmosphere, but the sushi was just okay.",0.5994,Positive
+411,Roasted Garlic Pasta Sauce,4.99,1800,Food - Sauces,03-12-2025,"service was friendly, but the food took too long to arrive.",0.2732,Positive
+412,Thermostatic Shower Valve Kit,39.99,705,Bathroom,5/25/2025,a hidden gem! best coffee i have had in a long time.,0.6696,Positive
+413,Digital Photo Frame,79.99,4557,Home,08-09-2025,a hidden gem! best sandwich i have had in a long time.,0.6696,Positive
+414,Electric Wine Opener,29.99,1145,Kitchen,4/23/2025,"great atmosphere, but the burger was just okay.",0.5994,Positive
+415,Handheld Garment Steamer,34.99,4216,Home,05-05-2025,"i found the soup to be bland, but my partner liked theirs.",0.5719,Positive
+416,Feta Cheese,4.99,1450,Food - Dairy,10/13/2025,i was disappointed with the curry. it tasted cold.,-0.4767,Negative
+417,Nutritional Yeast,3.59,0,Food - Pantry,7/20/2025,i was disappointed with the cake. it tasted bland.,-0.4767,Negative
+418,Pet Safety Belt for Car,14.99,1489,Pets,4/15/2025,"everything was excellent, from the coffee to the drinks.",0.5719,Positive
+419,Smoked Paprika,2.99,53,Food - Spices,1/27/2025,"service was attentive, but the food took too long to arrive.",0.0,Neutral
+420,Honey mustard chicken tenders,7.99,90,Food - Meat,1/14/2025,the ramen was fantastic and the service was welcoming. highly recommend!,0.862,Positive
+421,Children's Art Set,34.99,14,Toys,6/30/2025,don't waste your money. the sandwich is bland and small portions.,0.3252,Positive
+422,Almond Flour Cookies,4.99,166,Food - Bakery,9/26/2025,worst experience ever. the waiter was slow and the pizza was bland.,-0.6249,Negative
+423,Sporty Leggings,39.99,101,Clothing - Activewear,10/20/2025,"great atmosphere, but the pizza was just okay.",0.5994,Positive
+424,Cotton Tote Bag Set,29.99,596,Accessories,05-08-2025,worst experience ever. the waiter was forgetful and the fries was greasy.,-0.7351,Negative
+425,Frozen Acai PurÃ©e,6.99,778,Food - Frozen,7/24/2025,don't waste your money. the sushi is stale and small portions.,0.3252,Positive
+426,Acoustic Guitar,199.99,88,Music,9/23/2025,"service was welcoming, but the food took too long to arrive.",0.2382,Positive
+427,Scented Candles,19.99,93,Home,4/19/2025,"the staff was rude, but the pizza was surprisingly fresh.",0.5789,Positive
+428,Veggie Lovers Pizza,8.99,31,Food - Frozen Foods,10/21/2025,"service was welcoming, but the food took too long to arrive.",0.2382,Positive
+429,Italian Herb Balsamic Marinade,3.99,1271,Food - Condiments,7/15/2025,quick delivery and the steak was still hot and fresh.,0.3182,Positive
+430,Californian Raisins,3.19,408,Food - Dried Fruits,10/21/2025,"service was quick, but the food took too long to arrive.",0.0,Neutral
+431,Luxury Bath Salts,19.99,15,Beauty,2/18/2025,a hidden gem! best burger i have had in a long time.,0.6696,Positive
+432,Chocolate Mint Cookies,2.29,0,Food - Baking,12-01-2025,"great atmosphere, but the burger was just okay.",0.5994,Positive
+433,Peach Yogurt,1.29,540,Food - Dairy,7/18/2025,"great atmosphere, but the curry was just okay.",0.5994,Positive
+434,Fishing Rod,49.99,4853,Outdoor,06-08-2025,"the staff was rude, but the fries was surprisingly amazing.",0.7906,Positive
+435,Animal Paw Print Soap Dispenser,16.99,2464,Home,3/20/2025,the soup was perfect and the service was quick. highly recommend!,0.7773,Positive
+436,Spicy Snack Mix,4.99,423,Food - Snacks,3/24/2025,a hidden gem! best burger i have had in a long time.,0.6696,Positive
+437,Organic Honeycrisp Apples,1.99,512,Food - Fruits,04-12-2025,"great atmosphere, but the fries was just okay.",0.5994,Positive
+438,Organic Green Lentils,3.99,1110,Food - Grocery,1/27/2025,"everything was delicious, from the sushi to the drinks.",0.5719,Positive
+439,Slim Fit Chinos,54.99,27,Clothing - Pants,7/24/2025,"the staff was forgetful, but the ramen was surprisingly fantastic.",0.7992,Positive
+440,Wall Planner,19.99,2697,Office,3/18/2025,worst experience ever. the waiter was slow and the steak was bland.,-0.6249,Negative
+441,Coconut Rice,2.29,686,Food - Frozen,08-04-2025,absolutely loved it! the curry was perfect.,0.8475,Positive
+442,Self-Massaging Pillow,49.99,1968,Health,11/25/2025,"everything was flavorful, from the tacos to the drinks.",0.0,Neutral
+443,Brownie Bites,4.99,504,Food - Baked Goods,03-03-2025,don't waste your money. the pizza is cold and small portions.,0.3252,Positive
+444,Ginger Tea,4.99,3720,Food - Beverages,1/31/2025,worst experience ever. the waiter was rude and the fries was salty.,-0.7964,Negative
+445,Cotton Tote Bag Set,29.99,346,Accessories,12-01-2025,don't waste your money. the steak is undercooked and small portions.,0.3252,Positive
+446,Sweet Corn Fritters,4.49,1028,Food - Frozen,10/30/2025,"everything was flavorful, from the salad to the drinks.",0.0,Neutral
+447,Tomato Basil Soup,3.49,0,Food - Canned Goods,04-09-2025,don't waste your money. the tacos is bland and small portions.,0.3252,Positive
+448,Personalized Keychain,10.99,4444,Accessories,06-02-2025,"great atmosphere, but the ramen was just okay.",0.5994,Positive
+449,Pet Water Fountain,39.99,0,Pets,08-03-2025,a hidden gem! best coffee i have had in a long time.,0.6696,Positive
+450,Kombucha Drink,3.49,2346,Food - Beverages,3/16/2025,don't waste your money. the fries is stale and small portions.,0.3252,Positive
+451,Heavy-Duty Utility Tote,34.99,125,Accessories,9/28/2025,absolutely loved it! the soup was fresh.,0.7773,Positive
+452,Rice Pilaf Mix,2.59,4740,Food - Grains,10/28/2025,the cake was fresh and the service was welcoming. highly recommend!,0.8066,Positive
+453,Outdoor Adventure Backpack,59.99,659,Outdoor,1/27/2025,i was disappointed with the sushi. it tasted cold.,-0.4767,Negative
+454,Mechanical Keyboard,99.99,72,Computers,10-08-2025,worst experience ever. the waiter was unprofessional and the soup was disappointing.,-0.891,Negative
+455,Hand Crank Blender,18.99,4952,Kitchen,9/20/2025,don't waste your money. the cake is bland and small portions.,0.3252,Positive
+456,Sweet Potato Fries,3.99,20,Food - Frozen Foods,10-10-2025,i was disappointed with the fries. it tasted salty.,-0.4767,Negative
+457,Lemonade Mix,1.99,1930,Food - Beverages,02-04-2025,the pasta was flavorful and the service was friendly. highly recommend!,0.7419,Positive
+458,Collapsible Colander,14.99,230,Kitchen,07-02-2025,"everything was mouth-watering, from the fries to the drinks.",0.0,Neutral
+459,Multi-Layer Food Steamer,39.99,1511,Kitchen,10/18/2025,don't waste your money. the tacos is disappointing and small portions.,-0.2187,Negative
+460,Noise Reduction Headphones,39.99,980,Audio,02-04-2025,"everything was flavorful, from the sandwich to the drinks.",0.0,Neutral
+461,Personalized Pet ID Tags,9.99,1050,Pets,10/22/2025,worst experience ever. the waiter was inattentive and the salad was bland.,-0.6249,Negative
+462,LED Camping Lantern with USB Charging,34.99,1742,Outdoor,12-09-2025,"service was welcoming, but the food took too long to arrive.",0.2382,Positive
+463,Organic Quinoa,4.29,102,Food - Grains,12-09-2025,"great atmosphere, but the fries was just okay.",0.5994,Positive
+464,Buffalo Stilton Cheese,8.99,1881,Food - Cheese,01-03-2025,quick delivery and the pasta was still hot and fresh.,0.3182,Positive
+465,Hibiscus Herbal Tea,3.29,0,Food - Beverages,02-06-2025,"great atmosphere, but the cake was just okay.",0.5994,Positive
+466,Fresh Cilantro,1.49,3490,Food - Produce,6/30/2025,a hidden gem! best curry i have had in a long time.,0.6696,Positive
+467,Mango Chunks,4.89,32,Food - Frozen Fruits,12-10-2025,"everything was perfect, from the sandwich to the drinks.",0.5719,Positive
+468,Lasagna Noodles,1.89,4563,Food - Pasta,09-01-2025,quick delivery and the steak was still hot and amazing.,0.5859,Positive
+469,Wall Planner,19.99,-1266,Office,09-08-2025,"everything was delicious, from the fries to the drinks.",0.5719,Positive
+470,Pet Training Pads,24.99,436,Pets,10-06-2025,don't waste your money. the curry is overpriced and small portions.,0.3252,Positive
+471,Electric Heating Pad,20.99,8,Health,6/17/2025,absolutely loved it! the tacos was fresh.,0.7773,Positive
+472,Samsung Galaxy Smartwatch,249.99,24,Wearable Tech,10/19/2025,a hidden gem! best salad i have had in a long time.,0.6696,Positive
+473,Apple Cinnamon Oatmeal,2.89,100,Food - Breakfast,7/24/2025,i was disappointed with the cake. it tasted greasy.,-0.4767,Negative
+474,Outdoor Camping Lantern,34.99,1429,Outdoor,4/15/2025,"great atmosphere, but the fries was just okay.",0.5994,Positive
+475,Black Olives,1.99,305,Food - Canned Goods,9/27/2025,"i found the curry to be cold, but my partner liked theirs.",0.5719,Positive
+476,Dark Chocolate Tart,6.29,21,Food - Desserts,10/27/2025,"great atmosphere, but the soup was just okay.",0.5994,Positive
+477,Vegetable Sushi Rolls,5.99,495,Food - Prepared Meals,12/23/2024,a hidden gem! best curry i have had in a long time.,0.6696,Positive
+478,Vegan Protein Powder,34.99,2040,Health,7/21/2025,absolutely loved it! the fries was excellent.,0.8475,Positive
+479,Camping Tarp,32.99,16,Outdoor,09-08-2025,"great atmosphere, but the coffee was just okay.",0.5994,Positive
+480,Mechanical Pencil Set,19.99,119,Office,07-12-2025,the soup was delicious and the service was welcoming. highly recommend!,0.8653,Positive
+481,Sour Cream,3.49,0,Food - Dairy,11/29/2025,don't waste your money. the pizza is terrible and small portions.,-0.1945,Negative
+482,Solar Garden Lights,39.99,30,Outdoor,01-12-2025,"i found the fries to be stale, but my partner liked theirs.",0.5719,Positive
+483,Heated Throw Blanket,49.99,825,Home,12-07-2025,worst experience ever. the waiter was rude and the ramen was overpriced.,-0.7964,Negative
+484,Lemon Garlic Marinade,4.29,2105,Food - Condiments,11-12-2025,"the staff was rude, but the pizza was surprisingly amazing.",0.7906,Positive
+485,Baking Soda,0.99,2133,Food - Baking,9/25/2025,"service was friendly, but the food took too long to arrive.",0.2732,Positive
+486,Kids' Gardening Kit,24.99,83,Toys,01-06-2025,don't waste your money. the sandwich is disappointing and small portions.,-0.2187,Negative
+487,Air Fryer Oven,149.99,663,Kitchen,5/13/2025,"great atmosphere, but the pasta was just okay.",0.5994,Positive
+488,Magnetic Phone Car Mount,14.99,15,Automotive,06-10-2025,a hidden gem! best fries i have had in a long time.,0.6696,Positive
+489,Comfortable Bed Pillow,24.99,162,Home,03-09-2025,"i found the soup to be bland, but my partner liked theirs.",0.5719,Positive
+490,Greek Yogurt Parfait,4.49,1969,Food - Dairy,2/15/2025,"everything was amazing, from the ramen to the drinks.",0.5859,Positive
+491,Garlic Herb Grilled Chicken,8.99,1050,Food - Frozen Foods,08-11-2025,"the staff was inattentive, but the salad was surprisingly fantastic.",0.8271,Positive
+492,Travel Pillow with Memory Foam,29.99,90,Travel,10/22/2025,worst experience ever. the waiter was forgetful and the pasta was stale.,-0.7351,Negative
+493,Brussels Sprouts,3.49,1690,Food - Produce,8/16/2025,absolutely loved it! the soup was perfect.,0.8475,Positive
+494,Tattoo Kit,99.99,29,Art Supplies,11/20/2025,"great atmosphere, but the burger was just okay.",0.5994,Positive
+495,Spinach and Cheese Stuffed Shells,5.99,1602,Food - Frozen Meals,12-12-2025,"service was quick, but the food took too long to arrive.",0.0,Neutral
+496,Foldable Yoga Mat Carry Bag,18.99,1096,Fitness,10/18/2025,i was disappointed with the steak. it tasted undercooked.,-0.4767,Negative
+497,Chino Shorts,34.99,34,Clothing - Bottoms,4/21/2025,"service was attentive, but the food took too long to arrive.",0.0,Neutral
+498,Spicy Salsa Verde,3.49,556,Food - Condiments,2/28/2025,worst experience ever. the waiter was rude and the soup was undercooked.,-0.7964,Negative
+499,Habanero Hot Sauce,3.79,206,Food - Condiments,12/27/2024,"i found the pasta to be stale, but my partner liked theirs.",0.5719,Positive
+500,Self-Watering Planters,49.99,157,Garden,09-08-2025,the sandwich was amazing and the service was friendly. highly recommend!,0.8775,Positive
+501,Classic Black Dress,79.99,674,Clothing - Dresses,7/26/2025,"i found the curry to be terrible, but my partner liked theirs.",0.3919,Positive
+502,Desk Organizer Set,29.99,7,Office,02-01-2025,worst experience ever. the waiter was rude and the pizza was cold.,-0.7964,Negative
+503,Foldable Yoga Mat Carry Bag,18.99,1500,Fitness,12/30/2024,"everything was mouth-watering, from the burger to the drinks.",0.0,Neutral
+504,Beef Sirloin Steak,15.99,1631,Food - Meat,10/27/2025,worst experience ever. the waiter was slow and the sushi was bland.,-0.6249,Negative
+505,Vegan Chocolate Cake Mix,4.29,0,Food - Baking,6/17/2025,"the staff was slow, but the pasta was surprisingly perfect.",0.8338,Positive
+506,Chickpea Pasta,4.19,56,Food - Pasta,10/30/2025,absolutely loved it! the pasta was fresh.,0.7773,Positive
+507,Maple Glazed Carrots,3.29,46,Food - Prepared Foods,12-01-2025,"great atmosphere, but the coffee was just okay.",0.5994,Positive
+508,Noise-Canceling Earbuds,79.99,32,Audio,04-09-2025,"everything was excellent, from the sushi to the drinks.",0.5719,Positive
+509,Car Diagnostic Scanner,49.99,0,Automotive,10-07-2025,the ramen was fantastic and the service was attentive. highly recommend!,0.7707,Positive
+510,Electric Blanket,59.99,1217,Home,06-12-2025,absolutely loved it! the pizza was mouth-watering.,0.6689,Positive
+511,Portable Hammock Swing,59.99,13,Outdoor,2/22/2025,absolutely loved it! the pasta was flavorful.,0.6689,Positive
+512,Ginger Turmeric Latte Mix,5.29,433,Food - Beverages,6/20/2025,"everything was flavorful, from the pasta to the drinks.",0.0,Neutral
+513,Red Lentils,1.99,4232,Food - Grains,7/17/2025,a hidden gem! best tacos i have had in a long time.,0.6696,Positive
+514,Protein Pancake Mix,3.99,1036,Food - Breakfast,5/20/2025,"everything was excellent, from the pasta to the drinks.",0.5719,Positive
+515,Pasta Maker,39.0,375,Kitchen,03-04-2025,"the staff was rude, but the fries was surprisingly mouth-watering.",0.2023,Positive
+516,Spinach Pizza Rolls,4.99,2730,Food - Frozen Foods,10-08-2025,don't waste your money. the salad is salty and small portions.,0.3252,Positive
+517,Chickpeas,1.29,95,Food - Canned Goods,2/28/2025,i was disappointed with the curry. it tasted terrible.,-0.7351,Negative
+518,Dried Cranberries,4.29,900,Food - Snacks,2/21/2025,don't waste your money. the salad is greasy and small portions.,0.3252,Positive
+519,Laptop Sleeve,24.99,1697,Accessories,3/28/2025,"the staff was slow, but the salad was surprisingly perfect.",0.8338,Positive
+520,Cranberry Almond Cookies,4.29,1427,Food - Bakery,5/22/2025,"everything was amazing, from the soup to the drinks.",0.5859,Positive
+521,Digital Wireless Meat Thermometer,39.99,2075,Kitchen,12/15/2025,the curry was excellent and the service was friendly. highly recommend!,0.8746,Positive
+522,Pepper Jack Cheese Sticks,2.49,435,Food - Snacks,9/22/2025,absolutely loved it! the fries was fresh.,0.7773,Positive
+523,Yoga Blocks,29.99,1043,Fitness,10/29/2025,don't waste your money. the sandwich is stale and small portions.,0.3252,Positive
+524,Plant Pot Drip Trays,9.99,4522,Garden,1/19/2025,i was disappointed with the curry. it tasted salty.,-0.4767,Negative
+525,Roasted Garlic Mashed Potatoes,3.99,5,Food - Frozen Foods,6/19/2025,"i found the pizza to be greasy, but my partner liked theirs.",0.5719,Positive
+526,Board Game,34.99,39,Toys,08-11-2025,worst experience ever. the waiter was slow and the steak was stale.,-0.6249,Negative
+527,Quinoa and Kale Salad Kit,5.29,26,Food - Salads,3/18/2025,"the staff was slow, but the steak was surprisingly perfect.",0.8338,Positive
+528,Portable Folding Picnic Table,69.99,1686,Outdoor,5/29/2025,the salad was excellent and the service was friendly. highly recommend!,0.8746,Positive
+529,Warm Knit Beanie,19.99,65,Clothing - Accessories,02-03-2025,don't waste your money. the ramen is stale and small portions.,0.3252,Positive
+530,BBQ Jackfruit,4.29,1987,Food - Prepared Foods,11/18/2025,"the staff was forgetful, but the sushi was surprisingly fantastic.",0.7992,Positive
+531,Rustic Italian Bread,3.59,2,Food - Bakery,03-10-2025,"service was polite, but the food took too long to arrive.",0.0,Neutral
+532,Crafting Kit,29.99,14,Art Supplies,5/21/2025,"i found the pasta to be overpriced, but my partner liked theirs.",0.5719,Positive
+533,Kale and Quinoa Salad,6.49,0,Food - Salads,04-04-2025,absolutely loved it! the cake was fresh.,0.7773,Positive
+534,Herbal Tea Infuser,9.99,0,Kitchen,4/26/2025,a hidden gem! best steak i have had in a long time.,0.6696,Positive
+535,Pet Hair Removal Brush,14.99,4150,Pets,11/25/2025,"i found the coffee to be undercooked, but my partner liked theirs.",0.5719,Positive
+536,Reusable Food Storage Bags,19.99,479,Kitchen,1/17/2025,"i found the coffee to be terrible, but my partner liked theirs.",0.3919,Positive
+537,Foam Muscle Roller,24.99,4165,Fitness,2/13/2025,a hidden gem! best ramen i have had in a long time.,0.6696,Positive
+538,Over-The-Door Shoe Organizer,25.99,15,Home,05-08-2025,"the staff was rude, but the coffee was surprisingly excellent.",0.7814,Positive
+539,Luxe Velvet Blazer,89.99,38,Clothing - Outerwear,11/25/2025,the burger was excellent and the service was friendly. highly recommend!,0.8746,Positive
+540,Collapsible Pet Dog Bowl,9.99,569,Pets,1/24/2025,absolutely loved it! the fries was flavorful.,0.6689,Positive
+541,Biodegradable Dog Waste Bags,14.99,705,Pets,03-05-2025,"great atmosphere, but the pizza was just okay.",0.5994,Positive
+542,Portable Phone Charger,29.99,918,Accessories,02-11-2025,quick delivery and the sushi was still hot and delicious.,0.5719,Positive
+543,Slim Fit Chinos,54.99,1465,Clothing - Pants,07-03-2025,"great atmosphere, but the sushi was just okay.",0.5994,Positive
+544,Quinoa and Kale Salad Kit,5.29,764,Food - Salads,10-10-2025,don't waste your money. the pizza is bland and small portions.,0.3252,Positive
+545,Car Phone Mount,15.99,446,Automotive,8/14/2025,i was disappointed with the soup. it tasted stale.,-0.4767,Negative
+546,Bamboo Cutting Board Set,34.99,834,Kitchen,02-10-2025,don't waste your money. the cake is salty and small portions.,0.3252,Positive
+547,Teriyaki Chicken Skewers,8.99,2663,Food - Meat,10/24/2025,"the staff was unprofessional, but the curry was surprisingly fantastic.",0.7615,Positive
+548,Honey Sesame Chicken,8.99,663,Food - Frozen Food,2/18/2025,don't waste your money. the burger is greasy and small portions.,0.3252,Positive
+549,Protein Powder,44.99,4288,Fitness,2/23/2025,absolutely loved it! the sandwich was fantastic.,0.8436,Positive
+550,Cordless Electric Screwdriver,39.99,218,Tools,3/16/2025,"great atmosphere, but the sandwich was just okay.",0.5994,Positive
+551,Wine Glasses,29.99,3810,Home,01-12-2025,"i found the cake to be greasy, but my partner liked theirs.",0.5719,Positive
+552,Caramelized Onion Dip,3.99,203,Food - Dairy,12-01-2025,a hidden gem! best soup i have had in a long time.,0.6696,Positive
+553,Bamboo Cutting Board,22.0,685,Kitchen,09-10-2025,quick delivery and the ramen was still hot and amazing.,0.5859,Positive
+554,Self-Massaging Pillow,49.99,58,Health,08-02-2025,"great atmosphere, but the coffee was just okay.",0.5994,Positive
+555,Magnetic Puzzle Board,24.99,20,Toys,7/16/2025,a hidden gem! best coffee i have had in a long time.,0.6696,Positive
+556,Tactical Backpack,59.99,23,Outdoor,12/19/2024,the pizza was fantastic and the service was welcoming. highly recommend!,0.862,Positive
+557,Chocolate Chip Pancake Mix,3.99,398,Food - Bakery,06-04-2025,absolutely loved it! the burger was flavorful.,0.6689,Positive
+558,Oatmeal Raisin Cookies,3.49,59,Food - Baked Goods,09-08-2025,the sushi was excellent and the service was attentive. highly recommend!,0.7773,Positive
+559,Samsung Galaxy Smartwatch,249.99,124,Wearable Tech,1/18/2025,the sushi was fantastic and the service was attentive. highly recommend!,0.7707,Positive
+560,Samsung Galaxy Smartwatch,249.99,1602,Wearable Tech,7/14/2025,i was disappointed with the salad. it tasted bland.,-0.4767,Negative
+561,Luminous Night Light,15.99,942,Home,12/16/2025,absolutely loved it! the pasta was fresh.,0.7773,Positive
+562,Peach & Mango Salsa,4.49,1000,Food - Snacks,03-04-2025,absolutely loved it! the burger was mouth-watering.,0.6689,Positive
+563,Sparkling Blood Orange Soda,1.99,4,Food - Beverages,6/13/2025,"the staff was slow, but the tacos was surprisingly excellent.",0.8338,Positive
+564,Black Olives,1.99,23,Food - Canned Goods,12-04-2025,"service was attentive, but the food took too long to arrive.",0.0,Neutral
+565,Slim Wallet,24.99,200,Accessories,02-09-2025,"everything was fantastic, from the soup to the drinks.",0.5574,Positive
+566,Handheld Vacuum,79.99,2040,Home Appliances,12/19/2024,absolutely loved it! the salad was flavorful.,0.6689,Positive
+567,Field Journal,14.99,308,Books,2/22/2025,don't waste your money. the pasta is terrible and small portions.,-0.1945,Negative
+568,Vacuum Sealer Machine,89.99,30,Kitchen,2/23/2025,worst experience ever. the waiter was slow and the fries was stale.,-0.6249,Negative
+569,Grapes (red),3.49,0,Food - Produce,11-06-2025,"the staff was forgetful, but the ramen was surprisingly excellent.",0.8074,Positive
+570,Wireless Smart Plug,19.99,-210,Smart Home,07-06-2025,quick delivery and the pasta was still hot and flavorful.,0.0,Neutral
+571,Spicy Garlic Edamame,3.99,325,Food - Snacks,2/19/2025,i was disappointed with the salad. it tasted overpriced.,-0.4767,Negative
+572,Mini Indoor Herb Garden Kit,24.99,20,Garden,4/30/2025,the salad was fresh and the service was attentive. highly recommend!,0.6581,Positive
+573,Insulated Sport Tumbler,22.99,866,Fitness,9/26/2025,quick delivery and the tacos was still hot and perfect.,0.5719,Positive
+574,Sliced Ham,5.49,4921,Food - Meat,12/26/2024,"the staff was inattentive, but the sandwich was surprisingly perfect.",0.8338,Positive
+575,Bamboo Cotton Tank Top,22.99,121,Clothing - Tops,5/19/2025,quick delivery and the tacos was still hot and fresh.,0.3182,Positive
+576,Organic Granola Cereal,5.99,241,Food - Breakfast,01-05-2025,quick delivery and the coffee was still hot and mouth-watering.,0.0,Neutral
+577,Chili Con Carne Mix,2.99,2080,Food - Spices & Seasonings,8/31/2025,"i found the pasta to be salty, but my partner liked theirs.",0.5719,Positive
+578,Personalized Pet ID Tags,9.99,1278,Pets,12/25/2024,absolutely loved it! the salad was excellent.,0.8475,Positive
+579,Magnetic Curtain Tiebacks,12.99,63,Home,2/24/2025,the pasta was fantastic and the service was attentive. highly recommend!,0.7707,Positive
+580,Dog Training Collar,39.99,20,Pets,11/22/2025,a hidden gem! best sushi i have had in a long time.,0.6696,Positive
+581,Children's Backpack,29.99,3365,Accessories,09-09-2025,quick delivery and the soup was still hot and flavorful.,0.0,Neutral
+582,Roasted Sweet Corn,1.99,540,Food - Frozen,11/13/2025,quick delivery and the fries was still hot and fantastic.,0.5574,Positive
+583,Smart Light Bulbs,34.99,1247,Smart Home,11/14/2025,the tacos was flavorful and the service was polite. highly recommend!,0.474,Positive
+584,Oven-Baked Potato Chips,2.79,148,Food - Snacks,5/30/2025,don't waste your money. the salad is stale and small portions.,0.3252,Positive
+585,Wireless Keyboard and Mouse Combo,34.99,495,Electronics,2/19/2025,"everything was fantastic, from the pizza to the drinks.",0.5574,Positive
+586,Comfortable Jogger Pants,29.99,5440,Clothing - Bottoms,12/30/2024,"i found the salad to be greasy, but my partner liked theirs.",0.5719,Positive
+587,Ethically-Sourced Coffee Beans,9.99,15,Food - Beverages,09-08-2025,"everything was fresh, from the cake to the drinks.",0.3182,Positive
+588,Smoked Gouda Cheese,5.49,1900,Food - Dairy,6/16/2025,absolutely loved it! the salad was fantastic.,0.8436,Positive
+589,Pet Bed with Removable Cover,49.99,10,Pets,8/13/2025,a hidden gem! best burger i have had in a long time.,0.6696,Positive
+590,Arcade Game Machine,299.99,181,Gaming,2/21/2025,i was disappointed with the sushi. it tasted salty.,-0.4767,Negative
+591,Non-Stick Baking Sheet,18.99,1831,Kitchen,9/24/2025,quick delivery and the steak was still hot and mouth-watering.,0.0,Neutral
+592,Zesty Garlic Marinade,4.49,350,Food - Condiments,04-06-2025,quick delivery and the steak was still hot and fresh.,0.3182,Positive
+593,Pork Chops,9.49,47,Food - Meat,7/13/2025,don't waste your money. the ramen is terrible and small portions.,-0.1945,Negative
+594,Tomato Sauce,2.79,142,Food - Canned Goods,04-01-2025,don't waste your money. the sushi is disappointing and small portions.,-0.2187,Negative
+595,Adjustable Laptop Stand,29.99,10,Office,06-03-2025,"service was welcoming, but the food took too long to arrive.",0.2382,Positive
+596,Portable Camping Stove,49.99,2000,Outdoor,12-09-2025,"the staff was inattentive, but the sandwich was surprisingly amazing.",0.8402,Positive
+597,Asian Stir-Fry Vegetables,2.99,794,Food - Frozen Foods,10/13/2025,"service was welcoming, but the food took too long to arrive.",0.2382,Positive
+598,Plaid Flannel Shirt,29.99,138,Clothing - Tops,10/13/2025,absolutely loved it! the sandwich was fantastic.,0.8436,Positive
+599,Fruit Infuser Water Bottle,15.99,0,Fitness,08-02-2025,"i found the ramen to be stale, but my partner liked theirs.",0.5719,Positive
+600,Wireless Earbuds Case,12.99,4174,Accessories,9/18/2025,worst experience ever. the waiter was forgetful and the sandwich was terrible.,-0.8519,Negative
+601,Printed Maxi Skirt,39.99,17,Clothing - Skirts,9/15/2025,"the staff was rude, but the sandwich was surprisingly delicious.",0.7814,Positive
+602,Savory Oats,2.49,1148,Food - Breakfast,01-05-2025,"i found the sandwich to be undercooked, but my partner liked theirs.",0.5719,Positive
+603,Spicy Thai Noodles,1.99,270,Food - Frozen Meals,06-06-2025,"i found the pasta to be undercooked, but my partner liked theirs.",0.5719,Positive
+604,Skincare Set,54.99,1955,Beauty,4/30/2025,the pizza was perfect and the service was attentive. highly recommend!,0.7773,Positive
+605,Coconut Milk,2.49,260,Food - Canned Goods,8/24/2025,"the staff was slow, but the burger was surprisingly mouth-watering.",0.4215,Positive
+606,Tandoori Chicken Skewers,7.99,1887,Food - Meat,10-05-2025,quick delivery and the cake was still hot and excellent.,0.5719,Positive
+607,Electric Razor,59.99,8,Health,3/27/2025,the pasta was flavorful and the service was polite. highly recommend!,0.474,Positive
+608,Self-Adhesive Wallpaper,34.99,1726,Home,9/15/2025,the soup was delicious and the service was welcoming. highly recommend!,0.8653,Positive
+609,Peach & Mango Salsa,4.49,834,Food - Snacks,02-03-2025,don't waste your money. the tacos is salty and small portions.,0.3252,Positive
+610,Ginger Snaps,2.79,5192,Food - Confectionery,2/28/2025,a hidden gem! best sushi i have had in a long time.,0.6696,Positive
+611,Self-Inflating Camping Mattress,49.99,23,Outdoor,8/27/2025,absolutely loved it! the ramen was flavorful.,0.6689,Positive
+612,Microfiber Cleaning Cloths,9.99,4700,Home,08-01-2025,"service was polite, but the food took too long to arrive.",0.0,Neutral
+613,Baking Soda,0.99,600,Food - Baking,03-07-2025,"service was welcoming, but the food took too long to arrive.",0.2382,Positive
+614,Pistachio Ice Cream,4.99,3970,Food - Frozen Desserts,03-05-2025,"i found the burger to be disappointing, but my partner liked theirs.",0.3818,Positive
+615,Sweet Potato and Chickpea Bowl,6.49,695,Food - Frozen Food,6/26/2025,"the staff was slow, but the curry was surprisingly flavorful.",0.4215,Positive
+616,Cheesy Broccoli Soup Mix,2.99,54,Food - Soups,4/14/2025,the pizza was delicious and the service was quick. highly recommend!,0.7773,Positive
+617,Pepper Jack Cheese Slices,3.49,203,Food - Dairy,02-05-2025,"i found the steak to be greasy, but my partner liked theirs.",0.5719,Positive
+618,Solar Charger,39.99,4229,Electronics,6/16/2025,"service was friendly, but the food took too long to arrive.",0.2732,Positive
+619,Portable Pet Water Bottle,18.99,443,Pets,9/27/2025,quick delivery and the soup was still hot and perfect.,0.5719,Positive
+620,Jennifer's Amazing Lip Balm Kit,22.99,74,Beauty,4/26/2025,"great atmosphere, but the pizza was just okay.",0.5994,Positive
+621,Coloring Books for Adults,14.99,5522,Books,03-02-2025,a hidden gem! best curry i have had in a long time.,0.6696,Positive
+622,Fleece Throw Blanket,29.99,3297,Home,03-04-2025,don't waste your money. the pasta is undercooked and small portions.,0.3252,Positive
+623,Sporty Cap,15.99,9500,Clothing - Accessories,12/17/2024,"i found the soup to be cold, but my partner liked theirs.",0.5719,Positive
+624,Cushion Covers,35.0,1,Home,03-04-2025,"everything was delicious, from the pasta to the drinks.",0.5719,Positive
+625,Caramelized Onion Dip,3.99,345,Food - Dairy,01-01-2025,don't waste your money. the pizza is terrible and small portions.,-0.1945,Negative
+626,Fitness Resistance Bands Kit,29.99,3934,Fitness,01-04-2025,quick delivery and the coffee was still hot and fresh.,0.3182,Positive
+627,Home Office Chair,199.99,105,Furniture,10/24/2025,worst experience ever. the waiter was unprofessional and the steak was overpriced.,-0.8126,Negative
+628,Folding Exercise Bike,199.99,1712,Fitness,12-05-2025,absolutely loved it! the sandwich was fresh.,0.7773,Positive
+629,Vegetable Lasagna,6.99,8,Food - Frozen Foods,12/26/2024,"service was polite, but the food took too long to arrive.",0.0,Neutral
+630,Dried Apricots,3.79,935,Food - Dried Fruits,5/13/2025,worst experience ever. the waiter was forgetful and the coffee was overpriced.,-0.7351,Negative
+631,Shatterproof Wine Glasses,24.99,75,Outdoor,02-02-2025,"everything was perfect, from the pizza to the drinks.",0.5719,Positive
+632,Smart Scale,59.99,40,Health,10-06-2025,don't waste your money. the curry is undercooked and small portions.,0.3252,Positive
+633,LED Disco Ball Light,19.99,52,Home,12/13/2025,i was disappointed with the curry. it tasted overpriced.,-0.4767,Negative
+634,Raspberry Limeade,1.99,529,Food - Beverages,05-05-2025,don't waste your money. the burger is terrible and small portions.,-0.1945,Negative
+635,Tattoo Kit,99.99,99,Art Supplies,3/28/2025,i was disappointed with the sandwich. it tasted overpriced.,-0.4767,Negative
+636,Teriyaki Chicken Stir-Fry,6.99,390,Food - Frozen Foods,08-07-2025,the cake was fresh and the service was attentive. highly recommend!,0.6581,Positive
+637,High-Low Hem Tee,22.99,28,Clothing - Tops,09-07-2025,i was disappointed with the soup. it tasted cold.,-0.4767,Negative
+638,Portable Phone Mug Holder,14.99,15,Automotive,1/21/2025,a hidden gem! best cake i have had in a long time.,0.6696,Positive
+639,Spicy Thai Noodles,1.99,9,Food - Frozen Meals,2/28/2025,"service was quick, but the food took too long to arrive.",0.0,Neutral
+640,Mini Fondue Set,34.99,3132,Kitchen,04-03-2025,"great atmosphere, but the coffee was just okay.",0.5994,Positive
+641,Athletic Sports Bra,24.99,655,Clothing - Activewear,06-01-2025,quick delivery and the coffee was still hot and excellent.,0.5719,Positive
+642,Fleece Throw Blanket,29.99,30,Home,10-09-2025,quick delivery and the steak was still hot and flavorful.,0.0,Neutral
+643,Traditional Hummus,3.29,2631,Food - Dips,3/27/2025,don't waste your money. the sandwich is cold and small portions.,0.3252,Positive
+644,Thai Basil Fried Rice,5.99,473,Food - Frozen,04-12-2025,don't waste your money. the sushi is stale and small portions.,0.3252,Positive
+645,Portable Bluetooth Headphones,79.99,387,Audio,11/18/2025,quick delivery and the burger was still hot and mouth-watering.,0.0,Neutral
+646,Travel Pillow,22.99,3680,Travel,9/13/2025,"the staff was inattentive, but the pasta was surprisingly perfect.",0.8338,Positive
+647,Outdoor Inflatable Pool,149.99,11,Outdoor,11/16/2025,quick delivery and the tacos was still hot and fantastic.,0.5574,Positive
+648,Garlic Parmesan Roasted Nuts,4.89,1877,Food - Nuts,3/24/2025,"great atmosphere, but the sandwich was just okay.",0.5994,Positive
+649,Smart Doorbell,119.99,356,Smart Home,01-01-2025,"great atmosphere, but the pasta was just okay.",0.5994,Positive
+650,Almond Crunch Granola Bars,3.49,1211,Food - Snacks,03-01-2025,quick delivery and the sandwich was still hot and perfect.,0.5719,Positive
+651,Animal Paw Print Soap Dispenser,16.99,436,Home,03-06-2025,quick delivery and the salad was still hot and mouth-watering.,0.0,Neutral
+652,Memory Card,15.99,1552,Storage,04-09-2025,"service was friendly, but the food took too long to arrive.",0.2732,Positive
+653,Soft Plush Throw Blanket,29.99,0,Home,07-10-2025,worst experience ever. the waiter was unprofessional and the salad was overpriced.,-0.8126,Negative
+654,Sushi Rice,3.99,3400,Food - Grains,9/29/2025,"i found the soup to be overpriced, but my partner liked theirs.",0.5719,Positive
+655,Noise-Canceling Earbuds,79.99,92,Audio,3/23/2025,"i found the salad to be salty, but my partner liked theirs.",0.5719,Positive
+656,Lemon Herb Grilled Chicken,9.99,1,Food - Meat,11/22/2025,i was disappointed with the salad. it tasted disappointing.,-0.743,Negative
+657,Pita Bread,2.99,230,Food - Bakery,12-12-2025,absolutely loved it! the coffee was excellent.,0.8475,Positive
+658,Athletic Sports Bra,24.99,1036,Clothing - Activewear,04-01-2025,worst experience ever. the waiter was forgetful and the burger was disappointing.,-0.8555,Negative
+659,Pumpkin Seeds,2.79,1965,Food - Snacks,11-02-2025,don't waste your money. the burger is disappointing and small portions.,-0.2187,Negative
+660,Basmati Rice,5.79,18,Food - Grains,7/27/2025,"service was quick, but the food took too long to arrive.",0.0,Neutral
+661,Personal Blender,39.99,198,Kitchen,10/14/2025,the coffee was fresh and the service was friendly. highly recommend!,0.8217,Positive
+662,Dog Training Collar,39.99,1249,Pets,11-10-2025,"great atmosphere, but the pasta was just okay.",0.5994,Positive
+663,Bluetooth Car Adapter,24.99,129,Automotive,10-09-2025,the pasta was fantastic and the service was attentive. highly recommend!,0.7707,Positive
+664,Chicken Fajita Kit,8.99,33,Food - Prepared Foods,03-02-2025,worst experience ever. the waiter was inattentive and the sushi was salty.,-0.6249,Negative
+665,Savory Breakfast Sausage,6.49,61,Food - Meats,11/13/2025,i was disappointed with the steak. it tasted bland.,-0.4767,Negative
+666,Frozen Acai PurÃ©e,6.99,272,Food - Frozen,10/22/2025,i was disappointed with the sandwich. it tasted terrible.,-0.7351,Negative
+667,Instant Pot,89.99,39,Kitchen,4/30/2025,worst experience ever. the waiter was slow and the curry was terrible.,-0.802,Negative
+668,Buffalo Chicken Dip,5.99,151,Food - Dips,09-02-2025,a hidden gem! best fries i have had in a long time.,0.6696,Positive
+669,DIY Lip Balm Making Kit,22.99,0,Crafts,06-03-2025,"great atmosphere, but the soup was just okay.",0.5994,Positive
+670,Multifunctional Baby Bottle Warmer,39.99,59,Baby,04-02-2025,"everything was excellent, from the steak to the drinks.",0.5719,Positive
+671,Classic Bagels,2.99,421,Food - Bakery,4/29/2025,i was disappointed with the burger. it tasted overpriced.,-0.4767,Negative
+672,Noise Reduction Headphones,39.99,2737,Audio,3/19/2025,"service was quick, but the food took too long to arrive.",0.0,Neutral
+673,Nutty Quinoa Salad,4.99,17,Food - Salads,10/29/2025,quick delivery and the cake was still hot and flavorful.,0.0,Neutral
+674,LED Flashlight,19.99,15,Outdoor,01-05-2025,"great atmosphere, but the sandwich was just okay.",0.5994,Positive
+675,Memory Foam Mattress Pad,69.99,1968,Home,4/21/2025,"great atmosphere, but the tacos was just okay.",0.5994,Positive
+676,Noise Cancelling Ear Muffs,24.99,157,Safety,12/25/2024,a hidden gem! best ramen i have had in a long time.,0.6696,Positive
+677,Fashionable Scarves Set,24.99,430,Clothing,01-09-2025,don't waste your money. the pasta is overpriced and small portions.,0.3252,Positive
+678,Mobile Workbench,199.99,627,Tools,12/22/2024,absolutely loved it! the sandwich was fantastic.,0.8436,Positive
+679,Organic Coconut Yogurt,4.49,3520,Food - Dairy,9/27/2025,don't waste your money. the soup is cold and small portions.,0.3252,Positive
+680,Portable Blender,30.0,3318,Kitchen,12-04-2025,"service was friendly, but the food took too long to arrive.",0.2732,Positive
+681,Portable Massage Table,199.99,81,Health,02-05-2025,absolutely loved it! the tacos was fresh.,0.7773,Positive
+682,White Rice,1.49,3904,Food - Grains,1/23/2025,don't waste your money. the soup is stale and small portions.,0.3252,Positive
+683,Pet Grooming Scissors,16.99,102,Pets,5/21/2025,don't waste your money. the steak is disappointing and small portions.,-0.2187,Negative
+684,French Onion Dip,2.99,1191,Food - Condiments,09-05-2025,"the staff was unprofessional, but the fries was surprisingly perfect.",0.7717,Positive
+685,Kids' Gardening Tools Set,22.99,2287,Toys,02-07-2025,worst experience ever. the waiter was slow and the burger was greasy.,-0.6249,Negative
+686,Frozen Hash Browns,2.99,92,Food - Frozen Foods,4/27/2025,absolutely loved it! the curry was fantastic.,0.8436,Positive
+687,Adjustable Laptop Desk,59.99,59,Office,04-06-2025,"the staff was unprofessional, but the pasta was surprisingly fantastic.",0.7615,Positive
+688,Cream Cheese,2.69,141,Food - Dairy,07-12-2025,absolutely loved it! the coffee was mouth-watering.,0.6689,Positive
+689,Wireless Printer,99.99,1095,Office,8/16/2025,i was disappointed with the sandwich. it tasted cold.,-0.4767,Negative
+690,Grass Fed Beef Patties,9.99,75,Food - Meat,2/13/2025,i was disappointed with the fries. it tasted terrible.,-0.7351,Negative
+691,Cocoa Powder,3.99,0,Food - Baking,3/29/2025,worst experience ever. the waiter was unprofessional and the sandwich was overpriced.,-0.8126,Negative
+692,Chocolate Dipped Fruit,5.99,20,Food - Snacks,03-03-2025,absolutely loved it! the pizza was amazing.,0.8513,Positive
+693,Hand Mixer,29.99,588,Kitchen,07-09-2025,"great atmosphere, but the burger was just okay.",0.5994,Positive
+694,Raspberry Vanilla Greek Yogurt,3.49,268,Food - Dairy,06-09-2025,don't waste your money. the burger is greasy and small portions.,0.3252,Positive
+695,Garden Hose Reel,49.99,0,Garden,4/27/2025,"service was welcoming, but the food took too long to arrive.",0.2382,Positive
+696,Motion Sensor Light,19.99,1965,Home,10/25/2025,a hidden gem! best coffee i have had in a long time.,0.6696,Positive
+697,Cranberry Almond Granola,4.29,125,Food - Breakfast,10/26/2025,don't waste your money. the curry is disappointing and small portions.,-0.2187,Negative
+698,Fitness Tracker,49.99,32,Fitness,5/14/2025,"service was friendly, but the food took too long to arrive.",0.2732,Positive
+699,Smart Wi-Fi Light Bulbs,19.99,90,Smart Home,06-02-2025,absolutely loved it! the ramen was excellent.,0.8475,Positive
+700,Coconut Cream,2.99,832,Food - Baking & Cooking,10-11-2025,don't waste your money. the sandwich is bland and small portions.,0.3252,Positive
+701,DIY Candle Making Kit,22.99,8361,Crafts,04-01-2025,i was disappointed with the fries. it tasted bland.,-0.4767,Negative
+702,High-Quality Yoga Block,12.99,646,Fitness,11/27/2025,"i found the ramen to be salty, but my partner liked theirs.",0.5719,Positive
+703,Golf Putting Green,79.99,582,Sports,10-06-2025,"great atmosphere, but the pasta was just okay.",0.5994,Positive
+704,Honey Lemon Tea,3.29,1493,Food - Beverages,8/13/2025,"service was polite, but the food took too long to arrive.",0.0,Neutral
+705,Multicolored LED Strip Lights,29.99,26,Home,01-02-2025,don't waste your money. the sandwich is salty and small portions.,0.3252,Positive
+706,Black Bean & Corn Salad,3.99,5330,Food - Salads,09-11-2025,"great atmosphere, but the tacos was just okay.",0.5994,Positive
+707,Dill Pickle Chips,2.29,33,Food - Condiments,4/23/2025,quick delivery and the curry was still hot and delicious.,0.5719,Positive
+708,Coconut Curry Sauce,3.89,612,Food - Sauces,03-06-2025,"great atmosphere, but the salad was just okay.",0.5994,Positive
+709,Tortilla Chips,2.99,197,Food - Snacks,8/29/2025,don't waste your money. the fries is stale and small portions.,0.3252,Positive
+710,Bluetooth Shower Speaker,24.99,80,Audio,07-12-2025,absolutely loved it! the burger was perfect.,0.8475,Positive
+711,Bodyweight Resistance Bands,22.99,1334,Fitness,6/28/2025,absolutely loved it! the coffee was perfect.,0.8475,Positive
+712,Organic Ramen Noodles,2.89,263,Food - Pasta,3/16/2025,don't waste your money. the sushi is salty and small portions.,0.3252,Positive
+713,Vegan Chickpea Salad,3.99,61,Food - Prepared Foods,11-01-2025,i was disappointed with the burger. it tasted overpriced.,-0.4767,Negative
+714,Collapsible Folding Chair,29.99,0,Outdoor,3/29/2025,the ramen was fantastic and the service was polite. highly recommend!,0.7707,Positive
+715,Organic Baby Spinach,2.99,3295,Food - Produce,11/29/2025,i was disappointed with the ramen. it tasted overpriced.,-0.4767,Negative
+716,Almond Flour Pizza Crust,7.99,768,Food - Frozen Foods,6/18/2025,the sandwich was perfect and the service was welcoming. highly recommend!,0.8653,Positive
+717,Folding Pocket Knife,24.99,67,Tools,12-09-2025,a hidden gem! best ramen i have had in a long time.,0.6696,Positive
+718,Sweetened Condensed Milk,1.89,1765,Food - Baking Goods,2/20/2025,"everything was fantastic, from the pizza to the drinks.",0.5574,Positive
+719,Scented Candle Set,24.99,305,Home,03-09-2025,absolutely loved it! the cake was mouth-watering.,0.6689,Positive
+720,Green Tea Matcha Powder,15.99,0,Food - Beverages,6/23/2025,don't waste your money. the steak is greasy and small portions.,0.3252,Positive
+721,Collapsible Water Bottle,12.99,1408,Fitness,11/19/2025,"great atmosphere, but the salad was just okay.",0.5994,Positive
+722,Faux Fur Throw Blanket,39.99,369,Home,5/30/2025,"service was attentive, but the food took too long to arrive.",0.0,Neutral
+723,Home Karaoke System,129.99,78,Audio,12/26/2024,absolutely loved it! the steak was fresh.,0.7773,Positive
+724,Sliced Avocado,2.79,0,Food - Produce,09-11-2025,the cake was amazing and the service was attentive. highly recommend!,0.7836,Positive
+725,Portable Jump Starter,59.99,1860,Automotive,08-03-2025,"the staff was forgetful, but the pasta was surprisingly excellent.",0.8074,Positive
+726,Coconut Cream,2.99,308,Food - Baking & Cooking,9/14/2025,a hidden gem! best curry i have had in a long time.,0.6696,Positive
+727,Non-Slip Yoga Socks,12.99,1985,Fitness,9/24/2025,the sushi was fantastic and the service was polite. highly recommend!,0.7707,Positive
+728,Tandoori Chicken Skewers,7.99,10,Food - Meat,10-03-2025,don't waste your money. the curry is disappointing and small portions.,-0.2187,Negative
+729,Mobile Workbench,199.99,677,Tools,8/13/2025,absolutely loved it! the sandwich was perfect.,0.8475,Positive
+730,Pet Hair Vacuum Attachment,14.99,0,Pets,2/19/2025,absolutely loved it! the pasta was amazing.,0.8513,Positive
+731,Aeropress Coffee Maker,29.99,822,Kitchen,10/17/2025,quick delivery and the cake was still hot and fantastic.,0.5574,Positive
+732,Peanut Butter Protein Balls,5.29,197,Food - Snacks,10/30/2025,quick delivery and the curry was still hot and fresh.,0.3182,Positive
+733,Sweet Pea Hummus,4.29,13,Food - Dips,4/19/2025,"i found the curry to be terrible, but my partner liked theirs.",0.3919,Positive
+734,LED Strip Light Kit,39.99,34,Home,10/21/2025,"the staff was rude, but the burger was surprisingly flavorful.",0.2023,Positive
+735,Magnetic Chess Set,19.99,509,Toys,7/17/2025,"the staff was rude, but the tacos was surprisingly perfect.",0.7814,Positive
+736,Cocoa Powder,3.99,61,Food - Baking,05-05-2025,quick delivery and the pasta was still hot and amazing.,0.5859,Positive
+737,Tailored Dress Pants,79.99,1175,Clothing - Bottoms,10-04-2025,"great atmosphere, but the fries was just okay.",0.5994,Positive
+738,Arcade Game Machine,299.99,3358,Gaming,8/29/2025,"service was polite, but the food took too long to arrive.",0.0,Neutral
+739,Sriracha Sauce,3.19,11,Food - Condiments,3/13/2025,"great atmosphere, but the curry was just okay.",0.5994,Positive
+740,Electric Nail File Kit,34.99,1047,Beauty,03-04-2025,quick delivery and the pizza was still hot and fresh.,0.3182,Positive
+741,Teriyaki Chicken Skewers,8.99,334,Food - Meat,4/13/2025,worst experience ever. the waiter was forgetful and the curry was salty.,-0.7351,Negative
+742,Chocolate Protein Powder,24.99,390,Food - Supplements,09-12-2025,"the staff was rude, but the fries was surprisingly flavorful.",0.2023,Positive
+743,Pumpkin Spice Cookies,3.29,2320,Food - Bakery,8/19/2025,"great atmosphere, but the fries was just okay.",0.5994,Positive
+744,Electric Hot Water Dispenser,59.99,374,Kitchen,10/22/2025,i was disappointed with the soup. it tasted terrible.,-0.7351,Negative
+745,Chickpea Pancakes,4.99,724,Food - Frozen,05-03-2025,"everything was flavorful, from the pasta to the drinks.",0.0,Neutral
+746,Travel Hair Straightener,29.99,725,Beauty,01-09-2025,absolutely loved it! the tacos was perfect.,0.8475,Positive
+747,Pecan Pie Filling,3.99,0,Food - Baking Goods,12/16/2025,i was disappointed with the burger. it tasted greasy.,-0.4767,Negative
+748,Vegan Tacos,7.49,1817,Food - Frozen Foods,4/26/2025,"the staff was inattentive, but the pizza was surprisingly amazing.",0.8402,Positive
+749,Gardening Tools Set,45.0,0,Garden,03-09-2025,a hidden gem! best coffee i have had in a long time.,0.6696,Positive
+750,Adjustable Pet Feeder,39.99,786,Pets,6/30/2025,don't waste your money. the pizza is salty and small portions.,0.3252,Positive
+751,Pumpkin Seeds,2.79,120,Food - Snacks,9/20/2025,"great atmosphere, but the cake was just okay.",0.5994,Positive
+752,Cocoa Powder,3.99,131,Food - Baking,3/29/2025,"service was polite, but the food took too long to arrive.",0.0,Neutral
+753,Warm Knit Beanie,19.99,1444,Clothing - Accessories,12/21/2024,the steak was fresh and the service was friendly. highly recommend!,0.8217,Positive
+754,LED Desk Lamp with USB Charging,39.99,604,Office,12/14/2025,"service was welcoming, but the food took too long to arrive.",0.2382,Positive
+755,Pet Hair Vacuum Attachment,14.99,20,Pets,01-11-2025,"service was polite, but the food took too long to arrive.",0.0,Neutral
+756,Frozen Broccoli,2.49,725,Food - Frozen,03-02-2025,"great atmosphere, but the steak was just okay.",0.5994,Positive
+757,Siphon Coffee Maker,49.99,93,Kitchen,08-10-2025,"everything was delicious, from the pasta to the drinks.",0.5719,Positive
+758,Compact Shoe Rack,34.99,489,Home,6/22/2025,"service was polite, but the food took too long to arrive.",0.0,Neutral
+759,Peanut Butter Banana Smoothie,3.99,3279,Food - Beverages,04-03-2025,"the staff was rude, but the sandwich was surprisingly perfect.",0.7814,Positive
+760,Under Desk Footrest,29.99,89,Office,4/24/2025,don't waste your money. the tacos is undercooked and small portions.,0.3252,Positive
+761,Fashionable Scarves Set,24.99,14,Clothing,02-12-2025,"everything was mouth-watering, from the soup to the drinks.",0.0,Neutral
+762,High-Speed Blender,99.99,100,Kitchen,12-05-2025,worst experience ever. the waiter was rude and the cake was salty.,-0.7964,Negative
+763,Cooking Utensil Set,24.99,5638,Kitchen,11/25/2025,a hidden gem! best soup i have had in a long time.,0.6696,Positive
+764,Pecan Pie Filling,3.99,1050,Food - Baking Goods,7/19/2025,"service was friendly, but the food took too long to arrive.",0.2732,Positive
+765,Adjustable Window Blind,49.99,2647,Home,9/13/2025,quick delivery and the sushi was still hot and perfect.,0.5719,Positive
+766,Pumpkin Spice Creamer,3.79,12,Food - Beverages,9/17/2025,the tacos was perfect and the service was attentive. highly recommend!,0.7773,Positive
+767,Thai Basil Fried Rice,5.99,65,Food - Frozen,8/30/2025,"everything was fantastic, from the pasta to the drinks.",0.5574,Positive
+768,Sports Windbreaker,44.99,1610,Clothing - Outerwear,8/18/2025,worst experience ever. the waiter was rude and the sushi was greasy.,-0.7964,Negative
+769,Dual Function Electric Skillet,59.99,0,Kitchen,07-02-2025,a hidden gem! best pizza i have had in a long time.,0.6696,Positive
+770,Smoky BBQ Jackfruit,4.99,0,Food - Grocery,1/14/2025,the soup was amazing and the service was quick. highly recommend!,0.7836,Positive
+771,Freestanding Wine Rack,79.99,16,Home,11/18/2025,a hidden gem! best soup i have had in a long time.,0.6696,Positive
+772,Sweet Corn,1.5,650,Food - Canned Goods,04-10-2025,"i found the cake to be salty, but my partner liked theirs.",0.5719,Positive
+773,Couscous Mix,2.49,4021,Food - Grains,1/21/2025,a hidden gem! best sushi i have had in a long time.,0.6696,Positive
+774,Smart Plug,19.99,5282,Smart Home,10-08-2025,a hidden gem! best sandwich i have had in a long time.,0.6696,Positive
+775,Classic Bagels,2.99,630,Food - Bakery,6/26/2025,"i found the soup to be salty, but my partner liked theirs.",0.5719,Positive
+776,Orange Ginger Vinaigrette,3.99,399,Food - Condiments,9/21/2025,don't waste your money. the sushi is stale and small portions.,0.3252,Positive
+777,Frozen Pizza,7.99,148,Food - Frozen Foods,2/24/2025,"i found the soup to be undercooked, but my partner liked theirs.",0.5719,Positive
+778,Watering Can with Nozzle,19.99,2250,Garden,5/18/2025,a hidden gem! best steak i have had in a long time.,0.6696,Positive
+779,Magnetic Chess Set,19.99,481,Toys,03-10-2025,absolutely loved it! the steak was fresh.,0.7773,Positive
+780,Portable Ice Maker,199.99,2469,Kitchen,6/26/2025,"great atmosphere, but the tacos was just okay.",0.5994,Positive
+781,Vegetable Stock,2.49,26,Food - Cooking Essentials,08-12-2025,"the staff was slow, but the steak was surprisingly perfect.",0.8338,Positive
+782,Sesame Seeds,1.99,1601,Food - Baking,11/14/2025,"the staff was unprofessional, but the ramen was surprisingly fresh.",0.5574,Positive
+783,Mini Pretzels,2.99,5,Food - Snacks,02-02-2025,don't waste your money. the soup is undercooked and small portions.,0.3252,Positive
+784,Himalayan Salt Grinder,4.99,73,Food - Spices,2/25/2025,i was disappointed with the fries. it tasted overpriced.,-0.4767,Negative
+785,Marinated Artichokes,3.79,0,Food - Vegetables,6/13/2025,quick delivery and the pizza was still hot and excellent.,0.5719,Positive
+786,Insulated Wine Tote,24.99,425,Accessories,8/21/2025,a hidden gem! best cake i have had in a long time.,0.6696,Positive
+787,Fruit and Nut Energy Bites,2.99,2260,Food - Snacks,11/23/2025,"service was polite, but the food took too long to arrive.",0.0,Neutral
+788,Honey Mustard Pretzel Bites,3.99,15,Food - Snacks,12/28/2024,"great atmosphere, but the ramen was just okay.",0.5994,Positive
+789,Cinnamon Sugar Mix,1.49,238,Food - Baking,09-09-2025,i was disappointed with the tacos. it tasted undercooked.,-0.4767,Negative
+790,Coffee Making Kit,44.99,127,Kitchen,3/26/2025,i was disappointed with the steak. it tasted salty.,-0.4767,Negative
+791,Adjustable Garden Rake,22.99,526,Garden,08-10-2025,"i found the curry to be stale, but my partner liked theirs.",0.5719,Positive
+792,Rechargeable Battery Organizer,17.99,20,Home,8/13/2025,"service was welcoming, but the food took too long to arrive.",0.2382,Positive
+793,Gluten-Free Biscuits,3.79,394,Food - Baking,5/20/2025,absolutely loved it! the tacos was flavorful.,0.6689,Positive
+794,Digital Kitchen Timer,14.99,226,Kitchen,4/29/2025,a hidden gem! best burger i have had in a long time.,0.6696,Positive
+795,Honey Mustard Pretzel Bites,3.99,472,Food - Snacks,12/21/2024,"i found the salad to be greasy, but my partner liked theirs.",0.5719,Positive
+796,Scented Candles,19.99,240,Home,12/22/2024,a hidden gem! best tacos i have had in a long time.,0.6696,Positive
+797,Tuscan Bean Soup,2.49,433,Food - Canned Goods,02-04-2025,i was disappointed with the pizza. it tasted overpriced.,-0.4767,Negative
+798,Pet Safety Harness,24.99,0,Pets,1/15/2025,"i found the curry to be stale, but my partner liked theirs.",0.5719,Positive
+799,Italian Herbal Seasoning,1.99,266,Food - Spices,1/28/2025,absolutely loved it! the soup was fresh.,0.7773,Positive
+800,Pistachio Ice Cream,4.99,1387,Food - Frozen Desserts,7/13/2025,i was disappointed with the burger. it tasted salty.,-0.4767,Negative
+801,Motion Sensor Light,19.99,450,Home,8/16/2025,"great atmosphere, but the burger was just okay.",0.5994,Positive
+802,Wireless Printer,99.99,165,Office,9/14/2025,i was disappointed with the pasta. it tasted terrible.,-0.7351,Negative
+803,Electrolyte Water Bottle,34.99,668,Fitness,2/25/2025,a hidden gem! best pizza i have had in a long time.,0.6696,Positive
+804,Smartphone UV Sanitizer,39.99,6763,Health,07-04-2025,absolutely loved it! the cake was flavorful.,0.6689,Positive
+805,Thai Basil Fried Rice,5.99,40,Food - Frozen,06-08-2025,absolutely loved it! the soup was mouth-watering.,0.6689,Positive
+806,Herbal Tea Set,19.99,5,Food,12/29/2024,"everything was fresh, from the soup to the drinks.",0.3182,Positive
+807,Coconut Chips,3.59,56,Food - Snacks,7/20/2025,a hidden gem! best ramen i have had in a long time.,0.6696,Positive
+808,Vegan Caesar Dressing,3.99,1624,Food - Condiments,05-11-2025,quick delivery and the sushi was still hot and flavorful.,0.0,Neutral
+809,Pet Grooming Kit,39.99,0,Pets,11/23/2025,i was disappointed with the pizza. it tasted undercooked.,-0.4767,Negative
+810,High-Pressure Handheld Shower Head,39.99,75,Bathroom,03-05-2025,worst experience ever. the waiter was forgetful and the cake was overpriced.,-0.7351,Negative
+811,Blackberry Jam,4.29,256,Food - Condiments,06-01-2025,i was disappointed with the pizza. it tasted overpriced.,-0.4767,Negative
+812,Pumpkin Spice Latte Mix,3.29,140,Food - Beverages,11/22/2025,"i found the ramen to be disappointing, but my partner liked theirs.",0.3818,Positive
+813,Rechargeable Electric Toothbrush,49.99,3442,Health,5/19/2025,"i found the pizza to be cold, but my partner liked theirs.",0.5719,Positive
+814,Beef Stroganoff Mix,5.49,10,Food - Meal Kits,10-02-2025,a hidden gem! best salad i have had in a long time.,0.6696,Positive
+815,Travel Yoga Mat,34.99,164,Fitness,04-06-2025,absolutely loved it! the steak was fantastic.,0.8436,Positive
+816,Sweet Chili Sauce,2.99,3245,Food - Condiments,3/30/2025,"great atmosphere, but the curry was just okay.",0.5994,Positive
+817,Weighted Jump Rope,15.99,6221,Fitness,10/17/2025,"great atmosphere, but the sushi was just okay.",0.5994,Positive
+818,Pet Carrier,39.99,132,Pets,5/19/2025,worst experience ever. the waiter was slow and the curry was bland.,-0.6249,Negative
+819,Heated Throw Blanket,49.99,4551,Home,8/24/2025,a hidden gem! best cake i have had in a long time.,0.6696,Positive
+820,Electric Rice Cooker with Steamer,49.99,108,Kitchen,04-05-2025,a hidden gem! best salad i have had in a long time.,0.6696,Positive
+821,Frozen Spinach,1.99,982,Food - Frozen Foods,7/22/2025,don't waste your money. the ramen is salty and small portions.,0.3252,Positive
+822,Honey Ginger Tea,2.99,115,Food - Beverages,01-06-2025,"the staff was inattentive, but the sushi was surprisingly excellent.",0.8338,Positive
+823,Dark Chocolate Raisins,3.49,124,Food - Snacks,3/29/2025,worst experience ever. the waiter was forgetful and the burger was greasy.,-0.7351,Negative
+824,Overnight Hiking Backpack,79.99,511,Outdoor,3/27/2025,worst experience ever. the waiter was unprofessional and the sandwich was bland.,-0.8126,Negative
+825,Tomatillo Salsa,3.29,450,Food - Condiments,07-06-2025,i was disappointed with the salad. it tasted disappointing.,-0.743,Negative
+826,Almond Joy Snack Bars,2.99,20,Food - Snacks,2/21/2025,the salad was delicious and the service was friendly. highly recommend!,0.8746,Positive
+827,Foam Roller for Muscle Recovery,29.99,187,Fitness,2/25/2025,don't waste your money. the coffee is salty and small portions.,0.3252,Positive
+828,Ginger Snaps,2.79,206,Food - Confectionery,2/21/2025,absolutely loved it! the coffee was perfect.,0.8475,Positive
+829,Children's Gardening Set,19.99,3755,Toys,7/20/2025,worst experience ever. the waiter was inattentive and the curry was greasy.,-0.6249,Negative
+830,Organic Almond Flour,6.99,2255,Food - Baking,03-07-2025,"service was quick, but the food took too long to arrive.",0.0,Neutral
+831,Portable Hammock with Stand,69.99,767,Outdoor,10-04-2025,i was disappointed with the fries. it tasted stale.,-0.4767,Negative
+832,Portable Jump Starter,59.99,15,Automotive,4/23/2025,the tacos was perfect and the service was welcoming. highly recommend!,0.8653,Positive
+833,Jasmine Rice,2.39,236,Food - Grains,04-11-2025,the ramen was amazing and the service was polite. highly recommend!,0.7836,Positive
+834,Smart Water Bottle with Hydration Reminder,39.99,304,Fitness,3/21/2025,the sushi was fresh and the service was attentive. highly recommend!,0.6581,Positive
+835,Natural Peanut Butter,4.29,75,Food - Spreads,2/15/2025,don't waste your money. the ramen is overpriced and small portions.,0.3252,Positive
+836,Smart Fitness Scale,49.99,3868,Fitness,5/31/2025,"service was welcoming, but the food took too long to arrive.",0.2382,Positive
+837,Sesame Garlic Noodles,3.49,4179,Food - Pasta,03-02-2025,quick delivery and the pasta was still hot and fresh.,0.3182,Positive
+838,Sesame Garlic Noodles,3.49,5680,Food - Pasta,8/29/2025,a hidden gem! best burger i have had in a long time.,0.6696,Positive
+839,Reversible Comforter Set,89.99,370,Home,11/15/2025,the fries was perfect and the service was friendly. highly recommend!,0.8746,Positive
+840,Portable Solar Path Lights,39.99,403,Outdoor,7/17/2025,"the staff was inattentive, but the sushi was surprisingly excellent.",0.8338,Positive
+841,Creamy Ranch Dressing,2.49,1335,Food - Dressings,12/29/2024,absolutely loved it! the cake was flavorful.,0.6689,Positive
+842,Wall Decals for Kids,24.99,4006,Home,03-02-2025,"everything was delicious, from the tacos to the drinks.",0.5719,Positive
+843,Ceramic Bakeware Set,49.99,98,Kitchen,03-12-2025,"everything was fresh, from the pasta to the drinks.",0.3182,Positive
+844,Graphic Print Leggings,29.99,170,Clothing - Activewear,09-11-2025,a hidden gem! best burger i have had in a long time.,0.6696,Positive
+845,Decorative Throw Pillows,29.99,3510,Home,05-10-2025,worst experience ever. the waiter was unprofessional and the fries was greasy.,-0.8126,Negative
+846,Banana Peanut Butter Smoothie,5.49,3,Food - Frozen Foods,1/26/2025,a hidden gem! best fries i have had in a long time.,0.6696,Positive
+847,Cinnamon Sugar Donuts,4.99,4950,Food - Bakery,11/14/2025,"the staff was forgetful, but the burger was surprisingly mouth-watering.",0.3071,Positive
+848,Compact Refrigerator,199.99,681,Home Appliances,02-05-2025,"everything was mouth-watering, from the coffee to the drinks.",0.0,Neutral
+849,Savory Snack Mix,4.49,39,Food - Snacks,09-08-2025,"i found the pasta to be salty, but my partner liked theirs.",0.5719,Positive
+850,Portable Blender,30.0,0,Kitchen,07-02-2025,i was disappointed with the pasta. it tasted disappointing.,-0.743,Negative
+851,Mediterranean Olives,6.49,889,Food - Condiments,09-03-2025,"the staff was slow, but the tacos was surprisingly fresh.",0.6956,Positive
+852,Organic Baby Carrots,2.99,860,Food - Fresh Produce,9/26/2025,the coffee was fantastic and the service was friendly. highly recommend!,0.8716,Positive
+853,Wooden Kitchen Utensil Set,19.99,17,Kitchen,6/22/2025,a hidden gem! best burger i have had in a long time.,0.6696,Positive
+854,Electric Stool Heater,29.99,3799,Home,12/27/2024,a hidden gem! best curry i have had in a long time.,0.6696,Positive
+855,Electric Hot Pot,49.99,30,Kitchen,10-12-2025,"great atmosphere, but the fries was just okay.",0.5994,Positive
+856,Children's Gardening Set,19.99,4952,Toys,12/23/2024,i was disappointed with the tacos. it tasted cold.,-0.4767,Negative
+857,Organic Tomato Ketchup,3.49,34,Food - Condiments,3/30/2025,worst experience ever. the waiter was inattentive and the pizza was greasy.,-0.6249,Negative
+858,Chili Lime Corn Chips,2.79,504,Food - Snacks,9/17/2025,"service was polite, but the food took too long to arrive.",0.0,Neutral
+859,Indoor Grill,59.99,274,Kitchen,10-07-2025,absolutely loved it! the cake was delicious.,0.8475,Positive
+860,Travel Size Toiletry Bottles,9.99,13,Travel,02-09-2025,worst experience ever. the waiter was unprofessional and the pizza was bland.,-0.8126,Negative
+861,Herb Seasoned Couscous,2.49,0,Food - Grains,8/19/2025,quick delivery and the pasta was still hot and perfect.,0.5719,Positive
+862,Fire Roasted Salsa,2.49,663,Food - Condiments,03-11-2025,"service was welcoming, but the food took too long to arrive.",0.2382,Positive
+863,Vegetarian Sausage Links,5.89,630,Food - Meat Substitutes,9/25/2025,quick delivery and the pasta was still hot and amazing.,0.5859,Positive
+864,Pet Travel Carrier,39.99,3853,Pets,04-12-2025,"the staff was rude, but the salad was surprisingly amazing.",0.7906,Positive
+865,Fashionable Scarves Set,24.99,363,Clothing,10/15/2025,"service was attentive, but the food took too long to arrive.",0.0,Neutral
+866,Pest Control Traps,22.99,1975,Home,3/21/2025,"service was welcoming, but the food took too long to arrive.",0.2382,Positive
+867,Kids' Art Easel,58.99,55,Toys,12/21/2024,the burger was fresh and the service was attentive. highly recommend!,0.6581,Positive
+868,Antique Style Clock,39.99,495,Home,09-06-2025,absolutely loved it! the sushi was delicious.,0.8475,Positive
+869,Shredded Cheese,4.29,109,Food - Dairy,7/27/2025,worst experience ever. the waiter was rude and the curry was stale.,-0.7964,Negative
+870,Travel Shoe Bags Set,15.99,6032,Travel,05-03-2025,"everything was mouth-watering, from the salad to the drinks.",0.0,Neutral
+871,Ceramic Planter Set,39.99,31,Home,8/13/2025,don't waste your money. the pasta is undercooked and small portions.,0.3252,Positive
+872,Chili Lime Shrimp,8.99,807,Food - Seafood,8/15/2025,"service was attentive, but the food took too long to arrive.",0.0,Neutral
+873,Organic Vanilla Bean Ice Cream,5.99,630,Food - Frozen Desserts,08-04-2025,absolutely loved it! the sushi was amazing.,0.8513,Positive
+874,Garlic Parmesan Wings,8.99,1284,Food - Frozen Foods,04-11-2025,the sandwich was fantastic and the service was friendly. highly recommend!,0.8716,Positive
+875,Garden Kneeler and Seat,39.99,33,Garden,05-08-2025,a hidden gem! best fries i have had in a long time.,0.6696,Positive
+876,Robot Vacuum Cleaner,299.99,10,Home Appliances,11/15/2025,the sushi was mouth-watering and the service was polite. highly recommend!,0.474,Positive
+877,Miso Dressing,3.49,3697,Food - Dressings,05-08-2025,i was disappointed with the coffee. it tasted bland.,-0.4767,Negative
+878,Ultraviolet Phone Sanitizer,39.99,340,Health,11/30/2025,i was disappointed with the fries. it tasted undercooked.,-0.4767,Negative
+879,Wireless Charging Station,39.99,603,Electronics,7/22/2025,the tacos was mouth-watering and the service was attentive. highly recommend!,0.474,Positive
+880,Quinoa,4.49,5,Food - Grains,01-02-2025,don't waste your money. the soup is disappointing and small portions.,-0.2187,Negative
+881,Sesame Seeds,1.99,398,Food - Baking,08-06-2025,don't waste your money. the cake is stale and small portions.,0.3252,Positive
+882,Children's Educational Puzzle,19.99,86,Toys,04-04-2025,worst experience ever. the waiter was slow and the ramen was greasy.,-0.6249,Negative
+883,Granola Clusters,4.99,0,Food - Cereal,6/30/2025,don't waste your money. the salad is undercooked and small portions.,0.3252,Positive
+884,Raspberry Lemonade Mix,3.99,128,Food - Beverages,02-05-2025,the salad was fantastic and the service was welcoming. highly recommend!,0.862,Positive
+885,Pet Hair Removal Brush,14.99,4560,Pets,2/19/2025,a hidden gem! best curry i have had in a long time.,0.6696,Positive
+886,Yoga Mat,25.0,151,Fitness,04-12-2025,"the staff was rude, but the curry was surprisingly fresh.",0.5789,Positive
+887,Beef Stroganoff Mix,5.49,1260,Food - Meal Kits,11/23/2025,"the staff was unprofessional, but the sandwich was surprisingly perfect.",0.7717,Positive
+888,Coconut Water,2.49,41,Food - Beverages,2/16/2025,"the staff was slow, but the burger was surprisingly fresh.",0.6956,Positive
+889,Chili Lime Corn Chips,2.79,2372,Food - Snacks,12-06-2025,"everything was fresh, from the salad to the drinks.",0.3182,Positive
+890,Casual Sneakers,39.99,98,Clothing - Footwear,3/26/2025,quick delivery and the sushi was still hot and delicious.,0.5719,Positive
+891,LED Flashlight,19.99,413,Outdoor,2/19/2025,absolutely loved it! the sandwich was flavorful.,0.6689,Positive
+892,Cat Tree with Scratching Posts,79.99,374,Pets,12/22/2024,worst experience ever. the waiter was forgetful and the burger was undercooked.,-0.7351,Negative
+893,Pasta (Fusilli),1.79,0,Food - Pasta,12/16/2025,i was disappointed with the sushi. it tasted undercooked.,-0.4767,Negative
+894,Car Escape Tool,12.99,8306,Automotive,11-06-2025,i was disappointed with the sushi. it tasted bland.,-0.4767,Negative
+895,Portable Pet Stroller,89.99,3635,Pets,07-06-2025,quick delivery and the coffee was still hot and flavorful.,0.0,Neutral
+896,Laptop Stand,29.99,272,Accessories,3/28/2025,absolutely loved it! the soup was amazing.,0.8513,Positive
+897,Spicy Tuna Rolls,6.49,427,Food - Seafood,12-05-2025,"great atmosphere, but the salad was just okay.",0.5994,Positive
+898,Vintage Graphic Tee,25.99,1208,Clothing - Tops,07-04-2025,the ramen was delicious and the service was quick. highly recommend!,0.7773,Positive
+899,Creamy Ranch Dressing,2.49,10,Food - Dressings,6/18/2025,"i found the ramen to be salty, but my partner liked theirs.",0.5719,Positive
+900,Stainless Steel Mixing Bowls,29.99,2653,Kitchen,8/27/2025,"great atmosphere, but the fries was just okay.",0.5994,Positive
+901,Balsamic Vinegar,4.99,656,Food - Condiments,12/14/2025,"the staff was forgetful, but the ramen was surprisingly delicious.",0.8074,Positive
+902,Stick Vacuums Cleaner,129.99,52,Home Appliances,12-08-2025,"everything was flavorful, from the steak to the drinks.",0.0,Neutral
+903,Kids' Building Blocks,19.99,7267,Toys,4/13/2025,"service was polite, but the food took too long to arrive.",0.0,Neutral
+904,Comfortable Jogger Pants,29.99,0,Clothing - Bottoms,11/18/2025,i was disappointed with the salad. it tasted cold.,-0.4767,Negative
+905,Coconut Curry Lentils,5.79,4184,Food - Canned Goods,1/25/2025,a hidden gem! best burger i have had in a long time.,0.6696,Positive
+906,Herbal Tea Variety Pack,4.99,5085,Food - Beverages,03-12-2025,"service was quick, but the food took too long to arrive.",0.0,Neutral
+907,Slim Fit Chinos,54.99,82,Clothing - Pants,2/15/2025,absolutely loved it! the sushi was mouth-watering.,0.6689,Positive
+908,Outdoor Portable Fire Pit,149.99,670,Outdoor,9/16/2025,"everything was perfect, from the cake to the drinks.",0.5719,Positive
+909,Biodegradable Trash Bags,12.99,500,Home,1/20/2025,absolutely loved it! the soup was perfect.,0.8475,Positive
+910,Home Brewing Starter Kit,79.99,11,Food,09-09-2025,"everything was fantastic, from the curry to the drinks.",0.5574,Positive
+911,Folding Pocket Knife,24.99,1382,Tools,1/21/2025,absolutely loved it! the curry was excellent.,0.8475,Positive
+912,Savory Breakfast Sausage,6.49,46,Food - Meats,9/19/2025,"the staff was inattentive, but the sushi was surprisingly amazing.",0.8402,Positive
+913,Fitness Tracker Band,29.99,0,Fitness,04-08-2025,quick delivery and the ramen was still hot and fresh.,0.3182,Positive
+914,Teriyaki Beef Strips,7.49,0,Food - Frozen Meals,8/26/2025,"the staff was inattentive, but the cake was surprisingly delicious.",0.8338,Positive
+915,Magnetic Whiteboard,34.99,309,Office,5/13/2025,a hidden gem! best steak i have had in a long time.,0.6696,Positive
+916,Sliced Olives,1.99,46,Food - Condiments,9/23/2025,the salad was mouth-watering and the service was friendly. highly recommend!,0.7419,Positive
+917,Compact Pop-Up Tent,69.99,4,Outdoor,2/14/2025,"everything was mouth-watering, from the coffee to the drinks.",0.0,Neutral
+918,Pumpkin Spice Creamer,3.79,75,Food - Beverages,07-06-2025,"everything was mouth-watering, from the pasta to the drinks.",0.0,Neutral
+919,Electric Rice Cooker with Steamer,49.99,556,Kitchen,02-05-2025,a hidden gem! best salad i have had in a long time.,0.6696,Positive
+920,Tea Infuser Bottle,19.99,19,Kitchen,7/31/2025,"service was attentive, but the food took too long to arrive.",0.0,Neutral
+921,Comfortable Jogger Pants,29.99,1266,Clothing - Bottoms,05-09-2025,the coffee was mouth-watering and the service was friendly. highly recommend!,0.7419,Positive
+922,Plant-Based Protein Bars,19.99,65,Health,04-07-2025,worst experience ever. the waiter was inattentive and the burger was undercooked.,-0.6249,Negative
+923,Granulated Sugar,2.49,1927,Food - Baking,10/27/2025,the tacos was excellent and the service was attentive. highly recommend!,0.7773,Positive
+924,Vegetable Stir Fry Mix,3.29,3100,Food - Fresh Produce,1/31/2025,i was disappointed with the coffee. it tasted cold.,-0.4767,Negative
+925,Children's Science Experiment Lab Kit,29.99,0,Toys,11/24/2025,quick delivery and the ramen was still hot and flavorful.,0.0,Neutral
+926,Smart Wi-Fi Camera,89.99,427,Smart Home,8/28/2025,i was disappointed with the salad. it tasted salty.,-0.4767,Negative
+927,Breathable Face Mask Set,14.99,4,Health,06-01-2025,a hidden gem! best fries i have had in a long time.,0.6696,Positive
+928,Honey Wheat Pretzels,3.49,19,Food - Snacks,5/29/2025,don't waste your money. the tacos is stale and small portions.,0.3252,Positive
+929,Graphic Tee,19.99,59,Clothing,3/23/2025,"the staff was rude, but the burger was surprisingly perfect.",0.7814,Positive
+930,Apple Cinnamon Instant Oatmeal,3.49,0,Food - Cereal,3/16/2025,"service was polite, but the food took too long to arrive.",0.0,Neutral
+931,DIY Organic Gardening Kit,39.99,1481,Garden,07-09-2025,a hidden gem! best ramen i have had in a long time.,0.6696,Positive
+932,Maple Syrup,6.99,60,Food - Condiments,05-09-2025,absolutely loved it! the sandwich was mouth-watering.,0.6689,Positive
+933,Cranberry Lime Sparkling Water,1.5,317,Food - Beverages,3/23/2025,"everything was fantastic, from the pizza to the drinks.",0.5574,Positive
+934,Chiffon Blouse,39.99,1759,Clothing - Shirts,08-02-2025,a hidden gem! best coffee i have had in a long time.,0.6696,Positive
+935,Safety Goggles,14.99,23,Safety,12-03-2025,i was disappointed with the fries. it tasted overpriced.,-0.4767,Negative
+936,Board Game Storage,19.99,10,Toys,10/19/2025,"i found the tacos to be overpriced, but my partner liked theirs.",0.5719,Positive
+937,Portable Ice Maker,199.99,1633,Kitchen,11/17/2025,"everything was amazing, from the curry to the drinks.",0.5859,Positive
+938,Leather Wallet,49.99,1605,Accessories,1/23/2025,"everything was excellent, from the tacos to the drinks.",0.5719,Positive
+939,Multifunctional Pocket Tool,19.99,5737,Tools,07-09-2025,worst experience ever. the waiter was slow and the pizza was cold.,-0.6249,Negative
+940,Terry Cloth Robe,59.99,160,Clothing - Loungewear,02-07-2025,"i found the tacos to be bland, but my partner liked theirs.",0.5719,Positive
+941,Pineapple Teriyaki Chicken Mix,6.99,794,Food - Meat,10-08-2025,the salad was mouth-watering and the service was friendly. highly recommend!,0.7419,Positive
+942,Electric Razor,59.99,2001,Health,2/22/2025,"everything was perfect, from the steak to the drinks.",0.5719,Positive
+943,Air Fryer Oven,149.99,3,Kitchen,12-11-2025,a hidden gem! best steak i have had in a long time.,0.6696,Positive
+944,Cajun Seasoning,1.99,372,Food - Spices,1/22/2025,i was disappointed with the pizza. it tasted cold.,-0.4767,Negative
+945,Eco-Friendly Notepad,8.99,47,Office,11-06-2025,"service was welcoming, but the food took too long to arrive.",0.2382,Positive
+946,Wooden Puzzle Game,14.99,65,Toys,12-08-2025,absolutely loved it! the burger was fantastic.,0.8436,Positive
+947,Basil Tomato Soup,2.99,6,Food - Canned Soups,11-09-2025,the coffee was amazing and the service was polite. highly recommend!,0.7836,Positive
+948,Black Bean & Corn Salad,3.99,68,Food - Salads,3/19/2025,quick delivery and the sandwich was still hot and flavorful.,0.0,Neutral
+949,Coconut Cream Pie,9.49,1620,Food - Bakery,8/21/2025,"great atmosphere, but the sushi was just okay.",0.5994,Positive
+950,Chocolate Chip Pancake Mix,3.99,240,Food - Bakery,09-01-2025,"everything was fantastic, from the ramen to the drinks.",0.5574,Positive
+951,Warm Wool Sweater,59.99,5007,Clothing - Tops,12/28/2024,"the staff was inattentive, but the burger was surprisingly delicious.",0.8338,Positive
+952,Vegan Mac & Cheese,8.99,2133,Food - Frozen,10/29/2025,"service was attentive, but the food took too long to arrive.",0.0,Neutral
+953,Handcrafted Wooden Jewelry Box,39.99,1340,Accessories,1/18/2025,don't waste your money. the tacos is undercooked and small portions.,0.3252,Positive
+954,Acoustic Guitar,199.99,0,Music,7/25/2025,the tacos was fresh and the service was friendly. highly recommend!,0.8217,Positive
+955,Grapes (red),3.49,100,Food - Produce,10-05-2025,"service was quick, but the food took too long to arrive.",0.0,Neutral
+956,Italian Pasta,2.29,446,Food - Grains,6/30/2025,i was disappointed with the tacos. it tasted undercooked.,-0.4767,Negative
+957,Home Cleaning Robot,249.99,131,Home Appliances,10-01-2025,"everything was perfect, from the sandwich to the drinks.",0.5719,Positive
+958,Baked Falafel,5.49,2680,Food - Vegetarian,08-03-2025,quick delivery and the sushi was still hot and excellent.,0.5719,Positive
+959,Compost Bin,29.99,166,Garden,10/16/2025,"great atmosphere, but the salad was just okay.",0.5994,Positive
+960,Chocolate Chip Cookie Dough,5.49,859,Food - Baking,9/28/2025,i was disappointed with the steak. it tasted disappointing.,-0.743,Negative
+961,Plant-Based Cookbook,29.99,1321,Books,4/13/2025,quick delivery and the pasta was still hot and amazing.,0.5859,Positive
+962,Honey Roasted Chickpeas,3.29,1965,Food - Snacks,3/15/2025,a hidden gem! best salad i have had in a long time.,0.6696,Positive
+963,Sweet Potatoes,0.89,169,Food - Produce,12-12-2025,don't waste your money. the pasta is overpriced and small portions.,0.3252,Positive
+964,Crispy Potato Tots,3.69,705,Food - Frozen Foods,10-12-2025,don't waste your money. the coffee is greasy and small portions.,0.3252,Positive
+965,Stainless Steel Mixing Bowls,29.99,13,Kitchen,12-05-2025,don't waste your money. the curry is undercooked and small portions.,0.3252,Positive
+966,Creamy Tomato Basil Soup,3.29,1616,Food - Canned Goods,03-09-2025,"everything was excellent, from the steak to the drinks.",0.5719,Positive
+967,Granola Cereal,4.49,0,Food - Breakfast,11-03-2025,don't waste your money. the soup is salty and small portions.,0.3252,Positive
+968,Mango Sticky Rice Dessert,4.5,24,Food - Frozen Desserts,7/30/2025,"everything was excellent, from the coffee to the drinks.",0.5719,Positive
+969,Cocktail Shaker Set,29.99,5159,Kitchen,04-08-2025,"everything was amazing, from the steak to the drinks.",0.5859,Positive
+970,Cauliflower Pizza Crust,5.99,11,Food - Frozen Foods,4/16/2025,"service was quick, but the food took too long to arrive.",0.0,Neutral
+971,Honey Butter Popcorn,2.99,1168,Food - Snacks,07-02-2025,a hidden gem! best ramen i have had in a long time.,0.6696,Positive
+972,Inspirational Wall Art,24.99,1204,Home,5/27/2025,"i found the salad to be stale, but my partner liked theirs.",0.5719,Positive
+973,Digital Drawing Tablet,79.99,569,Art Supplies,4/27/2025,a hidden gem! best salad i have had in a long time.,0.6696,Positive
+974,Savory Oatmeal,2.49,2527,Food - Breakfast,02-08-2025,"everything was amazing, from the pizza to the drinks.",0.5859,Positive
+975,Almond Flour Bread Mix,4.89,12,Food - Baking,09-03-2025,"the staff was forgetful, but the steak was surprisingly excellent.",0.8074,Positive
+976,Outdoor String Lights,24.99,434,Outdoor,12/23/2024,absolutely loved it! the sushi was delicious.,0.8475,Positive
+977,Fettuccine Alfredo Dinner Kit,5.49,43,Food - Prepared Meals,05-08-2025,"i found the salad to be overpriced, but my partner liked theirs.",0.5719,Positive
+978,Non-Stick Baking Sheets,29.99,814,Kitchen,09-11-2025,a hidden gem! best cake i have had in a long time.,0.6696,Positive
+979,Vanilla Protein Powder,24.99,1462,Food - Health/Protein,10/18/2025,"i found the sandwich to be stale, but my partner liked theirs.",0.5719,Positive
+980,Insulated Lunch Box,24.99,32,Kitchen,09-10-2025,a hidden gem! best tacos i have had in a long time.,0.6696,Positive
+981,Outdoor Picnic Blanket,34.99,5446,Outdoor,2/18/2025,worst experience ever. the waiter was forgetful and the fries was bland.,-0.7351,Negative
+982,Cinnamon Rolls,4.49,191,Food - Bakery,9/13/2025,worst experience ever. the waiter was rude and the burger was overpriced.,-0.7964,Negative
+983,Sustainable Wooden Toys,29.99,33,Toys,5/23/2025,"service was welcoming, but the food took too long to arrive.",0.2382,Positive
+984,Lentil Vegetable Stew,4.49,364,Food - Canned Soups,10/13/2025,"everything was mouth-watering, from the steak to the drinks.",0.0,Neutral
+985,Foot Massager,79.99,0,Health,9/21/2025,i was disappointed with the pizza. it tasted disappointing.,-0.743,Negative
+986,Spinach and Cheese Stuffed Shells,5.99,90,Food - Frozen Meals,6/16/2025,"the staff was rude, but the ramen was surprisingly perfect.",0.7814,Positive
+987,Mashed Sweet Potatoes,3.99,27,Food - Sides,01-12-2025,"service was quick, but the food took too long to arrive.",0.0,Neutral
+988,Portable Air Purifier,69.99,8,Health,05-09-2025,quick delivery and the cake was still hot and fresh.,0.3182,Positive
+989,Pineapple Coconut Rice Mix,3.99,145,Food - Grains,03-07-2025,"great atmosphere, but the cake was just okay.",0.5994,Positive
+990,Kettle Chip Variety Pack,3.99,71,Food - Snacks,2/22/2025,absolutely loved it! the fries was amazing.,0.8513,Positive
+991,Board Game,34.99,0,Toys,2/24/2025,absolutely loved it! the fries was excellent.,0.8475,Positive
+992,Rechargeable Electric Screwdriver,39.99,905,Tools,04-11-2025,"i found the steak to be stale, but my partner liked theirs.",0.5719,Positive
+993,White Rice,1.49,175,Food - Grains,12/23/2024,don't waste your money. the salad is stale and small portions.,0.3252,Positive
+994,Tahini,5.49,1674,Food - Condiments,03-10-2025,don't waste your money. the sandwich is undercooked and small portions.,0.3252,Positive
+995,Snack Container Set,19.99,20,Kitchen,05-02-2025,"everything was mouth-watering, from the ramen to the drinks.",0.0,Neutral
+996,Dog Car Seat Cover,39.99,230,Pets,03-04-2025,don't waste your money. the curry is cold and small portions.,0.3252,Positive
+997,Vegetable and Cheese Quesadillas,6.99,137,Food - Frozen,03-08-2025,"everything was delicious, from the sandwich to the drinks.",0.5719,Positive
+998,Banana Chips,1.99,0,Food - Snacks,07-08-2025,quick delivery and the curry was still hot and excellent.,0.5719,Positive
+999,Oversized Denim Shirt,49.99,147,Clothing - Shirts,3/15/2025,"service was quick, but the food took too long to arrive.",0.0,Neutral
+1000,Cranberry Almond Biscotti,4.19,20,Food - Bakery,2/16/2025,"everything was fresh, from the sushi to the drinks.",0.3182,Positive

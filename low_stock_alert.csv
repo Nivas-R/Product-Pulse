@@ -1,0 +1,168 @@
+product_name,category,stock,sentiment_label
+Coconut Curry Sauce,Food - Sauces,13,Negative
+Blue Corn Tortilla Chips,Food - Snacks,7,Positive
+Fitness Jump Rope with LCD Counter,Fitness,0,Negative
+Self-Watering Planter,Garden,0,Negative
+Wireless Charging Station,Electronics,8,Positive
+Oats,Food - Grains,0,Positive
+Vegetarian Stuffed Peppers,Food - Prepared Foods,0,Neutral
+Wall Planner,Office,9,Positive
+DIY Candle Making Kit,Crafts,6,Negative
+Italian Meatballs,Food - Meat,12,Positive
+Magnetic Phone Car Mount,Automotive,3,Positive
+Maple Syrup,Food - Condiments,0,Neutral
+Over-Ear Headphones,Audio,0,Positive
+Infrared Thermometer Gun,Health,16,Positive
+Sweet Chili Dipping Sauce,Food - Condiments,0,Neutral
+Mobile Workbench,Tools,13,Negative
+Wireless Car Charger,Automotive,6,Positive
+Snap-On Tupperware Set,Kitchen,0,Neutral
+Black Bean Salsa,Food - Snacks,19,Negative
+Pistachios,Food - Nuts,10,Positive
+Marinara Parmesan Baked Ziti,Food - Frozen Meals,9,Positive
+Maple Pecan Oatmeal Cookies,Food - Bakery,13,Positive
+Ginger Turmeric Tea,Food - Beverages,5,Negative
+Mesh Sports Leggings,Clothing - Activewear,13,Positive
+Waterproof Rain Boots,Clothing - Footwear,10,Positive
+Compact Digital Camera,Photography,10,Positive
+Buttermilk Pancakes,Food - Breakfast,0,Positive
+Wall-Mounted Wine Rack,Home,18,Positive
+Air Fryer Oven,Kitchen,0,Negative
+Cinnamon Sugar Popcorn,Food - Snacks,7,Neutral
+Pet Camera with Treat Dispenser,Pets,0,Positive
+Herbed Goat Cheese,Food - Cheese,13,Positive
+Honey Sesame Chicken,Food - Frozen Food,15,Positive
+Underwater Camera,Photography,12,Positive
+Gardening Fairy Figurines,Garden,16,Negative
+LED Flashlight with Rechargeable Batteries,Outdoor,6,Positive
+Italian Herb Balsamic Marinade,Food - Condiments,0,Negative
+Rustic Italian Breads,Food - Bakery,7,Positive
+Compressible Packing Cubes,Travel,0,Neutral
+Camping Tent,Outdoor,10,Negative
+Mint Chocolate Chip Ice Cream,Food - Frozen Desserts,0,Positive
+Stainless Steel BBQ Grill Set,Outdoor,0,Positive
+Dog Frisbee Toy,Pets,4,Positive
+Cauliflower Gnocchi,Food - Frozen Foods,16,Negative
+Canned Coconut Milk,Food - Canned Goods,13,Positive
+USB Desk Fan,Home,7,Positive
+Cable Knit Beanie,Clothing - Accessories,16,Positive
+Organic Black Bean Burger,Food - Frozen Foods,3,Positive
+Ceramic Knife Set,Kitchen,0,Positive
+Lemon Garlic Shrimp,Food - Seafood,16,Positive
+Silicone Baking Mat,Kitchen,0,Negative
+Pumpkin Pie Spice,Food - Baking,10,Negative
+Honey-Balsamic Vinaigrette,Food - Dressing,11,Positive
+Organic Green Apples,Food - Produce,3,Positive
+Outdoor Camping Hammock,Outdoor,0,Positive
+Essential Oil Roller Bottles,Health,10,Positive
+Smart Thermos,Fitness,7,Negative
+Fruit & Nut Trail Mix,Food - Snacks,0,Positive
+Pumpkin Waffles,Food - Breakfast,0,Positive
+Chocolate Coconut Protein Balls,Food - Snacks,8,Negative
+Pasta Primavera,Food - Frozen Foods,12,Positive
+Herb Garlic Butter,Food - Condiments,10,Positive
+Electric Razor,Health,3,Positive
+Roasted Vegetable Medley,Food - Frozen Foods,0,Positive
+Breathable Face Mask Set,Health,13,Positive
+Tomatillo Salsa,Food - Condiments,1,Positive
+Spicy Kimchi,Food - Condiments,0,Neutral
+Slim Wallet,Accessories,0,Positive
+Smartphone Tripod with Remote,Photography,15,Positive
+Nutritional Yeast,Food - Pantry,0,Negative
+Children's Art Set,Toys,14,Positive
+Luxury Bath Salts,Beauty,15,Positive
+Chocolate Mint Cookies,Food - Baking,0,Positive
+Tomato Basil Soup,Food - Canned Goods,0,Positive
+Pet Water Fountain,Pets,0,Positive
+Hibiscus Herbal Tea,Food - Beverages,0,Positive
+Wall Planner,Office,-1266,Positive
+Electric Heating Pad,Health,8,Positive
+Camping Tarp,Outdoor,16,Positive
+Sour Cream,Food - Dairy,0,Negative
+Magnetic Phone Car Mount,Automotive,15,Positive
+Desk Organizer Set,Office,7,Negative
+Vegan Chocolate Cake Mix,Food - Baking,0,Positive
+Car Diagnostic Scanner,Automotive,0,Positive
+Portable Hammock Swing,Outdoor,13,Positive
+Roasted Garlic Mashed Potatoes,Food - Frozen Foods,5,Positive
+Rustic Italian Bread,Food - Bakery,2,Neutral
+Crafting Kit,Art Supplies,14,Positive
+Kale and Quinoa Salad,Food - Salads,0,Positive
+Herbal Tea Infuser,Kitchen,0,Positive
+Over-The-Door Shoe Organizer,Home,15,Positive
+Sparkling Blood Orange Soda,Food - Beverages,4,Positive
+Grapes (red),Food - Produce,0,Positive
+Wireless Smart Plug,Smart Home,-210,Neutral
+Ethically-Sourced Coffee Beans,Food - Beverages,15,Positive
+Pet Bed with Removable Cover,Pets,10,Positive
+Adjustable Laptop Stand,Office,10,Positive
+Fruit Infuser Water Bottle,Fitness,0,Positive
+Printed Maxi Skirt,Clothing - Skirts,17,Positive
+Electric Razor,Health,8,Positive
+Cushion Covers,Home,1,Positive
+Vegetable Lasagna,Food - Frozen Foods,8,Neutral
+Portable Phone Mug Holder,Automotive,15,Positive
+Spicy Thai Noodles,Food - Frozen Meals,9,Neutral
+Outdoor Inflatable Pool,Outdoor,11,Positive
+Soft Plush Throw Blanket,Home,0,Negative
+Lemon Herb Grilled Chicken,Food - Meat,1,Negative
+Basmati Rice,Food - Grains,18,Neutral
+DIY Lip Balm Making Kit,Crafts,0,Positive
+Nutty Quinoa Salad,Food - Salads,17,Neutral
+LED Flashlight,Outdoor,15,Positive
+Cocoa Powder,Food - Baking,0,Negative
+Garden Hose Reel,Garden,0,Positive
+Collapsible Folding Chair,Outdoor,0,Positive
+Green Tea Matcha Powder,Food - Beverages,0,Positive
+Sliced Avocado,Food - Produce,0,Positive
+Tandoori Chicken Skewers,Food - Meat,10,Negative
+Pet Hair Vacuum Attachment,Pets,0,Positive
+Sweet Pea Hummus,Food - Dips,13,Positive
+Sriracha Sauce,Food - Condiments,11,Positive
+Pecan Pie Filling,Food - Baking Goods,0,Negative
+Gardening Tools Set,Garden,0,Positive
+Fashionable Scarves Set,Clothing,14,Neutral
+Pumpkin Spice Creamer,Food - Beverages,12,Positive
+Dual Function Electric Skillet,Kitchen,0,Positive
+Smoky BBQ Jackfruit,Food - Grocery,0,Positive
+Freestanding Wine Rack,Home,16,Positive
+Mini Pretzels,Food - Snacks,5,Positive
+Marinated Artichokes,Food - Vegetables,0,Positive
+Honey Mustard Pretzel Bites,Food - Snacks,15,Positive
+Pet Safety Harness,Pets,0,Positive
+Herbal Tea Set,Food,5,Positive
+Pet Grooming Kit,Pets,0,Negative
+Beef Stroganoff Mix,Food - Meal Kits,10,Positive
+Portable Jump Starter,Automotive,15,Positive
+Banana Peanut Butter Smoothie,Food - Frozen Foods,3,Positive
+Portable Blender,Kitchen,0,Negative
+Wooden Kitchen Utensil Set,Kitchen,17,Positive
+Travel Size Toiletry Bottles,Travel,13,Negative
+Herb Seasoned Couscous,Food - Grains,0,Positive
+Robot Vacuum Cleaner,Home Appliances,10,Positive
+Quinoa,Food - Grains,5,Negative
+Granola Clusters,Food - Cereal,0,Positive
+Pasta (Fusilli),Food - Pasta,0,Negative
+Creamy Ranch Dressing,Food - Dressings,10,Positive
+Comfortable Jogger Pants,Clothing - Bottoms,0,Negative
+Home Brewing Starter Kit,Food,11,Positive
+Fitness Tracker Band,Fitness,0,Positive
+Teriyaki Beef Strips,Food - Frozen Meals,0,Positive
+Compact Pop-Up Tent,Outdoor,4,Neutral
+Tea Infuser Bottle,Kitchen,19,Neutral
+Children's Science Experiment Lab Kit,Toys,0,Neutral
+Breathable Face Mask Set,Health,4,Positive
+Honey Wheat Pretzels,Food - Snacks,19,Positive
+Apple Cinnamon Instant Oatmeal,Food - Cereal,0,Neutral
+Board Game Storage,Toys,10,Positive
+Air Fryer Oven,Kitchen,3,Positive
+Basil Tomato Soup,Food - Canned Soups,6,Positive
+Acoustic Guitar,Music,0,Positive
+Stainless Steel Mixing Bowls,Kitchen,13,Positive
+Granola Cereal,Food - Breakfast,0,Positive
+Cauliflower Pizza Crust,Food - Frozen Foods,11,Neutral
+Almond Flour Bread Mix,Food - Baking,12,Positive
+Foot Massager,Health,0,Negative
+Portable Air Purifier,Health,8,Positive
+Board Game,Toys,0,Positive
+Banana Chips,Food - Snacks,0,Positive
