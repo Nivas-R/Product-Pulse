@@ -1,0 +1,1001 @@
+productid,product,cost,in_stock,item_category,date,items_sold
+1,Coconut Curry Sauce,3.89,13,Food - Sauces,1/11/2025,1597
+2,Coconut Yogurt,3.89,24,Food - Dairy Alternatives,1/10/2025,553
+3,Thyme,2.49,266,Food - Fresh Produce,8/27/2025,270
+4,Blue Corn Tortilla Chips,3.49,7,Food - Snacks,6/4/2025,80
+5,Vegan chocolate chip cookies,4.79,416,Food - Bakery,7/9/2025,374
+6,Knitted Infinity Scarf,29.99,115,Clothing - Accessories,12/6/2025,778
+7,Fitness Jump Rope with LCD Counter,15.99,,Fitness,10/10/2025,51
+8,Multi-Tool,39.99,703,Outdoor,3/15/2025,8
+9,Self-Cleaning Water Bottle,49.99,923,Fitness,10/29/2025,9
+10,Marinated Artichokes,3.79,5587,Food - Vegetables,11/27/2025,0
+11,Sriracha Hot Chili Sauce,2.99,85,Food - Condiments,2/15/2025,126
+12,Chicken Broth,2.49,660,Food - Canned Goods,11/21/2025,6736
+13,Ramen Noodle Soup Cups,1.29,2940,Food - Prepared Meals,2/25/2025,33
+14,Insulated Sport Tumbler,22.99,260,Fitness,11/11/2025,
+15,Solar Charger,39.99,745,Electronics,9/7/2025,40
+16,Chocolate Fudge Brownie Mix,2.99,5741,Food - Baking,8/31/2025,15
+17,Wrist Support Brace,19.99,1646,Health,2/10/2025,69
+18,Kale Salad Kit,4.99,107,Food - Salads,3/4/2025,443
+19,Self-Watering Planter,24.99,,Garden,2/24/2025,
+20,Apple Pie Filling,3.49,66,Food - Canned Goods,5/2/2025,1686
+21,Frozen Broccoli,2.49,674,Food - Frozen,7/31/2025,378
+22,Canvas High-Top Sneakers,49.99,50,Clothing - Footwear,8/28/2025,1057
+23,Active Racerback Tank,24.99,311,Clothing - Tops,12/15/2025,604
+24,Balsamic Vinaigrette,2.69,2126,Food - Dressings,4/22/2025,280
+25,Turmeric Ginger Tea,3.29,135,Food - Beverages,10/31/2025,2927
+26,Stainless Steel Cutlery Set,29.99,38,Kitchen,9/17/2025,639
+27,Collapsible Storage Crates,18.99,1314,Home,7/25/2025,961
+28,Children's Educational Workbook,12.99,364,Books,8/11/2025,798
+29,Vegetable Samosas,4.99,7130,Food - Frozen,8/14/2025,656
+30,Vegan Tacos,7.49,128,Food - Frozen Foods,6/30/2025,726
+31,Electric Griddle with Removable Plates,59.99,138,Kitchen,1/21/2025,95
+32,Mini Hand Gesture Drone,29.99,2661,Toys,12/22/2024,13
+33,Egg Noodles,2.29,909,Food - Grains,11/1/2025,
+34,Portable Solar Generator,399.99,30,Outdoor,9/10/2025,76
+35,Tortilla Chips,2.99,54,Food - Snacks,3/28/2025,499
+36,Wireless Charging Station,39.99,8,Electronics,8/23/2025,50
+37,Magic Color-Changing Mug,14.99,4735,Kitchen,6/6/2025,1367
+38,Dark Chocolate Bars,2.99,3734,Food - Snacks,10/23/2025,121
+39,Portable Charcoal Grill,89.99,3263,Outdoor,6/26/2025,1572
+40,Black Olives,1.99,3290,Food - Canned Goods,11/29/2025,305
+41,Bock Beer Mustard,2.29,2021,Food - Condiments,1/26/2025,12
+42,Yoga Mat Carrier,12.99,1907,Fitness,6/19/2025,713
+43,Ranch Dressing,2.59,435,Food - Condiments,1/21/2025,5127
+44,Winter Knit Beanie,14.99,7332,Clothing,4/8/2025,187
+45,Herbal Tea Set,19.99,100,Food,4/12/2025,
+46,Hot Salsa,2.29,1182,Food - Dips,8/16/2025,0
+47,Sweet Potato Tots,4.29,2797,Food - Frozen Foods,10/14/2025,606
+48,Vegetable Spring Rolls,6.49,164,Food - Frozen Foods,3/16/2025,3000
+49,Portable Electric Fan,24.99,1646,Home,4/23/2025,15
+50,Oats,3.29,,Food - Grains,2/12/2025,1543
+51,Coffee Grinder,39.99,305,Kitchen,10/8/2025,0
+52,Garlic Parmesan Wings,8.99,825,Food - Frozen Foods,3/17/2025,80
+53,Vegetarian Stuffed Peppers,4.99,,Food - Prepared Foods,2/12/2025,167
+54,Pepper Jack Cheese Slices,3.49,353,Food - Dairy,5/29/2025,18
+55,Magnetic Chess Set,19.99,374,Toys,4/23/2025,226
+56,Wall Planner,19.99,9,Office,8/14/2025,298
+57,DIY Candle Making Kit,22.99,6,Crafts,10/19/2025,2271
+58,Faux Leather Leggings,49.99,164,Clothing - Pants,5/11/2025,935
+59,Lemon Herb Quinoa,3.49,927,Food - Grains,2/1/2025,3609
+60,Mini Air Purifier,49.99,694,Health,12/21/2024,10
+61,Peach Salsa,3.29,1430,Food - Dips,9/26/2025,242
+62,Oven Mitts,15.99,76,Kitchen,4/25/2025,118
+63,Hair Dryer,39.99,597,Beauty,7/26/2025,2450
+64,Almond Butter Cups,3.29,26,Food - Snacks,2/11/2025,241
+65,Tomatillo Salsa,3.29,160,Food - Condiments,12/21/2024,594
+66,Garlic Butter Sauce,3.59,670,Food - Condiments,2/11/2025,35
+67,Non-Stick Crepe Pan,29.99,118,Kitchen,3/6/2025,1560
+68,Gardening Fairy Figurines,14.99,1587,Garden,4/3/2025,997
+69,Orange Ginger Vinaigrette,3.99,770,Food - Condiments,8/8/2025,173
+70,Italian Meatballs,8.49,12,Food - Meat,7/19/2025,1847
+71,Magnetic Phone Car Mount,14.99,3,Automotive,4/5/2025,8
+72,Handheld Vacuum,79.99,220,Home Appliances,4/8/2025,33
+73,Teriyaki Sauce,2.99,1010,Food - Condiments,1/12/2025,67
+74,Handheld Shower Head,34.99,2223,Bathroom,10/18/2025,859
+75,Chocolate Protein Powder,24.99,347,Food - Supplements,11/17/2025,340
+76,Low-Fat Yogurt,3.29,1477,Food - Dairy,9/2/2025,22
+77,Maple Syrup,6.99,,Food - Condiments,3/5/2025,19
+78,Pet Travel Bowl,10.99,3707,Pets,11/18/2025,31
+79,Sweet Potato Chips,2.99,4452,Food - Snacks,1/28/2025,358
+80,Mesh Sports Leggings,39.99,104,Clothing - Activewear,5/20/2025,1480
+81,Luxury Bath Robe,49.99,75,Clothing,10/12/2025,3562
+82,Spiralizer,22.99,170,Kitchen,11/22/2025,1410
+83,Fettuccine Alfredo Dinner Kit,5.49,117,Food - Prepared Meals,8/5/2025,788
+84,Over-Ear Headphones,59.99,,Audio,1/10/2025,320
+85,Stick Vacuums Cleaner,129.99,1301,Home Appliances,8/17/2025,119
+86,Chickpea Salad Deluxe,4.29,760,Food - Produce,8/20/2025,49
+87,Insulated Wine Tote,24.99,59,Accessories,4/19/2025,18
+88,Cranberry Lime Sparkling Water,1.5,2317,Food - Beverages,1/19/2025,295
+89,Low-Fat Cottage Cheese,2.99,1213,Food - Dairy,2/20/2025,913
+90,Roasted Vegetable Medley,3.99,1476,Food - Frozen Foods,9/27/2025,634
+91,Mushroom Soup (canned),2.49,325,Food - Canned Goods,7/27/2025,572
+92,Electric Air Pump,29.99,505,Outdoor,7/23/2025,90
+93,Mango Chilli Sauce,3.99,1063,Food - Condiments,12/8/2025,6201
+94,Portable Water Filter,29.99,43,Outdoor,7/25/2025,4513
+95,Luxury Rolling Makeup Case,99.99,30,Beauty,12/17/2024,682
+96,Baked Mac and Cheese,5.99,112,Food - Frozen Foods,12/9/2025,12
+97,Dark Chocolate Covered Almonds,7.19,1670,Food - Snacks,10/12/2025,1942
+98,Fitness Jump Rope with LCD Counter,15.99,633,Fitness,3/25/2025,443
+99,Wrist Support Brace,19.99,256,Health,10/21/2025,666
+100,Organic Black Rice,3.59,6070,Food - Grains,6/10/2025,82
+101,Peanut Butter Protein Balls,5.29,3318,Food - Snacks,3/1/2025,662
+102,Body Pillow Case,14.99,669,Home,12/24/2024,63
+103,Dishwasher Safe Cutting Board,22.99,784,Kitchen,11/18/2025,374
+104,Bluetooth Sleep Headphones,29.99,50,Audio,2/21/2025,
+105,Cacao Nibs,6.49,870,Food - Baking,5/28/2025,5022
+106,Ice Cream Scoop,12.99,570,Kitchen,11/25/2025,623
+107,Children's Educational Puzzle,19.99,52,Toys,2/1/2025,7360
+108,Sweet Potato Tots,4.29,2096,Food - Frozen Foods,8/29/2025,916
+109,Digital Food Scale,22.99,69,Kitchen,4/11/2025,171
+110,Bamboo Utensil Set,14.99,3206,Kitchen,8/20/2025,8
+111,Multicolored LED Strip Lights,29.99,726,Home,12/10/2025,721
+112,Almond Flour Brownies,5.99,5507,Food - Baking,8/1/2025,131
+113,Basil-infused Olive Oil,6.99,31,Food - Cooking Oil,11/28/2025,100
+114,Cordless Electric Screwdriver,39.99,49,Tools,5/6/2025,160
+115,Infrared Thermometer Gun,29.99,16,Health,2/26/2025,3025
+116,Fried Rice,4.29,584,Food - Frozen Foods,11/2/2025,1462
+117,Peach Mango Smoothie,3.49,1592,Food - Beverages,1/17/2025,224
+118,Dish Soap Dispenser,18.99,588,Kitchen,3/23/2025,112
+119,Kids' Art Supplies Kit,29.99,361,Toys,9/30/2025,392
+120,Bird Feeder,24.99,820,Outdoor,1/3/2025,492
+121,Kitchen Knife Sharpening System,39.99,1026,Kitchen,5/2/2025,14
+122,Sweet Chili Dipping Sauce,2.99,0,Food - Condiments,12/2/2025,1600
+123,Collapsible Colander,14.99,33,Kitchen,11/17/2025,23
+124,Digital Photo Frame,79.99,1477,Home,11/21/2025,213
+125,Spicy Thai Noodles,1.99,859,Food - Frozen Meals,1/10/2025,1029
+126,Car Diagnostic Scanner,49.99,345,Automotive,8/4/2025,3946
+127,Chili Powder,2.09,1034,Food - Spices,4/13/2025,0
+128,Dark Chocolate Almond Butter Cups,4.99,272,Food - Snacks,1/18/2025,73
+129,Black Bean Soup,3.49,70,Food - Soups,4/17/2025,83
+130,Yoga Mat Carrier,12.99,1077,Fitness,1/30/2025,249
+131,Pasta Portion Control Measure,9.99,100,Kitchen,5/20/2025,2897
+132,Zesty Cilantro Lime Dressing,3.29,71,Food - Condiments,1/13/2025,459
+133,Cocktail Shaker and Mixing Glass Set,39.99,1653,Kitchen,5/16/2025,481
+134,Mobile Workbench,199.99,13,Tools,8/13/2025,197
+135,Wireless Car Charger,24.99,6,Automotive,8/6/2025,523
+136,Teriyaki Chicken Stir-Fry,6.99,1563,Food - Frozen Foods,4/9/2025,1640
+137,Chickpea Pancakes,4.99,304,Food - Frozen,8/25/2025,137
+138,Noise Cancelling Ear Muffs,24.99,4500,Safety,8/10/2025,129
+139,Lightweight Rain Jacket,79.99,811,Clothing - Outerwear,10/12/2025,699
+140,Lentils,2.99,542,Food - Grains,10/6/2025,68
+141,Pesto Genovese,6.49,377,Food - Condiments,12/30/2024,3799
+142,Snap-On Tupperware Set,34.99,,Kitchen,2/1/2025,600
+143,High-Quality Yoga Mat,34.99,6070,Fitness,10/18/2025,6500
+144,Slingback Sandals,29.99,39,Clothing - Footwear,9/22/2025,12
+145,Black Bean Salsa,3.49,19,Food - Snacks,1/20/2025,452
+146,Pistachios,6.99,10,Food - Nuts,5/28/2025,236
+147,Electric Griddle,54.99,35,Kitchen,8/20/2025,59
+148,Stuffed Bell Peppers,5.99,60,Food - Frozen Meals,9/20/2025,7
+149,Organic Chia Seeds,7.99,7141,Food - Health Foods,3/14/2025,646
+150,Chocolate Chip Pancake Mix,3.99,374,Food - Bakery,12/7/2025,175
+151,Chocolate Chip Energy Balls,3.99,2989,Food - Snacks,11/14/2025,825
+152,Stuffed Bell Peppers,5.99,42,Food - Frozen Meals,2/11/2025,60
+153,Chocolate Chip Energy Balls,3.99,120,Food - Snacks,10/31/2025,1875
+154,Caramelized Onion Dip Mix,2.29,25,Food - Snacks,11/21/2025,7034
+155,Marinara Parmesan Baked Ziti,8.49,9,Food - Frozen Meals,6/30/2025,7300
+156,Luxe Velvet Blazer,89.99,648,Clothing - Outerwear,9/6/2025,846
+157,Chickpeas,1.29,49,Food - Canned Goods,2/9/2025,276
+158,Dog Walking Waist Pack,19.99,114,Pets,3/12/2025,353
+159,Maple Pecan Oatmeal Cookies,3.99,13,Food - Bakery,6/20/2025,633
+160,Ginger Turmeric Tea,3.49,5,Food - Beverages,1/31/2025,122
+161,Vegetable Samosas,4.99,3784,Food - Frozen,3/21/2025,1540
+162,Puzzle,27.99,4751,Toys,6/19/2025,3057
+163,Sporty Cap,15.99,45,Clothing - Accessories,2/25/2025,1815
+164,Mesh Sports Leggings,39.99,13,Clothing - Activewear,1/9/2025,39
+165,Rechargeable Electric Screwdriver,39.99,526,Tools,2/25/2025,21
+166,Comfort Flats,44.99,930,Clothing - Shoes,8/3/2025,470
+167,Harvest Grain Salad,5.49,335,Food - Salads,8/2/2025,167
+168,Thai Peanut Noodles,4.99,29,Food - Pasta,12/1/2025,714
+169,Waterproof Rain Boots,69.99,10,Clothing - Footwear,5/30/2025,215
+170,Compact Digital Camera,249.99,10,Photography,6/2/2025,168
+171,Kids Tablet,129.99,4895,Electronics,3/8/2025,7
+172,Tea Infuser Bottle,19.99,935,Kitchen,6/27/2025,88
+173,Buttermilk Pancakes,3.99,0,Food - Breakfast,1/4/2025,376
+174,Creamy Avocado Dip,3.49,797,Food - Snacks,1/9/2025,3206
+175,Wall-Mounted Wine Rack,39.99,18,Home,9/30/2025,8400
+176,Air Fryer Oven,149.99,,Kitchen,5/12/2025,584
+177,Coconut Oil,6.49,96,Food - Oils & Vinegars,11/30/2025,
+178,LED Strip Lights Kit,29.99,26,Home,7/13/2025,33
+179,Crispy Rice Treats,3.5,39,Food - Snacks,12/24/2024,1110
+180,Eco-Friendly Yoga Blocks,15.99,162,Fitness,12/26/2024,138
+181,Garlic and Herb Rub,2.29,863,Food - Spices,11/18/2025,104
+182,Stuffed Grape Leaves,5.79,511,Food - Prepared Foods,3/10/2025,812
+183,Wireless Charging Pad,19.99,22,Accessories,6/1/2025,1003
+184,Cinnamon Sugar Popcorn,2.89,7,Food - Snacks,1/24/2025,277
+185,Set of Measuring Spoons,12.99,2064,Kitchen,7/24/2025,26
+186,Compact Electric Kettle,29.99,30,Kitchen,10/8/2025,33
+187,Honey Mustard Sauce,3.29,1608,Food - Condiments,2/1/2025,59
+188,Hot Dog Buns,2.49,96,Food - Bakery,1/20/2025,267
+189,Cinnamon Sugar Popcorn,2.89,671,Food - Snacks,6/9/2025,1162
+190,Customizable Wall Calendar,24.99,1968,Office,8/16/2025,176
+191,Pet Camera with Treat Dispenser,149.99,0,Pets,8/3/2025,80
+192,Travel Makeup Organizer,25.99,7620,Beauty,4/14/2025,1234
+193,Herbed Goat Cheese,5.49,1166,Food - Cheese,4/7/2025,2925
+194,Mini Indoor Herb Garden Kit,24.99,11136,Garden,11/9/2025,11
+195,Garden Hoses with Expandable Features,34.99,113,Garden,12/21/2024,10
+196,Gardening Gloves with Claws,24.99,698,Garden,10/3/2025,32
+197,Lemon Herb Chicken,7.49,1013,Food - Meat,8/13/2025,1998
+198,Personalized Pet ID Tags,9.99,2910,Pets,6/6/2025,911
+199,Decorative Throw Blanket,39.99,1181,Home,10/30/2025,539
+200,Woven Storage Baskets,24.99,2500,Home,4/16/2025,90
+201,Whisk Set,12.99,2363,Kitchen,1/26/2025,3494
+202,Ginger Turmeric Tea,3.49,245,Food - Beverages,5/14/2025,800
+203,Electric Heat Pad,24.99,573,Health,11/24/2025,1965
+204,Electric Toothbrush Holder,14.99,7130,Health,4/18/2025,459
+205,Herbed Goat Cheese,5.49,13,Food - Cheese,7/14/2025,2875
+206,Wireless Smart Plug,19.99,858,Smart Home,4/12/2025,4065
+207,Portable Campfire,39.99,538,Outdoor,5/30/2025,4170
+208,Radish Chips,2.89,117,Food - Snacks,10/28/2025,2547
+209,Honey Sesame Chicken,8.99,15,Food - Frozen Food,3/17/2025,407
+210,Artisan Bread,4.59,718,Food - Bakery,3/7/2025,15
+211,Aged White Cheddar Popcorn,2.99,62,Food - Snacks,1/30/2025,90
+212,Underwater Camera,199.99,12,Photography,11/18/2025,82
+213,Gardening Fairy Figurines,14.99,16,Garden,7/24/2025,869
+214,Dog Collar,15.99,3556,Pets,3/25/2025,1464
+215,Smoky BBQ Jackfruit,4.99,499,Food - Grocery,5/15/2025,12
+216,Wooden Children's Play Kitchen,129.99,840,Toys,4/12/2025,341
+217,Set of Silicone Cooking Utensils,29.99,47,Kitchen,9/18/2025,1026
+218,Electric Pressure Cooker,89.99,220,Kitchen,1/7/2025,55
+219,LED Flashlight with Rechargeable Batteries,19.99,6,Outdoor,4/18/2025,7
+220,Oats,3.29,7216,Food - Grains,10/13/2025,13
+221,Vegetable Stock,2.49,131,Food - Cooking Essentials,11/5/2025,870
+222,Baked Potato Chips,2.49,24,Food - Snacks,1/24/2025,465
+223,Granola Cereal,4.49,698,Food - Breakfast,4/29/2025,2697
+224,Italian Herb Balsamic Marinade,3.99,,Food - Condiments,5/1/2025,777
+225,Handmade Leather Journal,39.99,276,Books,11/4/2025,3314
+226,Pet Activity Tracker,59.99,294,Pets,8/25/2025,41
+227,Vegetable Korma,6.49,565,Food - Frozen,11/1/2025,550
+228,Car Phone Mount,15.99,529,Automotive,2/12/2025,1360
+229,Teriyaki Chicken Stir-Fry,6.99,112,Food - Frozen Foods,8/4/2025,624
+230,Trackpad for Laptop,49.99,41,Accessories,5/3/2025,5960
+231,Coconut Cashew Yogurt,1.99,127,Food - Dairy Alternatives,12/26/2024,2743
+232,Tailored Dress Pants,79.99,20,Clothing - Bottoms,3/27/2025,30
+233,Sea Salt Caramel Popcorn,3.99,5382,Food - Snacks,6/17/2025,2615
+234,Rustic Italian Breads,3.99,7,Food - Bakery,10/21/2025,483
+235,Wine Glasses,29.99,34,Home,6/14/2025,1180
+236,Outdoor Adventure Backpack,59.99,102,Outdoor,8/11/2025,39
+237,Compressible Packing Cubes,29.99,,Travel,9/28/2025,353
+238,Avocado Oil,8.49,1814,Food - Oils,4/23/2025,18
+239,Italian Meatballs,8.49,83,Food - Meat,2/8/2025,164
+240,Hand Crank Blender,18.99,4423,Kitchen,7/13/2025,338
+241,Maple Breakfast Sausage,5.99,268,Food - Meat,7/14/2025,5200
+242,Essential Oil Roller Bottles,19.99,3366,Health,10/10/2025,403
+243,Sriracha Hot Chili Sauce,2.99,1045,Food - Condiments,3/6/2025,433
+244,Beef Taco Skillet,8.49,1726,Food - Meal Kits,1/22/2025,169
+245,Camping Tent,79.99,10,Outdoor,1/13/2025,97
+246,Lemon Garlic Marinade,4.29,3250,Food - Condiments,3/8/2025,770
+247,Infrared Thermometer,39.99,400,Health,12/29/2024,790
+248,Electric Heat Press Machine,99.99,217,Crafts,10/28/2025,86
+249,Computer Monitor Stand,29.99,4520,Office,9/28/2025,624
+250,Customizable Name Plate,19.99,4796,Office,7/23/2025,26
+251,Mint Chocolate Chip Ice Cream,4.99,,Food - Frozen Desserts,7/20/2025,827
+252,Garden Tool Belt,22.99,186,Garden,6/30/2025,584
+253,Stainless Steel BBQ Grill Set,49.99,,Outdoor,9/27/2025,7285
+254,Tuscan Bean Soup,2.49,569,Food - Canned Goods,8/27/2025,1060
+255,Picnic Blanket,29.99,2563,Outdoor,5/8/2025,193
+256,Bicycle Repair Kit,14.99,81,Outdoor,8/24/2025,3362
+257,Peach & Mango Salsa,4.49,1660,Food - Snacks,11/11/2025,1061
+258,Diced Tomatoes (canned),1.49,184,Food - Canned Goods,3/7/2025,92
+259,Basil Tomato Soup,2.99,48,Food - Canned Soups,6/20/2025,129
+260,Wireless Earbuds Case,12.99,1526,Accessories,10/20/2025,98
+261,Manual Coffee Grinder,22.99,83,Kitchen,2/14/2025,5
+262,Maple Breakfast Sausage,5.99,628,Food - Meat,7/25/2025,164
+263,Spaghetti Squash,3.99,345,Food - Produce,9/29/2025,1250
+264,Caramel Apple Taffy,1.99,29,Food - Confectionery,3/30/2025,59
+265,Chic Jumpsuit,89.99,59,Clothing - Jumpsuits,6/4/2025,1151
+266,Digital Wireless Meat Thermometer,39.99,2525,Kitchen,8/13/2025,5340
+267,Electric Rice Cooker with Steamer,49.99,1574,Kitchen,5/17/2025,1267
+268,Sun-Dried Tomatoes,3.99,38,Food - Vegetables,7/18/2025,1003
+269,Wild Rice Pilaf,3.79,82,Food - Grains,2/26/2025,2313
+270,Leather Crossbody Bag,89.99,89,Clothing - Bags,9/14/2025,48
+271,Camping Chair,29.99,80,Outdoor,9/5/2025,39
+272,Mini Air Hockey Table,39.99,1110,Toys,4/3/2025,495
+273,Multi-Functional Rice Cooker,49.99,286,Kitchen,10/22/2025,811
+274,Dog Frisbee Toy,10.99,4,Pets,3/28/2025,308
+275,Cauliflower Gnocchi,3.59,16,Food - Frozen Foods,2/10/2025,925
+276,Wireless Wi-Fi Extender,49.99,36,Electronics,3/27/2025,923
+277,Kitchen Knife Sharpening System,39.99,84,Kitchen,9/24/2025,35
+278,Portable Air Compressor,44.99,1040,Automotive,6/7/2025,1883
+279,Smoked Gouda Cheese,5.49,328,Food - Dairy,4/25/2025,-13
+280,Self-Watering Planters,49.99,2040,Garden,4/27/2025,5435
+281,Bird Feeder,24.99,210,Outdoor,9/19/2025,2077
+282,Cranberry Almond Biscotti,4.19,72,Food - Bakery,11/21/2025,4056
+283,Heavy-Duty Utility Tote,34.99,2269,Accessories,1/25/2025,1339
+284,Baked Mac and Cheese,5.99,20,Food - Frozen Foods,10/12/2025,13
+285,Canned Coconut Milk,1.89,13,Food - Canned Goods,11/6/2025,1100
+286,Stuffed Peppers with Quinoa,7.99,1847,Food - Prepared Meals,2/20/2025,15
+287,USB Desk Fan,14.99,7,Home,8/15/2025,0
+288,Blue Corn Tortilla Chips,3.49,279,Food - Snacks,3/13/2025,984
+289,Peach Halves (canned),2.49,4227,Food - Canned Goods,3/6/2025,372
+290,Luxe Velvet Blazer,89.99,60,Clothing - Outerwear,3/25/2025,1396
+291,Smart Wi-Fi Light Bulbs,19.99,465,Smart Home,12/11/2025,87
+292,Peanut Butter Cookies,3.49,135,Food - Bakery,1/12/2025,115
+293,Sweet Cherry Tomatoes,2.99,1017,Food - Produce,1/4/2025,1365
+294,Children's Educational Puzzle,19.99,719,Toys,1/28/2025,21
+295,Sweet Potato and Chickpea Bowl,6.49,1313,Food - Frozen Food,1/17/2025,3
+296,Fruit and Nut Medley,5.99,1132,Food - Snacks,11/25/2025,2615
+297,Wildflower Honey,4.99,653,Food - Condiments,11/1/2025,2571
+298,Adjustable Garden Rake,22.99,768,Garden,3/24/2025,529
+299,Interactive Plush Toy,34.99,294,Toys,2/2/2025,349
+300,Cable Knit Beanie,19.99,16,Clothing - Accessories,7/15/2025,72
+301,Dried Cranberries,4.29,44,Food - Snacks,6/12/2025,32
+302,Organic Black Bean Burger,4.49,3,Food - Frozen Foods,6/21/2025,10
+303,Cat Tree,99.99,6070,Pets,3/15/2025,234
+304,Ceramic Knife Set,39.99,,Kitchen,7/4/2025,1314
+305,Peanut Butter Banana Smoothie Mix,4.49,599,Food - Beverages,9/17/2025,534
+306,Lemon Garlic Shrimp,8.99,16,Food - Seafood,5/19/2025,44
+307,Spinach Feta Wraps,4.29,1476,Food - Deli,10/6/2025,293
+308,Silicone Baking Mat,15.99,,Kitchen,11/14/2025,2082
+309,Electric Fondue Pot,39.99,360,Kitchen,5/5/2025,278
+310,Cable Knit Cardigan,49.99,668,Clothing - Outerwear,1/24/2025,1140
+311,Wrist Support Brace,19.99,125,Health,1/24/2025,
+312,Cinnamon Raisin Bread,3.79,28,Food - Bakery,7/2/2025,
+313,Peach Fruit Cups,1.99,2272,Food - Snacks,10/5/2025,598
+314,Video Camera,199,344,Electronics,8/3/2025,548
+315,Protein Pancake Mix,3.99,540,Food - Breakfast,1/5/2025,896
+316,Spicy Vegetable Sushi Rolls,8.49,968,Food - Prepared Foods,11/13/2025,77
+317,Honey Lemon Tea,3.29,103,Food - Beverages,7/24/2025,
+318,Pumpkin Pie Spice,2.99,10,Food - Baking,7/28/2025,3217
+319,Travel Makeup Organizer,25.99,1862,Beauty,8/16/2025,837
+320,Asian Stir-Fry Vegetables,2.99,2219,Food - Frozen Foods,11/19/2025,1572
+321,Italian Sausage and Peppers,8.99,1784,Food - Meat,3/1/2025,350
+322,Portable Air Pump,19.99,72,Outdoor,2/8/2025,3428
+323,Peach Mango Smoothie Mix,5.99,1095,Food - Beverages,4/29/2025,951
+324,Almond Milk Yogurt,1.99,4423,Food - Dairy Alternatives,9/19/2025,9334
+325,Almond Joy Protein Bars,1.99,193,Food - Snacks,2/26/2025,89
+326,Zucchini Noodles,3.99,7316,Food - Vegetables,6/15/2025,4823
+327,Vegetable Quinoa Bowl,5.99,3282,Food - Frozen Meals,8/16/2025,1446
+328,Honey-Balsamic Vinaigrette,3.39,11,Food - Dressing,5/12/2025,3362
+329,Organic Green Apples,1.49,3,Food - Produce,7/25/2025,172
+330,Outdoor Camping Hammock,29.99,0,Outdoor,9/28/2025,281
+331,Indestructible Dog Toy,15.99,1747,Pets,7/19/2025,589
+332,Kids' Art Supplies Kit,29.99,2231,Toys,7/6/2025,3
+333,Berry Smoothie Mix,4.99,550,Food - Frozen Foods,8/23/2025,2143
+334,Chicken Sausage,6.99,118,Food - Meat,9/8/2025,3025
+335,Essential Oil Roller Bottles,19.99,10,Health,4/21/2025,2021
+336,Fitness Activity Journal,14.99,23,Fitness,11/29/2025,40
+337,Portable Air Pump,19.99,529,Outdoor,10/14/2025,5600
+338,Organic Quinoa Chips,3.99,60,Food - Snacks,8/30/2025,55
+339,Phone Screen Protector,12.99,60,Accessories,9/23/2025,16
+340,Cinnamon Sugar Mix,1.49,55,Food - Baking,2/4/2025,184
+341,Caramelized Onion Dip,3.99,690,Food - Dairy,7/23/2025,206
+342,Kale and Quinoa Salad,6.49,27,Food - Salads,9/20/2025,821
+343,Puff Pastry,5.49,1444,Food - Bakery,11/18/2025,193
+344,Buffalo Chicken Dip,5.99,59,Food - Dips,12/24/2024,2661
+345,Cinnamon Sugar Tortilla Chips,3.29,463,Food - Snacks,10/6/2025,966
+346,Wine Decanter,34.99,913,Home,8/18/2025,302
+347,Spicy Thai Noodles,1.99,2031,Food - Frozen Meals,2/24/2025,20
+348,Desk Lamp with USB Port,29.99,119,Office,10/26/2025,
+349,Zucchini Noodles,3.99,43,Food - Vegetables,2/17/2025,5575
+350,Smart Thermos,39.99,7,Fitness,4/4/2025,3217
+351,Fitness Balance Ball,24.99,4368,Fitness,8/10/2025,32
+352,Organic Quinoa Salad,5.99,252,Food - Prepared Meals,6/24/2025,
+353,Fruit & Nut Trail Mix,4.99,,Food - Snacks,8/22/2025,1325
+354,Electric Griddle,54.99,4473,Kitchen,7/22/2025,956
+355,Garlic Butter Shrimp,8.99,4858,Food - Seafood,12/12/2025,4212
+356,Pumpkin Waffles,4.49,0,Food - Breakfast,1/7/2025,714
+357,High-Speed HDMI Cable,12.99,1095,Electronics,1/10/2025,381
+358,Professional Chef Knife,89.99,683,Kitchen,1/10/2025,461
+359,Chicken Parmesan Dinner Kit,14.99,172,Food - Frozen Meals,1/24/2025,100
+360,Chocolate Coconut Protein Balls,2.99,8,Food - Snacks,1/29/2025,82
+361,Dog Walking Waist Pack,19.99,1680,Pets,5/27/2025,7
+362,Mini Fondue Set,34.99,182,Kitchen,8/19/2025,4744
+363,Thai Red Curry Paste,3.99,217,Food - Condiments,6/27/2025,3640
+364,Mango Chili Salsa,4.29,1639,Food - Condiments,12/5/2025,21
+365,Self-Watering Planter,24.99,482,Garden,2/8/2025,39
+366,Electric Nail File Kit,34.99,772,Beauty,11/20/2025,732
+367,Caraway Rye Bread,4.79,1198,Food - Bakery,12/16/2025,184
+368,Travel Shoe Bags Set,15.99,2600,Travel,12/20/2024,400
+369,Pasta Primavera,4.99,12,Food - Frozen Foods,12/17/2024,3
+370,Herb Garlic Butter,3.99,10,Food - Condiments,11/19/2025,3538
+371,Breezy Off-The-Shoulder Top,34.99,369,Clothing - Tops,12/12/2025,982
+372,Handheld Garment Steamer,34.99,75,Home,6/6/2025,413
+373,Electric Razor,59.99,3,Health,5/27/2025,0
+374,Non-Toxic Concrete Sealer,39.99,2240,Home Improvement,5/15/2025,778
+375,Roasted Vegetable Medley,3.99,,Food - Frozen Foods,5/18/2025,3
+376,Electric Screwdriver,59.99,454,Tools,2/18/2025,833
+377,Multi-Port USB Hub,19.99,716,Electronics,9/17/2025,832
+378,Chunky Knit Sweater,59.99,160,Clothing - Tops,3/14/2025,479
+379,Breathable Face Mask Set,14.99,13,Health,3/30/2025,143
+380,Roasted Vegetable Medley,3.99,440,Food - Frozen Foods,1/4/2025,1476
+381,Couscous Mix,2.49,1620,Food - Grains,11/6/2025,1480
+382,Spicy BBQ Sauce,3.99,128,Food - Condiments,10/29/2025,1195
+383,Terry Cloth Robe,59.99,1002,Clothing - Loungewear,7/25/2025,123
+384,Organic Ramen Noodles,2.89,374,Food - Pasta,3/17/2025,3183
+385,Lentils,2.99,664,Food - Grains,5/29/2025,54
+386,Tomatillo Salsa,3.29,1,Food - Condiments,3/31/2025,295
+387,Frozen Mixed Berries,5.99,442,Food - Frozen Foods,1/8/2025,16
+388,Avocado Lime Dressing,4.29,24,Food - Condiments,3/10/2025,600
+389,Customizable Name Puzzle,29.99,22,Toys,6/4/2025,2631
+390,Spicy Kimchi,4.79,,Food - Condiments,2/15/2025,219
+391,Sustainable Wooden Toys,29.99,623,Toys,4/27/2025,604
+392,Luxury Yoga Mat,39.99,951,Fitness,5/13/2025,24
+393,Classic Black Dress,79.99,481,Clothing - Dresses,10/25/2025,4550
+394,Wall-Mounted Wine Rack,39.99,219,Home,8/28/2025,1927
+395,Cinnamon Raisin Bread,3.79,62,Food - Bakery,2/2/2025,3000
+396,Foot Massager,79.99,650,Health,11/12/2025,73
+397,Kale Caesar Salad Kit,5.99,59,Food - Salads,12/13/2025,16
+398,Vegetable Stir Fry Mix,3.29,29,Food - Fresh Produce,2/10/2025,16
+399,Sketchbook,14.99,1472,Art Supplies,10/6/2025,3088
+400,Teriyaki Sauce,2.99,837,Food - Condiments,3/30/2025,1822
+401,Slim Wallet,24.99,,Accessories,6/7/2025,85
+402,Throw Pillow Covers,22.99,801,Home,12/30/2024,2968
+403,Fishing Rod,49.99,178,Outdoor,9/3/2025,93
+404,Vegan Tacos,7.49,1099,Food - Frozen Foods,8/18/2025,909
+405,Pesto Genovese,6.49,1008,Food - Condiments,7/24/2025,10
+406,Adjustable Kitchen Broom Stand,14.99,584,Home,10/11/2025,988
+407,Kitchen Knife Sharpening System,39.99,775,Kitchen,7/5/2025,606
+408,Smartphone Tripod with Remote,29.99,15,Photography,5/28/2025,157
+409,Whole Grain Cereal,3.49,262,Food - Breakfast,9/7/2025,1181
+410,Turmeric Ginger Tea,3.29,1532,Food - Beverages,6/7/2025,298
+411,Roasted Garlic Pasta Sauce,4.99,1800,Food - Sauces,3/12/2025,4518
+412,Thermostatic Shower Valve Kit,39.99,705,Bathroom,5/25/2025,1289
+413,Digital Photo Frame,79.99,4557,Home,8/9/2025,892
+414,Electric Wine Opener,29.99,1145,Kitchen,4/23/2025,295
+415,Handheld Garment Steamer,34.99,4216,Home,5/5/2025,47
+416,Feta Cheese,4.99,1450,Food - Dairy,10/13/2025,250
+417,Nutritional Yeast,3.59,,Food - Pantry,7/20/2025,291
+418,Pet Safety Belt for Car,14.99,1489,Pets,4/15/2025,59
+419,Smoked Paprika,2.99,53,Food - Spices,1/27/2025,1632
+420,Honey mustard chicken tenders,7.99,90,Food - Meat,1/14/2025,150
+421,Children's Art Set,34.99,14,Toys,6/30/2025,4740
+422,Almond Flour Cookies,4.99,166,Food - Bakery,9/26/2025,839
+423,Sporty Leggings,39.99,101,Clothing - Activewear,10/20/2025,
+424,Cotton Tote Bag Set,29.99,596,Accessories,5/8/2025,488
+425,Frozen Acai PurÃ©e,6.99,778,Food - Frozen,7/24/2025,1770
+426,Acoustic Guitar,199.99,88,Music,9/23/2025,0
+427,Scented Candles,19.99,93,Home,4/19/2025,96
+428,Veggie Lovers Pizza,8.99,31,Food - Frozen Foods,10/21/2025,5800
+429,Italian Herb Balsamic Marinade,3.99,1271,Food - Condiments,7/15/2025,7539
+430,Californian Raisins,3.19,408,Food - Dried Fruits,10/21/2025,512
+431,Luxury Bath Salts,19.99,15,Beauty,2/18/2025,28
+432,Chocolate Mint Cookies,2.29,,Food - Baking,12/1/2025,1046
+433,Peach Yogurt,1.29,540,Food - Dairy,7/18/2025,426
+434,Fishing Rod,49.99,4853,Outdoor,6/8/2025,26
+435,Animal Paw Print Soap Dispenser,16.99,2464,Home,3/20/2025,350
+436,Spicy Snack Mix,4.99,423,Food - Snacks,3/24/2025,0
+437,Organic Honeycrisp Apples,1.99,512,Food - Fruits,4/12/2025,1775
+438,Organic Green Lentils,3.99,1110,Food - Grocery,1/27/2025,236
+439,Slim Fit Chinos,54.99,27,Clothing - Pants,7/24/2025,238
+440,Wall Planner,19.99,2697,Office,3/18/2025,18
+441,Coconut Rice,2.29,686,Food - Frozen,8/4/2025,2131
+442,Self-Massaging Pillow,49.99,1968,Health,11/25/2025,0
+443,Brownie Bites,4.99,504,Food - Baked Goods,3/3/2025,2900
+444,Ginger Tea,4.99,3720,Food - Beverages,1/31/2025,30
+445,Cotton Tote Bag Set,29.99,346,Accessories,12/1/2025,88
+446,Sweet Corn Fritters,4.49,1028,Food - Frozen,10/30/2025,203
+447,Tomato Basil Soup,3.49,,Food - Canned Goods,4/9/2025,2184
+448,Personalized Keychain,10.99,4444,Accessories,6/2/2025,145
+449,Pet Water Fountain,39.99,,Pets,8/3/2025,1266
+450,Kombucha Drink,3.49,2346,Food - Beverages,3/16/2025,1176
+451,Heavy-Duty Utility Tote,34.99,125,Accessories,9/28/2025,344
+452,Rice Pilaf Mix,2.59,4740,Food - Grains,10/28/2025,6
+453,Outdoor Adventure Backpack,59.99,659,Outdoor,1/27/2025,36
+454,Mechanical Keyboard,99.99,72,Computers,10/8/2025,12
+455,Hand Crank Blender,18.99,4952,Kitchen,9/20/2025,4557
+456,Sweet Potato Fries,3.99,20,Food - Frozen Foods,10/10/2025,4
+457,Lemonade Mix,1.99,1930,Food - Beverages,2/4/2025,435
+458,Collapsible Colander,14.99,230,Kitchen,7/2/2025,137
+459,Multi-Layer Food Steamer,39.99,1511,Kitchen,10/18/2025,190
+460,Noise Reduction Headphones,39.99,980,Audio,2/4/2025,19
+461,Personalized Pet ID Tags,9.99,1050,Pets,10/22/2025,15
+462,LED Camping Lantern with USB Charging,34.99,1742,Outdoor,12/9/2025,1669
+463,Organic Quinoa,4.29,102,Food - Grains,12/9/2025,729
+464,Buffalo Stilton Cheese,8.99,1881,Food - Cheese,1/3/2025,13
+465,Hibiscus Herbal Tea,3.29,,Food - Beverages,2/6/2025,814
+466,Fresh Cilantro,1.49,3490,Food - Produce,6/30/2025,266
+467,Mango Chunks,4.89,32,Food - Frozen Fruits,12/10/2025,4326
+468,Lasagna Noodles,1.89,4563,Food - Pasta,9/1/2025,10
+469,Wall Planner,19.99,-1266,Office,9/8/2025,398
+470,Pet Training Pads,24.99,436,Pets,10/6/2025,1834
+471,Electric Heating Pad,20.99,8,Health,6/17/2025,1800
+472,Samsung Galaxy Smartwatch,249.99,24,Wearable Tech,10/19/2025,712
+473,Apple Cinnamon Oatmeal,2.89,100,Food - Breakfast,7/24/2025,1060
+474,Outdoor Camping Lantern,34.99,1429,Outdoor,4/15/2025,2525
+475,Black Olives,1.99,305,Food - Canned Goods,9/27/2025,5480
+476,Dark Chocolate Tart,6.29,21,Food - Desserts,10/27/2025,15
+477,Vegetable Sushi Rolls,5.99,495,Food - Prepared Meals,12/23/2024,459
+478,Vegan Protein Powder,34.99,2040,Health,7/21/2025,690
+479,Camping Tarp,32.99,16,Outdoor,9/8/2025,317
+480,Mechanical Pencil Set,19.99,119,Office,7/12/2025,1631
+481,Sour Cream,3.49,,Food - Dairy,11/29/2025,3400
+482,Solar Garden Lights,39.99,30,Outdoor,1/12/2025,5350
+483,Heated Throw Blanket,49.99,825,Home,12/7/2025,4500
+484,Lemon Garlic Marinade,4.29,2105,Food - Condiments,11/12/2025,548
+485,Baking Soda,0.99,2133,Food - Baking,9/25/2025,1114
+486,Kids' Gardening Kit,24.99,83,Toys,1/6/2025,17
+487,Air Fryer Oven,149.99,663,Kitchen,5/13/2025,1686
+488,Magnetic Phone Car Mount,14.99,15,Automotive,6/10/2025,823
+489,Comfortable Bed Pillow,24.99,162,Home,3/9/2025,299
+490,Greek Yogurt Parfait,4.49,1969,Food - Dairy,2/15/2025,387
+491,Garlic Herb Grilled Chicken,8.99,1050,Food - Frozen Foods,8/11/2025,86
+492,Travel Pillow with Memory Foam,29.99,90,Travel,10/22/2025,1864
+493,Brussels Sprouts,3.49,1690,Food - Produce,8/16/2025,
+494,Tattoo Kit,99.99,29,Art Supplies,11/20/2025,4100
+495,Spinach and Cheese Stuffed Shells,5.99,1602,Food - Frozen Meals,12/12/2025,27
+496,Foldable Yoga Mat Carry Bag,18.99,1096,Fitness,10/18/2025,30
+497,Chino Shorts,34.99,34,Clothing - Bottoms,4/21/2025,1531
+498,Spicy Salsa Verde,3.49,556,Food - Condiments,2/28/2025,231
+499,Habanero Hot Sauce,3.79,206,Food - Condiments,12/27/2024,2300
+500,Self-Watering Planters,49.99,157,Garden,9/8/2025,72
+501,Classic Black Dress,79.99,674,Clothing - Dresses,7/26/2025,476
+502,Desk Organizer Set,29.99,7,Office,2/1/2025,410
+503,Foldable Yoga Mat Carry Bag,18.99,1500,Fitness,12/30/2024,1365
+504,Beef Sirloin Steak,15.99,1631,Food - Meat,10/27/2025,169
+505,Vegan Chocolate Cake Mix,4.29,,Food - Baking,6/17/2025,840
+506,Chickpea Pasta,4.19,56,Food - Pasta,10/30/2025,577
+507,Maple Glazed Carrots,3.29,46,Food - Prepared Foods,12/1/2025,147
+508,Noise-Canceling Earbuds,79.99,32,Audio,4/9/2025,154
+509,Car Diagnostic Scanner,49.99,,Automotive,10/7/2025,113
+510,Electric Blanket,59.99,1217,Home,6/12/2025,97
+511,Portable Hammock Swing,59.99,13,Outdoor,2/22/2025,16
+512,Ginger Turmeric Latte Mix,5.29,433,Food - Beverages,6/20/2025,23
+513,Red Lentils,1.99,4232,Food - Grains,7/17/2025,2133
+514,Protein Pancake Mix,3.99,1036,Food - Breakfast,5/20/2025,31
+515,Pasta Maker,39,375,Kitchen,3/4/2025,806
+516,Spinach Pizza Rolls,4.99,2730,Food - Frozen Foods,10/8/2025,6800
+517,Chickpeas,1.29,95,Food - Canned Goods,2/28/2025,306
+518,Dried Cranberries,4.29,900,Food - Snacks,2/21/2025,5123
+519,Laptop Sleeve,24.99,1697,Accessories,3/28/2025,446
+520,Cranberry Almond Cookies,4.29,1427,Food - Bakery,5/22/2025,2312
+521,Digital Wireless Meat Thermometer,39.99,2075,Kitchen,12/15/2025,1046
+522,Pepper Jack Cheese Sticks,2.49,435,Food - Snacks,9/22/2025,621
+523,Yoga Blocks,29.99,1043,Fitness,10/29/2025,
+524,Plant Pot Drip Trays,9.99,4522,Garden,1/19/2025,4400
+525,Roasted Garlic Mashed Potatoes,3.99,5,Food - Frozen Foods,6/19/2025,40
+526,Board Game,34.99,39,Toys,8/11/2025,4100
+527,Quinoa and Kale Salad Kit,5.29,26,Food - Salads,3/18/2025,143
+528,Portable Folding Picnic Table,69.99,1686,Outdoor,5/29/2025,63
+529,Warm Knit Beanie,19.99,65,Clothing - Accessories,2/3/2025,414
+530,BBQ Jackfruit,4.29,1987,Food - Prepared Foods,11/18/2025,86
+531,Rustic Italian Bread,3.59,2,Food - Bakery,3/10/2025,
+532,Crafting Kit,29.99,14,Art Supplies,5/21/2025,1382
+533,Kale and Quinoa Salad,6.49,,Food - Salads,4/4/2025,24
+534,Herbal Tea Infuser,9.99,0,Kitchen,4/26/2025,20
+535,Pet Hair Removal Brush,14.99,4150,Pets,11/25/2025,575
+536,Reusable Food Storage Bags,19.99,479,Kitchen,1/17/2025,1552
+537,Foam Muscle Roller,24.99,4165,Fitness,2/13/2025,3290
+538,Over-The-Door Shoe Organizer,25.99,15,Home,5/8/2025,2790
+539,Luxe Velvet Blazer,89.99,38,Clothing - Outerwear,11/25/2025,250
+540,Collapsible Pet Dog Bowl,9.99,569,Pets,1/24/2025,1016
+541,Biodegradable Dog Waste Bags,14.99,705,Pets,3/5/2025,268
+542,Portable Phone Charger,29.99,918,Accessories,2/11/2025,108
+543,Slim Fit Chinos,54.99,1465,Clothing - Pants,7/3/2025,374
+544,Quinoa and Kale Salad Kit,5.29,764,Food - Salads,10/10/2025,548
+545,Car Phone Mount,15.99,446,Automotive,8/14/2025,92
+546,Bamboo Cutting Board Set,34.99,834,Kitchen,2/10/2025,
+547,Teriyaki Chicken Skewers,8.99,2663,Food - Meat,10/24/2025,16
+548,Honey Sesame Chicken,8.99,663,Food - Frozen Food,2/18/2025,365
+549,Protein Powder,44.99,4288,Fitness,2/23/2025,564
+550,Cordless Electric Screwdriver,39.99,218,Tools,3/16/2025,1367
+551,Wine Glasses,29.99,3810,Home,1/12/2025,2060
+552,Caramelized Onion Dip,3.99,203,Food - Dairy,12/1/2025,3550
+553,Bamboo Cutting Board,22,685,Kitchen,9/10/2025,3000
+554,Self-Massaging Pillow,49.99,58,Health,8/2/2025,459
+555,Magnetic Puzzle Board,24.99,20,Toys,7/16/2025,1808
+556,Tactical Backpack,59.99,23,Outdoor,12/19/2024,1916
+557,Chocolate Chip Pancake Mix,3.99,398,Food - Bakery,6/4/2025,9
+558,Oatmeal Raisin Cookies,3.49,59,Food - Baked Goods,9/8/2025,427
+559,Samsung Galaxy Smartwatch,249.99,124,Wearable Tech,1/18/2025,3295
+560,Samsung Galaxy Smartwatch,249.99,1602,Wearable Tech,7/14/2025,1401
+561,Luminous Night Light,15.99,942,Home,12/16/2025,209
+562,Peach & Mango Salsa,4.49,1000,Food - Snacks,3/4/2025,607
+563,Sparkling Blood Orange Soda,1.99,4,Food - Beverages,6/13/2025,2356
+564,Black Olives,1.99,23,Food - Canned Goods,12/4/2025,512
+565,Slim Wallet,24.99,200,Accessories,2/9/2025,685
+566,Handheld Vacuum,79.99,2040,Home Appliances,12/19/2024,17
+567,Field Journal,14.99,308,Books,2/22/2025,653
+568,Vacuum Sealer Machine,89.99,30,Kitchen,2/23/2025,3970
+569,Grapes (red),3.49,,Food - Produce,11/6/2025,3327
+570,Wireless Smart Plug,19.99,-210,Smart Home,7/6/2025,90
+571,Spicy Garlic Edamame,3.99,325,Food - Snacks,2/19/2025,
+572,Mini Indoor Herb Garden Kit,24.99,20,Garden,4/30/2025,7989
+573,Insulated Sport Tumbler,22.99,866,Fitness,9/26/2025,23
+574,Sliced Ham,5.49,4921,Food - Meat,12/26/2024,138
+575,Bamboo Cotton Tank Top,22.99,121,Clothing - Tops,5/19/2025,200
+576,Organic Granola Cereal,5.99,241,Food - Breakfast,1/5/2025,492
+577,Chili Con Carne Mix,2.99,2080,Food - Spices & Seasonings,8/31/2025,186
+578,Personalized Pet ID Tags,9.99,1278,Pets,12/25/2024,219
+579,Magnetic Curtain Tiebacks,12.99,63,Home,2/24/2025,12
+580,Dog Training Collar,39.99,20,Pets,11/22/2025,1181
+581,Children's Backpack,29.99,3365,Accessories,9/9/2025,74
+582,Roasted Sweet Corn,1.99,540,Food - Frozen,11/13/2025,915
+583,Smart Light Bulbs,34.99,1247,Smart Home,11/14/2025,23
+584,Oven-Baked Potato Chips,2.79,148,Food - Snacks,5/30/2025,2231
+585,Wireless Keyboard and Mouse Combo,34.99,495,Electronics,2/19/2025,32
+586,Comfortable Jogger Pants,29.99,5440,Clothing - Bottoms,12/30/2024,1178
+587,Ethically-Sourced Coffee Beans,9.99,15,Food - Beverages,9/8/2025,102
+588,Smoked Gouda Cheese,5.49,1900,Food - Dairy,6/16/2025,150
+589,Pet Bed with Removable Cover,49.99,10,Pets,8/13/2025,340
+590,Arcade Game Machine,299.99,181,Gaming,2/21/2025,259
+591,Non-Stick Baking Sheet,18.99,1831,Kitchen,9/24/2025,6858
+592,Zesty Garlic Marinade,4.49,350,Food - Condiments,4/6/2025,394
+593,Pork Chops,9.49,47,Food - Meat,7/13/2025,4423
+594,Tomato Sauce,2.79,142,Food - Canned Goods,4/1/2025,996
+595,Adjustable Laptop Stand,29.99,10,Office,6/3/2025,2500
+596,Portable Camping Stove,49.99,2000,Outdoor,12/9/2025,82
+597,Asian Stir-Fry Vegetables,2.99,794,Food - Frozen Foods,10/13/2025,-210
+598,Plaid Flannel Shirt,29.99,138,Clothing - Tops,10/13/2025,7143
+599,Fruit Infuser Water Bottle,15.99,,Fitness,8/2/2025,8
+600,Wireless Earbuds Case,12.99,4174,Accessories,9/18/2025,644
+601,Printed Maxi Skirt,39.99,17,Clothing - Skirts,9/15/2025,55
+602,Savory Oats,2.49,1148,Food - Breakfast,1/5/2025,46
+603,Spicy Thai Noodles,1.99,270,Food - Frozen Meals,6/6/2025,98
+604,Skincare Set,54.99,1955,Beauty,4/30/2025,540
+605,Coconut Milk,2.49,260,Food - Canned Goods,8/24/2025,141
+606,Tandoori Chicken Skewers,7.99,1887,Food - Meat,10/5/2025,732
+607,Electric Razor,59.99,8,Health,3/27/2025,57
+608,Self-Adhesive Wallpaper,34.99,1726,Home,9/15/2025,266
+609,Peach & Mango Salsa,4.49,834,Food - Snacks,2/3/2025,820
+610,Ginger Snaps,2.79,5192,Food - Confectionery,2/28/2025,64
+611,Self-Inflating Camping Mattress,49.99,23,Outdoor,8/27/2025,614
+612,Microfiber Cleaning Cloths,9.99,4700,Home,8/1/2025,782
+613,Baking Soda,0.99,600,Food - Baking,3/7/2025,3599
+614,Pistachio Ice Cream,4.99,3970,Food - Frozen Desserts,3/5/2025,390
+615,Sweet Potato and Chickpea Bowl,6.49,695,Food - Frozen Food,6/26/2025,81
+616,Cheesy Broccoli Soup Mix,2.99,54,Food - Soups,4/14/2025,1245
+617,Pepper Jack Cheese Slices,3.49,203,Food - Dairy,2/5/2025,570
+618,Solar Charger,39.99,4229,Electronics,6/16/2025,1478
+619,Portable Pet Water Bottle,18.99,443,Pets,9/27/2025,35
+620,Jennifer's Amazing Lip Balm Kit,22.99,74,Beauty,4/26/2025,538
+621,Coloring Books for Adults,14.99,5522,Books,3/2/2025,265
+622,Fleece Throw Blanket,29.99,3297,Home,3/4/2025,1032
+623,Sporty Cap,15.99,9500,Clothing - Accessories,12/17/2024,95
+624,Cushion Covers,35,1,Home,3/4/2025,1036
+625,Caramelized Onion Dip,3.99,345,Food - Dairy,1/1/2025,30
+626,Fitness Resistance Bands Kit,29.99,3934,Fitness,1/4/2025,69
+627,Home Office Chair,199.99,105,Furniture,10/24/2025,1560
+628,Folding Exercise Bike,199.99,1712,Fitness,12/5/2025,24
+629,Vegetable Lasagna,6.99,8,Food - Frozen Foods,12/26/2024,170
+630,Dried Apricots,3.79,935,Food - Dried Fruits,5/13/2025,1387
+631,Shatterproof Wine Glasses,24.99,75,Outdoor,2/2/2025,328
+632,Smart Scale,59.99,40,Health,10/6/2025,39
+633,LED Disco Ball Light,19.99,52,Home,12/13/2025,350
+634,Raspberry Limeade,1.99,529,Food - Beverages,5/5/2025,685
+635,Tattoo Kit,99.99,99,Art Supplies,3/28/2025,15
+636,Teriyaki Chicken Stir-Fry,6.99,390,Food - Frozen Foods,8/7/2025,2897
+637,High-Low Hem Tee,22.99,28,Clothing - Tops,9/7/2025,3782
+638,Portable Phone Mug Holder,14.99,15,Automotive,1/21/2025,179
+639,Spicy Thai Noodles,1.99,9,Food - Frozen Meals,2/28/2025,46
+640,Mini Fondue Set,34.99,3132,Kitchen,4/3/2025,194
+641,Athletic Sports Bra,24.99,655,Clothing - Activewear,6/1/2025,84
+642,Fleece Throw Blanket,29.99,30,Home,10/9/2025,5536
+643,Traditional Hummus,3.29,2631,Food - Dips,3/27/2025,178
+644,Thai Basil Fried Rice,5.99,473,Food - Frozen,4/12/2025,802
+645,Portable Bluetooth Headphones,79.99,387,Audio,11/18/2025,2540
+646,Travel Pillow,22.99,3680,Travel,9/13/2025,915
+647,Outdoor Inflatable Pool,149.99,11,Outdoor,11/16/2025,79
+648,Garlic Parmesan Roasted Nuts,4.89,1877,Food - Nuts,3/24/2025,66
+649,Smart Doorbell,119.99,356,Smart Home,1/1/2025,1497
+650,Almond Crunch Granola Bars,3.49,1211,Food - Snacks,3/1/2025,23
+651,Animal Paw Print Soap Dispenser,16.99,436,Home,3/6/2025,324
+652,Memory Card,15.99,1552,Storage,4/9/2025,1098
+653,Soft Plush Throw Blanket,29.99,,Home,7/10/2025,36
+654,Sushi Rice,3.99,3400,Food - Grains,9/29/2025,
+655,Noise-Canceling Earbuds,79.99,92,Audio,3/23/2025,2126
+656,Lemon Herb Grilled Chicken,9.99,1,Food - Meat,11/22/2025,33
+657,Pita Bread,2.99,230,Food - Bakery,12/12/2025,3362
+658,Athletic Sports Bra,24.99,1036,Clothing - Activewear,4/1/2025,75
+659,Pumpkin Seeds,2.79,1965,Food - Snacks,11/2/2025,738
+660,Basmati Rice,5.79,18,Food - Grains,7/27/2025,1240
+661,Personal Blender,39.99,198,Kitchen,10/14/2025,1267
+662,Dog Training Collar,39.99,1249,Pets,11/10/2025,3550
+663,Bluetooth Car Adapter,24.99,129,Automotive,10/9/2025,800
+664,Chicken Fajita Kit,8.99,33,Food - Prepared Foods,3/2/2025,2153
+665,Savory Breakfast Sausage,6.49,61,Food - Meats,11/13/2025,88
+666,Frozen Acai PurÃ©e,6.99,272,Food - Frozen,10/22/2025,15
+667,Instant Pot,89.99,39,Kitchen,4/30/2025,9
+668,Buffalo Chicken Dip,5.99,151,Food - Dips,9/2/2025,165
+669,DIY Lip Balm Making Kit,22.99,,Crafts,6/3/2025,122
+670,Multifunctional Baby Bottle Warmer,39.99,59,Baby,4/2/2025,40
+671,Classic Bagels,2.99,421,Food - Bakery,4/29/2025,6723
+672,Noise Reduction Headphones,39.99,2737,Audio,3/19/2025,1017
+673,Nutty Quinoa Salad,4.99,17,Food - Salads,10/29/2025,1888
+674,LED Flashlight,19.99,15,Outdoor,1/5/2025,728
+675,Memory Foam Mattress Pad,69.99,1968,Home,4/21/2025,1266
+676,Noise Cancelling Ear Muffs,24.99,157,Safety,12/25/2024,4300
+677,Fashionable Scarves Set,24.99,430,Clothing,1/9/2025,157
+678,Mobile Workbench,199.99,627,Tools,12/22/2024,436
+679,Organic Coconut Yogurt,4.49,3520,Food - Dairy,9/27/2025,5687
+680,Portable Blender,30,3318,Kitchen,12/4/2025,2302
+681,Portable Massage Table,199.99,81,Health,2/5/2025,243
+682,White Rice,1.49,3904,Food - Grains,1/23/2025,3703
+683,Pet Grooming Scissors,16.99,102,Pets,5/21/2025,26
+684,French Onion Dip,2.99,1191,Food - Condiments,9/5/2025,3951
+685,Kids' Gardening Tools Set,22.99,2287,Toys,2/7/2025,2139
+686,Frozen Hash Browns,2.99,92,Food - Frozen Foods,4/27/2025,11
+687,Adjustable Laptop Desk,59.99,59,Office,4/6/2025,
+688,Cream Cheese,2.69,141,Food - Dairy,7/12/2025,93
+689,Wireless Printer,99.99,1095,Office,8/16/2025,814
+690,Grass Fed Beef Patties,9.99,75,Food - Meat,2/13/2025,1280
+691,Cocoa Powder,3.99,,Food - Baking,3/29/2025,62
+692,Chocolate Dipped Fruit,5.99,20,Food - Snacks,3/3/2025,79
+693,Hand Mixer,29.99,588,Kitchen,7/9/2025,12
+694,Raspberry Vanilla Greek Yogurt,3.49,268,Food - Dairy,6/9/2025,548
+695,Garden Hose Reel,49.99,,Garden,4/27/2025,29
+696,Motion Sensor Light,19.99,1965,Home,10/25/2025,1270
+697,Cranberry Almond Granola,4.29,125,Food - Breakfast,10/26/2025,90
+698,Fitness Tracker,49.99,32,Fitness,5/14/2025,2136
+699,Smart Wi-Fi Light Bulbs,19.99,90,Smart Home,6/2/2025,2965
+700,Coconut Cream,2.99,832,Food - Baking & Cooking,10/11/2025,4473
+701,DIY Candle Making Kit,22.99,8361,Crafts,4/1/2025,2467
+702,High-Quality Yoga Block,12.99,646,Fitness,11/27/2025,162
+703,Golf Putting Green,79.99,582,Sports,10/6/2025,33
+704,Honey Lemon Tea,3.29,1493,Food - Beverages,8/13/2025,493
+705,Multicolored LED Strip Lights,29.99,26,Home,1/2/2025,54
+706,Black Bean & Corn Salad,3.99,5330,Food - Salads,9/11/2025,164
+707,Dill Pickle Chips,2.29,33,Food - Condiments,4/23/2025,1024
+708,Coconut Curry Sauce,3.89,612,Food - Sauces,3/6/2025,464
+709,Tortilla Chips,2.99,197,Food - Snacks,8/29/2025,328
+710,Bluetooth Shower Speaker,24.99,80,Audio,7/12/2025,1003
+711,Bodyweight Resistance Bands,22.99,1334,Fitness,6/28/2025,3919
+712,Organic Ramen Noodles,2.89,263,Food - Pasta,3/16/2025,940
+713,Vegan Chickpea Salad,3.99,61,Food - Prepared Foods,11/1/2025,283
+714,Collapsible Folding Chair,29.99,,Outdoor,3/29/2025,85
+715,Organic Baby Spinach,2.99,3295,Food - Produce,11/29/2025,214
+716,Almond Flour Pizza Crust,7.99,768,Food - Frozen Foods,6/18/2025,4804
+717,Folding Pocket Knife,24.99,67,Tools,12/9/2025,20
+718,Sweetened Condensed Milk,1.89,1765,Food - Baking Goods,2/20/2025,647
+719,Scented Candle Set,24.99,305,Home,3/9/2025,641
+720,Green Tea Matcha Powder,15.99,,Food - Beverages,6/23/2025,860
+721,Collapsible Water Bottle,12.99,1408,Fitness,11/19/2025,172
+722,Faux Fur Throw Blanket,39.99,369,Home,5/30/2025,119
+723,Home Karaoke System,129.99,78,Audio,12/26/2024,60
+724,Sliced Avocado,2.79,0,Food - Produce,9/11/2025,335
+725,Portable Jump Starter,59.99,1860,Automotive,8/3/2025,883
+726,Coconut Cream,2.99,308,Food - Baking & Cooking,9/14/2025,1966
+727,Non-Slip Yoga Socks,12.99,1985,Fitness,9/24/2025,1476
+728,Tandoori Chicken Skewers,7.99,10,Food - Meat,10/3/2025,5720
+729,Mobile Workbench,199.99,677,Tools,8/13/2025,55
+730,Pet Hair Vacuum Attachment,14.99,,Pets,2/19/2025,92
+731,Aeropress Coffee Maker,29.99,822,Kitchen,10/17/2025,0
+732,Peanut Butter Protein Balls,5.29,197,Food - Snacks,10/30/2025,22
+733,Sweet Pea Hummus,4.29,13,Food - Dips,4/19/2025,46
+734,LED Strip Light Kit,39.99,34,Home,10/21/2025,748
+735,Magnetic Chess Set,19.99,509,Toys,7/17/2025,845
+736,Cocoa Powder,3.99,61,Food - Baking,5/5/2025,131
+737,Tailored Dress Pants,79.99,1175,Clothing - Bottoms,10/4/2025,1265
+738,Arcade Game Machine,299.99,3358,Gaming,8/29/2025,377
+739,Sriracha Sauce,3.19,11,Food - Condiments,3/13/2025,5
+740,Electric Nail File Kit,34.99,1047,Beauty,3/4/2025,42
+741,Teriyaki Chicken Skewers,8.99,334,Food - Meat,4/13/2025,56
+742,Chocolate Protein Powder,24.99,390,Food - Supplements,9/12/2025,1380
+743,Pumpkin Spice Cookies,3.29,2320,Food - Bakery,8/19/2025,742
+744,Electric Hot Water Dispenser,59.99,374,Kitchen,10/22/2025,73
+745,Chickpea Pancakes,4.99,724,Food - Frozen,5/3/2025,1270
+746,Travel Hair Straightener,29.99,725,Beauty,1/9/2025,
+747,Pecan Pie Filling,3.99,,Food - Baking Goods,12/16/2025,88
+748,Vegan Tacos,7.49,1817,Food - Frozen Foods,4/26/2025,19
+749,Gardening Tools Set,45,,Garden,3/9/2025,6
+750,Adjustable Pet Feeder,39.99,786,Pets,6/30/2025,262
+751,Pumpkin Seeds,2.79,120,Food - Snacks,9/20/2025,2472
+752,Cocoa Powder,3.99,131,Food - Baking,3/29/2025,783
+753,Warm Knit Beanie,19.99,1444,Clothing - Accessories,12/21/2024,84
+754,LED Desk Lamp with USB Charging,39.99,604,Office,12/14/2025,35
+755,Pet Hair Vacuum Attachment,14.99,20,Pets,1/11/2025,3517
+756,Frozen Broccoli,2.49,725,Food - Frozen,3/2/2025,3782
+757,Siphon Coffee Maker,49.99,93,Kitchen,8/10/2025,1359
+758,Compact Shoe Rack,34.99,489,Home,6/22/2025,
+759,Peanut Butter Banana Smoothie,3.99,3279,Food - Beverages,4/3/2025,12
+760,Under Desk Footrest,29.99,89,Office,4/24/2025,6449
+761,Fashionable Scarves Set,24.99,14,Clothing,2/12/2025,4759
+762,High-Speed Blender,99.99,100,Kitchen,12/5/2025,173
+763,Cooking Utensil Set,24.99,5638,Kitchen,11/25/2025,
+764,Pecan Pie Filling,3.99,1050,Food - Baking Goods,7/19/2025,36
+765,Adjustable Window Blind,49.99,2647,Home,9/13/2025,622
+766,Pumpkin Spice Creamer,3.79,12,Food - Beverages,9/17/2025,443
+767,Thai Basil Fried Rice,5.99,65,Food - Frozen,8/30/2025,1060
+768,Sports Windbreaker,44.99,1610,Clothing - Outerwear,8/18/2025,16
+769,Dual Function Electric Skillet,59.99,,Kitchen,7/2/2025,1484
+770,Smoky BBQ Jackfruit,4.99,,Food - Grocery,1/14/2025,790
+771,Freestanding Wine Rack,79.99,16,Home,11/18/2025,353
+772,Sweet Corn,1.5,650,Food - Canned Goods,4/10/2025,636
+773,Couscous Mix,2.49,4021,Food - Grains,1/21/2025,1411
+774,Smart Plug,19.99,5282,Smart Home,10/8/2025,879
+775,Classic Bagels,2.99,630,Food - Bakery,6/26/2025,16
+776,Orange Ginger Vinaigrette,3.99,399,Food - Condiments,9/21/2025,
+777,Frozen Pizza,7.99,148,Food - Frozen Foods,2/24/2025,62
+778,Watering Can with Nozzle,19.99,2250,Garden,5/18/2025,924
+779,Magnetic Chess Set,19.99,481,Toys,3/10/2025,1009
+780,Portable Ice Maker,199.99,2469,Kitchen,6/26/2025,5999
+781,Vegetable Stock,2.49,26,Food - Cooking Essentials,8/12/2025,1216
+782,Sesame Seeds,1.99,1601,Food - Baking,11/14/2025,0
+783,Mini Pretzels,2.99,5,Food - Snacks,2/2/2025,325
+784,Himalayan Salt Grinder,4.99,73,Food - Spices,2/25/2025,114
+785,Marinated Artichokes,3.79,0,Food - Vegetables,6/13/2025,309
+786,Insulated Wine Tote,24.99,425,Accessories,8/21/2025,1881
+787,Fruit and Nut Energy Bites,2.99,2260,Food - Snacks,11/23/2025,1335
+788,Honey Mustard Pretzel Bites,3.99,15,Food - Snacks,12/28/2024,1380
+789,Cinnamon Sugar Mix,1.49,238,Food - Baking,9/9/2025,252
+790,Coffee Making Kit,44.99,127,Kitchen,3/26/2025,1158
+791,Adjustable Garden Rake,22.99,526,Garden,8/10/2025,3782
+792,Rechargeable Battery Organizer,17.99,20,Home,8/13/2025,1136
+793,Gluten-Free Biscuits,3.79,394,Food - Baking,5/20/2025,902
+794,Digital Kitchen Timer,14.99,226,Kitchen,4/29/2025,117
+795,Honey Mustard Pretzel Bites,3.99,472,Food - Snacks,12/21/2024,1770
+796,Scented Candles,19.99,240,Home,12/22/2024,47
+797,Tuscan Bean Soup,2.49,433,Food - Canned Goods,2/4/2025,584
+798,Pet Safety Harness,24.99,,Pets,1/15/2025,232
+799,Italian Herbal Seasoning,1.99,266,Food - Spices,1/28/2025,2274
+800,Pistachio Ice Cream,4.99,1387,Food - Frozen Desserts,7/13/2025,446
+801,Motion Sensor Light,19.99,450,Home,8/16/2025,122
+802,Wireless Printer,99.99,165,Office,9/14/2025,114
+803,Electrolyte Water Bottle,34.99,668,Fitness,2/25/2025,1069
+804,Smartphone UV Sanitizer,39.99,6763,Health,7/4/2025,341
+805,Thai Basil Fried Rice,5.99,40,Food - Frozen,6/8/2025,1402
+806,Herbal Tea Set,19.99,5,Food,12/29/2024,607
+807,Coconut Chips,3.59,56,Food - Snacks,7/20/2025,59
+808,Vegan Caesar Dressing,3.99,1624,Food - Condiments,5/11/2025,1959
+809,Pet Grooming Kit,39.99,,Pets,11/23/2025,49
+810,High-Pressure Handheld Shower Head,39.99,75,Bathroom,3/5/2025,1884
+811,Blackberry Jam,4.29,256,Food - Condiments,6/1/2025,1473
+812,Pumpkin Spice Latte Mix,3.29,140,Food - Beverages,11/22/2025,70
+813,Rechargeable Electric Toothbrush,49.99,3442,Health,5/19/2025,32
+814,Beef Stroganoff Mix,5.49,10,Food - Meal Kits,10/2/2025,17
+815,Travel Yoga Mat,34.99,164,Fitness,4/6/2025,2818
+816,Sweet Chili Sauce,2.99,3245,Food - Condiments,3/30/2025,20
+817,Weighted Jump Rope,15.99,6221,Fitness,10/17/2025,1969
+818,Pet Carrier,39.99,132,Pets,5/19/2025,1312
+819,Heated Throw Blanket,49.99,4551,Home,8/24/2025,60
+820,Electric Rice Cooker with Steamer,49.99,108,Kitchen,4/5/2025,999
+821,Frozen Spinach,1.99,982,Food - Frozen Foods,7/22/2025,
+822,Honey Ginger Tea,2.99,115,Food - Beverages,1/6/2025,120
+823,Dark Chocolate Raisins,3.49,124,Food - Snacks,3/29/2025,24
+824,Overnight Hiking Backpack,79.99,511,Outdoor,3/27/2025,4
+825,Tomatillo Salsa,3.29,450,Food - Condiments,7/6/2025,163
+826,Almond Joy Snack Bars,2.99,20,Food - Snacks,2/21/2025,16
+827,Foam Roller for Muscle Recovery,29.99,187,Fitness,2/25/2025,7539
+828,Ginger Snaps,2.79,206,Food - Confectionery,2/21/2025,23
+829,Children's Gardening Set,19.99,3755,Toys,7/20/2025,1620
+830,Organic Almond Flour,6.99,2255,Food - Baking,3/7/2025,3250
+831,Portable Hammock with Stand,69.99,767,Outdoor,10/4/2025,883
+832,Portable Jump Starter,59.99,15,Automotive,4/23/2025,930
+833,Jasmine Rice,2.39,236,Food - Grains,4/11/2025,85
+834,Smart Water Bottle with Hydration Reminder,39.99,304,Fitness,3/21/2025,841
+835,Natural Peanut Butter,4.29,75,Food - Spreads,2/15/2025,14
+836,Smart Fitness Scale,49.99,3868,Fitness,5/31/2025,1035
+837,Sesame Garlic Noodles,3.49,4179,Food - Pasta,3/2/2025,1729
+838,Sesame Garlic Noodles,3.49,5680,Food - Pasta,8/29/2025,17
+839,Reversible Comforter Set,89.99,370,Home,11/15/2025,755
+840,Portable Solar Path Lights,39.99,403,Outdoor,7/17/2025,22
+841,Creamy Ranch Dressing,2.49,1335,Food - Dressings,12/29/2024,1365
+842,Wall Decals for Kids,24.99,4006,Home,3/2/2025,2563
+843,Ceramic Bakeware Set,49.99,98,Kitchen,3/12/2025,82
+844,Graphic Print Leggings,29.99,170,Clothing - Activewear,9/11/2025,404
+845,Decorative Throw Pillows,29.99,3510,Home,5/10/2025,621
+846,Banana Peanut Butter Smoothie,5.49,3,Food - Frozen Foods,1/26/2025,2102
+847,Cinnamon Sugar Donuts,4.99,4950,Food - Bakery,11/14/2025,155
+848,Compact Refrigerator,199.99,681,Home Appliances,2/5/2025,1968
+849,Savory Snack Mix,4.49,39,Food - Snacks,9/8/2025,981
+850,Portable Blender,30,,Kitchen,7/2/2025,
+851,Mediterranean Olives,6.49,889,Food - Condiments,9/3/2025,244
+852,Organic Baby Carrots,2.99,860,Food - Fresh Produce,9/26/2025,
+853,Wooden Kitchen Utensil Set,19.99,17,Kitchen,6/22/2025,2328
+854,Electric Stool Heater,29.99,3799,Home,12/27/2024,406
+855,Electric Hot Pot,49.99,30,Kitchen,10/12/2025,1648
+856,Children's Gardening Set,19.99,4952,Toys,12/23/2024,72
+857,Organic Tomato Ketchup,3.49,34,Food - Condiments,3/30/2025,289
+858,Chili Lime Corn Chips,2.79,504,Food - Snacks,9/17/2025,1293
+859,Indoor Grill,59.99,274,Kitchen,10/7/2025,1765
+860,Travel Size Toiletry Bottles,9.99,13,Travel,2/9/2025,728
+861,Herb Seasoned Couscous,2.49,,Food - Grains,8/19/2025,75
+862,Fire Roasted Salsa,2.49,663,Food - Condiments,3/11/2025,1974
+863,Vegetarian Sausage Links,5.89,630,Food - Meat Substitutes,9/25/2025,3706
+864,Pet Travel Carrier,39.99,3853,Pets,4/12/2025,13355
+865,Fashionable Scarves Set,24.99,363,Clothing,10/15/2025,7
+866,Pest Control Traps,22.99,1975,Home,3/21/2025,10
+867,Kids' Art Easel,58.99,55,Toys,12/21/2024,465
+868,Antique Style Clock,39.99,495,Home,9/6/2025,170
+869,Shredded Cheese,4.29,109,Food - Dairy,7/27/2025,1573
+870,Travel Shoe Bags Set,15.99,6032,Travel,5/3/2025,20
+871,Ceramic Planter Set,39.99,31,Home,8/13/2025,20
+872,Chili Lime Shrimp,8.99,807,Food - Seafood,8/15/2025,354
+873,Organic Vanilla Bean Ice Cream,5.99,630,Food - Frozen Desserts,8/4/2025,0
+874,Garlic Parmesan Wings,8.99,1284,Food - Frozen Foods,4/11/2025,1650
+875,Garden Kneeler and Seat,39.99,33,Garden,5/8/2025,980
+876,Robot Vacuum Cleaner,299.99,10,Home Appliances,11/15/2025,5020
+877,Miso Dressing,3.49,3697,Food - Dressings,5/8/2025,30
+878,Ultraviolet Phone Sanitizer,39.99,340,Health,11/30/2025,671
+879,Wireless Charging Station,39.99,603,Electronics,7/22/2025,861
+880,Quinoa,4.49,5,Food - Grains,1/2/2025,34
+881,Sesame Seeds,1.99,398,Food - Baking,8/6/2025,15
+882,Children's Educational Puzzle,19.99,86,Toys,4/4/2025,1860
+883,Granola Clusters,4.99,0,Food - Cereal,6/30/2025,1470
+884,Raspberry Lemonade Mix,3.99,128,Food - Beverages,2/5/2025,1087
+885,Pet Hair Removal Brush,14.99,4560,Pets,2/19/2025,3126
+886,Yoga Mat,25,151,Fitness,4/12/2025,8400
+887,Beef Stroganoff Mix,5.49,1260,Food - Meal Kits,11/23/2025,28
+888,Coconut Water,2.49,41,Food - Beverages,2/16/2025,2797
+889,Chili Lime Corn Chips,2.79,2372,Food - Snacks,12/6/2025,604
+890,Casual Sneakers,39.99,98,Clothing - Footwear,3/26/2025,20
+891,LED Flashlight,19.99,413,Outdoor,2/19/2025,46
+892,Cat Tree with Scratching Posts,79.99,374,Pets,12/22/2024,
+893,Pasta (Fusilli),1.79,,Food - Pasta,12/16/2025,1160
+894,Car Escape Tool,12.99,8306,Automotive,11/6/2025,193
+895,Portable Pet Stroller,89.99,3635,Pets,7/6/2025,266
+896,Laptop Stand,29.99,272,Accessories,3/28/2025,22
+897,Spicy Tuna Rolls,6.49,427,Food - Seafood,12/5/2025,223
+898,Vintage Graphic Tee,25.99,1208,Clothing - Tops,7/4/2025,820
+899,Creamy Ranch Dressing,2.49,10,Food - Dressings,6/18/2025,705
+900,Stainless Steel Mixing Bowls,29.99,2653,Kitchen,8/27/2025,194
+901,Balsamic Vinegar,4.99,656,Food - Condiments,12/14/2025,70
+902,Stick Vacuums Cleaner,129.99,52,Home Appliances,12/8/2025,2581
+903,Kids' Building Blocks,19.99,7267,Toys,4/13/2025,54
+904,Comfortable Jogger Pants,29.99,,Clothing - Bottoms,11/18/2025,1325
+905,Coconut Curry Lentils,5.79,4184,Food - Canned Goods,1/25/2025,33
+906,Herbal Tea Variety Pack,4.99,5085,Food - Beverages,3/12/2025,17
+907,Slim Fit Chinos,54.99,82,Clothing - Pants,2/15/2025,26
+908,Outdoor Portable Fire Pit,149.99,670,Outdoor,9/16/2025,453
+909,Biodegradable Trash Bags,12.99,500,Home,1/20/2025,1335
+910,Home Brewing Starter Kit,79.99,11,Food,9/9/2025,1391
+911,Folding Pocket Knife,24.99,1382,Tools,1/21/2025,2582
+912,Savory Breakfast Sausage,6.49,46,Food - Meats,9/19/2025,42
+913,Fitness Tracker Band,29.99,,Fitness,4/8/2025,3294
+914,Teriyaki Beef Strips,7.49,,Food - Frozen Meals,8/26/2025,250
+915,Magnetic Whiteboard,34.99,309,Office,5/13/2025,39
+916,Sliced Olives,1.99,46,Food - Condiments,9/23/2025,571
+917,Compact Pop-Up Tent,69.99,4,Outdoor,2/14/2025,216
+918,Pumpkin Spice Creamer,3.79,75,Food - Beverages,7/6/2025,1054
+919,Electric Rice Cooker with Steamer,49.99,556,Kitchen,2/5/2025,2925
+920,Tea Infuser Bottle,19.99,19,Kitchen,7/31/2025,192
+921,Comfortable Jogger Pants,29.99,1266,Clothing - Bottoms,5/9/2025,45
+922,Plant-Based Protein Bars,19.99,65,Health,4/7/2025,623
+923,Granulated Sugar,2.49,1927,Food - Baking,10/27/2025,104
+924,Vegetable Stir Fry Mix,3.29,3100,Food - Fresh Produce,1/31/2025,15
+925,Children's Science Experiment Lab Kit,29.99,,Toys,11/24/2025,3228
+926,Smart Wi-Fi Camera,89.99,427,Smart Home,8/28/2025,472
+927,Breathable Face Mask Set,14.99,4,Health,6/1/2025,19
+928,Honey Wheat Pretzels,3.49,19,Food - Snacks,5/29/2025,213
+929,Graphic Tee,19.99,59,Clothing,3/23/2025,
+930,Apple Cinnamon Instant Oatmeal,3.49,0,Food - Cereal,3/16/2025,8
+931,DIY Organic Gardening Kit,39.99,1481,Garden,7/9/2025,80
+932,Maple Syrup,6.99,60,Food - Condiments,5/9/2025,256
+933,Cranberry Lime Sparkling Water,1.5,317,Food - Beverages,3/23/2025,1227
+934,Chiffon Blouse,39.99,1759,Clothing - Shirts,8/2/2025,889
+935,Safety Goggles,14.99,23,Safety,12/3/2025,48
+936,Board Game Storage,19.99,10,Toys,10/19/2025,101
+937,Portable Ice Maker,199.99,1633,Kitchen,11/17/2025,8136
+938,Leather Wallet,49.99,1605,Accessories,1/23/2025,2697
+939,Multifunctional Pocket Tool,19.99,5737,Tools,7/9/2025,59
+940,Terry Cloth Robe,59.99,160,Clothing - Loungewear,2/7/2025,82
+941,Pineapple Teriyaki Chicken Mix,6.99,794,Food - Meat,10/8/2025,39
+942,Electric Razor,59.99,2001,Health,2/22/2025,2413
+943,Air Fryer Oven,149.99,3,Kitchen,12/11/2025,622
+944,Cajun Seasoning,1.99,372,Food - Spices,1/22/2025,6193
+945,Eco-Friendly Notepad,8.99,47,Office,11/6/2025,1887
+946,Wooden Puzzle Game,14.99,65,Toys,12/8/2025,3720
+947,Basil Tomato Soup,2.99,6,Food - Canned Soups,11/9/2025,6388
+948,Black Bean & Corn Salad,3.99,68,Food - Salads,3/19/2025,492
+949,Coconut Cream Pie,9.49,1620,Food - Bakery,8/21/2025,257
+950,Chocolate Chip Pancake Mix,3.99,240,Food - Bakery,9/1/2025,444
+951,Warm Wool Sweater,59.99,5007,Clothing - Tops,12/28/2024,653
+952,Vegan Mac & Cheese,8.99,2133,Food - Frozen,10/29/2025,10
+953,Handcrafted Wooden Jewelry Box,39.99,1340,Accessories,1/18/2025,1549
+954,Acoustic Guitar,199.99,,Music,7/25/2025,190
+955,Grapes (red),3.49,100,Food - Produce,10/5/2025,29
+956,Italian Pasta,2.29,446,Food - Grains,6/30/2025,16
+957,Home Cleaning Robot,249.99,131,Home Appliances,10/1/2025,81
+958,Baked Falafel,5.49,2680,Food - Vegetarian,8/3/2025,9
+959,Compost Bin,29.99,166,Garden,10/16/2025,3707
+960,Chocolate Chip Cookie Dough,5.49,859,Food - Baking,9/28/2025,23
+961,Plant-Based Cookbook,29.99,1321,Books,4/13/2025,10
+962,Honey Roasted Chickpeas,3.29,1965,Food - Snacks,3/15/2025,897
+963,Sweet Potatoes,0.89,169,Food - Produce,12/12/2025,31
+964,Crispy Potato Tots,3.69,705,Food - Frozen Foods,10/12/2025,2927
+965,Stainless Steel Mixing Bowls,29.99,13,Kitchen,12/5/2025,2351
+966,Creamy Tomato Basil Soup,3.29,1616,Food - Canned Goods,3/9/2025,734
+967,Granola Cereal,4.49,,Food - Breakfast,11/3/2025,1317
+968,Mango Sticky Rice Dessert,4.5,24,Food - Frozen Desserts,7/30/2025,
+969,Cocktail Shaker Set,29.99,5159,Kitchen,4/8/2025,
+970,Cauliflower Pizza Crust,5.99,11,Food - Frozen Foods,4/16/2025,217
+971,Honey Butter Popcorn,2.99,1168,Food - Snacks,7/2/2025,56
+972,Inspirational Wall Art,24.99,1204,Home,5/27/2025,1765
+973,Digital Drawing Tablet,79.99,569,Art Supplies,4/27/2025,109
+974,Savory Oatmeal,2.49,2527,Food - Breakfast,2/8/2025,2381
+975,Almond Flour Bread Mix,4.89,12,Food - Baking,9/3/2025,192
+976,Outdoor String Lights,24.99,434,Outdoor,12/23/2024,33
+977,Fettuccine Alfredo Dinner Kit,5.49,43,Food - Prepared Meals,5/8/2025,50
+978,Non-Stick Baking Sheets,29.99,814,Kitchen,9/11/2025,23
+979,Vanilla Protein Powder,24.99,1462,Food - Health/Protein,10/18/2025,540
+980,Insulated Lunch Box,24.99,32,Kitchen,9/10/2025,288
+981,Outdoor Picnic Blanket,34.99,5446,Outdoor,2/18/2025,659
+982,Cinnamon Rolls,4.49,191,Food - Bakery,9/13/2025,45
+983,Sustainable Wooden Toys,29.99,33,Toys,5/23/2025,3755
+984,Lentil Vegetable Stew,4.49,364,Food - Canned Soups,10/13/2025,724
+985,Foot Massager,79.99,,Health,9/21/2025,1249
+986,Spinach and Cheese Stuffed Shells,5.99,90,Food - Frozen Meals,6/16/2025,203
+987,Mashed Sweet Potatoes,3.99,27,Food - Sides,1/12/2025,46
+988,Portable Air Purifier,69.99,8,Health,5/9/2025,4825
+989,Pineapple Coconut Rice Mix,3.99,145,Food - Grains,3/7/2025,1667
+990,Kettle Chip Variety Pack,3.99,71,Food - Snacks,2/22/2025,2776
+991,Board Game,34.99,,Toys,2/24/2025,142
+992,Rechargeable Electric Screwdriver,39.99,905,Tools,4/11/2025,95
+993,White Rice,1.49,175,Food - Grains,12/23/2024,10
+994,Tahini,5.49,1674,Food - Condiments,3/10/2025,4
+995,Snack Container Set,19.99,20,Kitchen,5/2/2025,165
+996,Dog Car Seat Cover,39.99,230,Pets,3/4/2025,4776
+997,Vegetable and Cheese Quesadillas,6.99,137,Food - Frozen,3/8/2025,1521
+998,Banana Chips,1.99,,Food - Snacks,7/8/2025,640
+999,Oversized Denim Shirt,49.99,147,Clothing - Shirts,3/15/2025,0
+1000,Cranberry Almond Biscotti,4.19,20,Food - Bakery,2/16/2025,152
