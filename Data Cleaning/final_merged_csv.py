@@ -10,10 +10,13 @@ try:
 except FileNotFoundError:
     print("\nFailed to load datasets. Try again!")
 
+
+#VIEWING DATASET COLUMNS
 print("\nThe column names of Sales dataset : ", sales_df.columns)
 print("\nThe column names of  Reviews dataset : ", reviews_df.columns)
 
 
+#CLEANING AND STANDARDIZING COLUMN NAMES
 official_columns = {"product_id":["product_id", "productid", "item_id", "itemid", "sku", "sku_id", "product_code", "item_code"],
                     "product_name":["product_name", "item_name", "name", "product", "item"],
                     "price":["price", "unit_price", "selling_price", "cost", "amount", "mrp"],
@@ -25,6 +28,8 @@ official_columns = {"product_id":["product_id", "productid", "item_id", "itemid"
                     "review_text":["review_text", "review", "feedback", "comment", "customer_review", "description"],
                     "rating":["rating", "stars", "review_score", "score", "user_rating"]}
 
+
+#FUNCTION TO MAP COLUMNS BASED ON OFFICIAL NAMES
 def map_columns(df, mapping_dict):
     renamed_columns = {}
     for official_name, possible_names in mapping_dict.items():
@@ -34,24 +39,34 @@ def map_columns(df, mapping_dict):
                 break
     return df.rename(columns=renamed_columns)
 
+
+#MAPPING COLUMNS TO OFFICIAL NAMES
 sales_df = map_columns(sales_df, official_columns)
 reviews_df = map_columns(reviews_df, official_columns)
 
+
+#SELECTING RELEVANT COLUMNS AND CLEANING DATA
 sales_df = sales_df[[col for col in sales_df.columns if col in ["product_id", "product_name", 
                                                                 "price", "stock", "category", 
                                                                 "date", "units_sold"]]]
 reviews_df = reviews_df[[col for col in reviews_df.columns if col in ["product_id", "order_id",
                                                                       "review_text", "rating"]]]
 
+
+#CONVERTING DATA TYPES AND HANDLING MISSING VALUES
 for col in ["price", "units_sold", "stock", "rating"]:
     if col in sales_df.columns:
         sales_df[col] = pd.to_numeric(sales_df[col], errors="coerce")
     if col in reviews_df.columns:
         reviews_df[col] = pd.to_numeric(reviews_df[col], errors="coerce")
 
+
+#STRIPPING WHITESPACE FROM TEXT COLUMNS
 if "review_text" in reviews_df.columns:
     reviews_df["review_text"] = reviews_df["review_text"].astype(str).str.strip()
 
+
+#DEFINING MERGE KEY AND MERGING DATASETS
 if "order_id" in sales_df.columns and "order_id" in reviews_df.columns:
     merge_key = "order_id"
 elif "product_id" in sales_df.columns and "product_id" in reviews_df.columns:
@@ -61,7 +76,11 @@ else:
 
 final_df = pd.merge(sales_df, reviews_df, on=merge_key, how="left")
 
+
+#FINAL CLEANING
 final_df.drop_duplicates(inplace=True)
 final_df.fillna({"units_sold":0, "stock": 0, "review_score": 0}, inplace=True)
 
+
+#EXPORTING THE FINAL MERGED DATASET
 final_df.to_csv("final_merged_dataset.csv", index=False)
