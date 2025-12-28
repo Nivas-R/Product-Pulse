@@ -3,6 +3,8 @@
 ## Overview
 Product Pulse is a data-driven web application designed to analyze product performance by combining inventory data, pricing, ratings, reviews and sentiment insights. The project demonstrates how raw e-commerce data can be transformed into meaningful business intelligence using data analytics and visualization.
 
+#### [Live Application 💻](https://product-pulse-x3bw.onrender.com) 
+
 ## Problem Statement
 Online sellers often struggle to understand:
 - Which products perform well or poorly
